@@ -214,7 +214,7 @@
 
 | Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus |
 | :--- | :--- | :--- | :--- | :---: |
-| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | Verificar |
+| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | 🟢 **1.5T gasolina** |
 | **Cilindrada** | 2.0 L | 🟢 **1.995 cc** | 2.0 L | 1.500 cc |
 | **Potencia máxima** | 🟢 **169 hp** | 156 CV | 154 hp | 🟢 **178 hp** |
 | **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 🟢 **200 Nm** | 🟢 **253 Nm** |
@@ -225,16 +225,16 @@
 
 ---
 
-## 5. Consumo homologado AWD
+## 5. Consumo AWD de referencia
 
 | Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
 | :--- | :---: | :---: | :---: | :---: |
 | **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 11,1 km/l* |
 | **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 15,6 km/l* |
 | **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 12,6 km/l* |
-| **Ganador ciudad** | 2.º | 3.º | 🟢 1.º | 11,1 km/l* |
-| **Ganador carretera** | 2.º | 🟢 1.º | 3.º | 15,6 km/l* |
-| **Ganador mixto** | 3.º | 2.º | 🟢 1.º | 12,6 km/l* |
+| **Ranking ciudad** | 2.º (empate) | 4.º | 🟢 1.º | 2.º (empate) |
+| **Ranking carretera** | 2.º | 🟢 1.º | 3.º | 4.º |
+| **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 4.º |
 
 | Nota | Detalle |
 | :--- | :--- |
@@ -500,9 +500,6 @@
 
 ## 19. Fuentes oficiales utilizadas
 
-| **Hyundai Tucson 1.5T 4WD Plus** | https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/especificaciones-tecnicas/ |
-| **Hyundai Tucson precios** | https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/precios-y-financiamiento/ |
-
 | Fuente | URL |
 | :--- | :--- |
 | **Toyota RAV4 LE 2.0 AWD** | https://tienda.toyota.cl/index.php?controller=product&id_product=974&rewrite=all-new-rav4 |
@@ -513,13 +510,13 @@
 | **Subaru garantía/mantención** | https://www.subaru.cl/garantia-y-plan-de-mantencion |
 | **Mazda CX-5** | https://www.mazda.cl/vehiculo/mazda-cx-5 |
 | **Mazda ficha técnica** | https://www.mazda.cl/media/4p2pgyh4/mazda-ficha-cx-5-enero-2025-v1-b.pdf |
+| **Hyundai Tucson 1.5T 4WD Plus** | https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/especificaciones-tecnicas/ |
 | **SII tasación 2026** | https://www.sii.cl/destacados/tasacion_vehiculos/2026/index.html |
 | **SII UTM 2026** | https://www.sii.cl/valores_y_fechas/utm/utm2026.htm |
 
 ---
 
 ## 20. Notas metodológicas
-| **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento **11,1 / 15,6 / 12,6 km/l** se mantiene como referencia de mercado/concesionario y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE para el CIT exacto cuando esté disponible. |
 
 | **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6/12,6 km/l se conserva como referencia de mercado/concesionario y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
 
