@@ -2,9 +2,13 @@
 
 ## Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5
 
-> **Objetivo:** comparar estas tres SUV de forma útil para una decisión de compra en Chile, separando datos verificables de opiniones y evitando declarar un ganador absoluto cuando la respuesta depende del uso.
->
-> **Actualización de referencia:** octubre de 2026. Los precios, promociones, bonos, disponibilidad y equipamiento pueden cambiar; para una compra real se debe verificar la versión exacta y el concesionario.
+| Información | Detalle |
+| :--- | :--- |
+| **Objetivo** | Comparar las tres SUV de forma rápida y útil para una decisión de compra en Chile. |
+| **Fecha de referencia** | Octubre de 2026. |
+| **Leyenda** | 🟢 = mejor desempeño/ventaja destacada en esa fila. 🟡 = punto a vigilar. 🔴 = desventaja o riesgo relevante. |
+| **Criterio principal** | No existe un ganador absoluto: el resultado depende de uso, versión, precio final y costo total de propiedad. |
+| **Regla de comparación** | Siempre comparar la **versión exacta que realmente se compraría**, no mezclar equipamiento de versiones superiores. |
 
 ---
 
@@ -12,570 +16,436 @@
 
 | Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
 | :--- | :--- | :--- | :--- |
-| **Fortaleza principal** | Espacio, reputación de largo plazo y eficiencia de la versión 2.0 | AWD estándar, altura al suelo y desempeño en superficies de baja adherencia | Confort, calidad percibida y excelente equilibrio entre precio/equipamiento |
-| **Mejor para** | Uso mixto, familia, viajes y quien prioriza practicidad | Lluvia, ripio, nieve y caminos difíciles sin querer subir demasiado de tamaño | Ciudad + carretera, confort y experiencia de conducción |
-| **Motor base** | 2.0 gasolina, 169 hp | 2.0 Boxer, 156 CV | 2.0 gasolina, 154 hp |
-| **Caja** | CVT | Lineartronic CVT | Automática de 6 velocidades |
-| **Tracción base** | 4x2; AWD disponible | **AWD de serie** | 2WD; AWD disponible |
-| **Consumo mixto homologado aprox.** | **14,7 km/l** en 2.0 4x2 | **13,9 km/l** | **14,2 km/l** en 2.0 |
-| **Maletero base** | **514 L** | ~564 L* | **541 L** |
-| **Despeje** | Consultar según versión | ~220 mm* | 185–193 mm según versión |
-| **Garantía** | Ver condiciones de la unidad/campaña | 3 años/60.000 km + extensión de tren motriz hasta 5 años/100.000 km bajo condiciones | Ver condiciones vigentes de Mazda y versión |
-| **Riesgo a verificar antes de comprar** | Precio elevado y seguro/reventa dependen mucho de versión y zona | Motor 2.0 puede sentirse justo con carga; maletero y espacio deben probarse físicamente | Versiones superiores encarecen mucho el vehículo; revisar costo de seguro y mantención |
-| **Perfil de compra** | Racional/práctico | Aventurero/prioriza tracción | Confort/conducción/equipamiento |
+| **Fortaleza principal** | 🟢 Espacio, practicidad, eficiencia y reputación de largo plazo | 🟢 AWD estándar, despeje y desempeño en superficies de baja adherencia | 🟢 Confort, calidad percibida, manejo y caja automática convencional |
+| **Mejor perfil de uso** | 🟢 Uso mixto, familia, viajes y practicidad | 🟢 Lluvia, ripio, nieve y caminos difíciles | 🟢 Ciudad + carretera, confort y experiencia de conducción |
+| **Motor base** | 🟢 2.0 gasolina, 169 hp | 2.0 Boxer, 156 CV | 2.0 gasolina, 154 hp |
+| **Transmisión base** | CVT | Lineartronic CVT | 🟢 Automática de 6 velocidades |
+| **Tracción base** | 4x2; AWD disponible | 🟢 AWD de serie | 2WD; AWD disponible |
+| **Consumo mixto homologado aprox.** | 🟢 **14,7 km/l** en 2.0 4x2 | 13,9 km/l | 14,2 km/l en 2.0 |
+| **Maletero base** | 514 L | 🟢 ~564 L* | 541 L |
+| **Despeje** | 21,3–21,8 cm* | 🟢 ~22,0 cm* | 18,5–19,3 cm* |
+| **Garantía** | Consultar condiciones de la unidad/campaña | 3 años/60.000 km + extensión del tren motriz hasta 5 años/100.000 km bajo condiciones | Consultar condiciones vigentes |
+| **Principal punto a vigilar** | 🔴 Precio y seguro pueden variar mucho según versión y zona | 🟡 Motor 2.0 puede sentirse justo con carga | 🟡 Versiones superiores aumentan bastante el precio |
+| **Perfil general** | 🟢 Más racional/práctico | 🟢 Más orientado a tracción | 🟢 Más orientado a confort/manejo |
 
-\* El dato exacto de capacidad y despeje debe verificarse en la ficha técnica de la versión chilena que se vaya a comprar; no mezclar cifras de otros mercados o años.
+| Nota | Detalle |
+| :--- | :--- |
+| ***** | Las cifras de maletero/despeje deben verificarse en la ficha técnica de la versión chilena exacta. No mezclar cifras de otros mercados, años o carrocerías. |
 
 ---
 
-## 2. Comparación normalizada de versiones base
-
-Para evitar una comparación engañosa, esta tabla usa una versión de entrada representativa de cada modelo y separa las gamas superiores.
+## 2. Comparación de versiones base
 
 | Dato | Toyota RAV4 LE 2.0 4x2 | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 2WD 6AT |
 | :--- | :--- | :--- | :--- |
-| **Precio lista de referencia** | $28.990.000 | $25.990.000 | $24.990.000 |
+| **Precio lista de referencia** | $28.990.000 | 🟢 $25.990.000 | $24.990.000 |
 | **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina |
-| **Potencia** | 169 hp | 156 CV | 154 hp |
-| **Torque** | Ver ficha de versión | Ver ficha de versión | 200 Nm |
-| **Transmisión** | CVT | Lineartronic CVT | 6AT |
-| **Tracción** | 4x2 | **AWD** | 2WD |
-| **Consumo mixto** | **14,7 km/l** | 13,9 km/l | 14,2 km/l |
+| **Potencia** | 🟢 169 hp | 156 CV | 154 hp |
+| **Torque** | Ver ficha exacta | Ver ficha exacta | 🟢 200 Nm |
+| **Transmisión** | CVT | Lineartronic CVT | 🟢 6AT |
+| **Tracción** | 4x2 | 🟢 AWD | 2WD |
+| **Consumo mixto** | 🟢 14,7 km/l | 13,9 km/l | 14,2 km/l |
 | **Airbags** | 7 | Ver versión exacta | 6 |
-| **Seguridad activa** | Toyota Safety Sense + cámara/sensores según versión | EyeSight según versión | i-Activsense según versión |
-| **Maletero** | **514 L** | ~564 L* | **541 L** |
+| **Seguridad activa** | Toyota Safety Sense según versión | EyeSight según versión | i-Activsense según versión |
+| **Maletero** | 514 L | 🟢 ~564 L* | 541 L |
 | **Pantalla/equipamiento multimedia** | Depende de versión | Depende de versión | Depende de versión |
+| **Lectura rápida** | 🟢 Más potencia + consumo | 🟢 AWD de serie | 🟢 Caja AT + relación precio/equipamiento |
 
-### Importante
-
-Los precios promocionales no deben usarse como precio de comparación sin anotar **cómo se obtiene el bono**. Un precio “desde” puede exigir financiamiento, pie mínimo, seguro asociado o una campaña con vigencia limitada.
-
----
-
-## 3. Tamaño y practicidad
-
-No basta con comparar litros de maletero. Antes de comprar, medir/probar:
-
-- Ancho útil del maletero entre pasos de rueda.
-- Altura de apertura del portalón.
-- Profundidad hasta los respaldos.
-- Altura del borde de carga.
-- Si entran las cosas que realmente se transportarán.
-- Espacio para las piernas de los pasajeros traseros con el asiento delantero ajustado.
-- Ancho del asiento trasero para tres ocupantes.
-- Cantidad y tamaño de portavasos, bolsillos y compartimentos.
-- Posición del piso del maletero y existencia de doble fondo.
-- Acceso al neumático de repuesto o kit de reparación.
-- Anclajes ISOFIX y espacio alrededor de ellos, si se utilizarán.
-
-**Corrección importante:** la versión actual de RAV4 consultada por Toyota Chile indica 514 L con los asientos traseros en posición normal. Por lo tanto, la cifra anterior de 1.062 L como capacidad normal del maletero no debe mantenerse en esta comparativa.
+| Advertencia | Detalle |
+| :--- | :--- |
+| **Precio promocional** | Un precio “desde” no debe compararse sin indicar bono, financiamiento, pie mínimo, seguro asociado y vigencia de la promoción. |
 
 ---
 
-## 4. Uso en ciudad
+## 3. Dimensiones, habitabilidad y practicidad
 
-Evaluar:
-
-### RAV4
-- Tamaño exterior y radio de giro.
-- Visibilidad delantera y trasera.
-- Sensores/cámara de estacionamiento.
-- Facilidad para estacionar en espacios estrechos.
-- Consumo urbano real, no solo homologado.
-
-### Crosstrek
-- Tamaño más fácil de manejar en ciudad.
-- AWD permanente: ventaja de tracción, pero no necesariamente de consumo.
-- Suspensión y altura al suelo favorables para lomos, hoyos y caminos malos.
-- Probar la respuesta del motor 2.0 al incorporarse a vías rápidas.
-
-### CX-5
-- Muy buen compromiso entre tamaño, comodidad y manejo.
-- La dirección y respuesta de la caja deben probarse en tráfico real.
-- Revisar visibilidad posterior y necesidad de sensores/cámara 360 según versión.
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Espacio general** | 🟢 SUV compacta amplia | Más compacta | 🟢 Buen compromiso entre tamaño y habitabilidad |
+| **Maletero con asientos arriba** | 514 L | 🟢 ~564 L* | 541 L |
+| **Maletero con asientos abatidos** | Ver ficha de versión | Ver ficha de versión | Ver ficha de versión |
+| **Piernas pasajeros traseros** | 96,0 cm* | 92,7 cm* | 🟢 100,6 cm* |
+| **Ancho de segunda fila** | 🟢 Mayor sensación de amplitud | Más acotado | 🟢 Cómodo para dos adultos |
+| **Facilidad de carga** | 🟢 Buena | Buena | Buena |
+| **Aptitud para viajes familiares** | 🟢 Muy buena | Buena | 🟢 Muy buena |
+| **Facilidad de estacionamiento** | Correcta | 🟢 Más fácil por tamaño | Correcta |
 
 ---
 
-## 5. Uso en carretera
+## 4. Uso urbano
 
-Aquí conviene evaluar cosas que las fichas técnicas no muestran bien:
+| Aspecto | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Maniobrabilidad** | Buena | 🟢 Muy buena | Buena |
+| **Tamaño para estacionamiento** | Más grande | 🟢 Más fácil de ubicar | Intermedio |
+| **Visibilidad** | Buena | 🟢 Muy buena | Buena |
+| **Hoyos/lomos** | 🟢 Buen despeje | 🟢 Muy buen despeje | Más sensible por menor despeje |
+| **Consumo urbano** | 🟢 Favorable para su tamaño* | Bueno | Bueno |
+| **Confort en tráfico** | Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno |
+| **Cámara/sensores** | Según versión | Según versión | Según versión |
+| **Conclusión urbana** | 🟢 Muy equilibrada | 🟢 Más fácil de manejar | 🟢 Más orientada al confort |
 
-- Recuperación desde 60–100 km/h.
-- Adelantamientos desde 80–120 km/h.
-- Comportamiento con 4–5 ocupantes y equipaje.
-- Ruido de viento y neumáticos a 100–120 km/h.
-- Estabilidad con viento lateral.
-- Calidad del control crucero adaptativo.
-- Funcionamiento real del mantenimiento de carril.
-- Comodidad del asiento después de 1–2 horas.
-- Fatiga que produce la posición de conducción.
-- Calidad de iluminación nocturna.
-- Frenada en frío y en mojado.
+---
 
-**Regla práctica:** una SUV que se siente “rápida” sola puede sentirse muy diferente cargada. Hacer una prueba con dos personas y, si es posible, simular carga antes de decidir.
+## 5. Carretera y viajes largos
+
+| Aspecto | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Potencia base** | 🟢 169 hp | 156 CV | 154 hp |
+| **Adelantamientos cargado** | 🟢 Mejor margen de potencia base | 🟡 Conviene probar con carga | 🟡 2.0 puede sentirse justo |
+| **Estabilidad** | 🟢 Muy buena | Muy buena | 🟢 Muy buena |
+| **Confort de suspensión** | Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno |
+| **Ruido a velocidad de carretera** | 🟡 Conviene probar | Bueno | 🟢 Buen aislamiento |
+| **Control crucero adaptativo** | Según versión | Según versión | Según versión |
+| **Mantenimiento de carril** | Según versión | Según versión | Según versión |
+| **Asiento para viaje largo** | Muy bueno | Muy bueno | 🟢 Excelente según ergonomía |
+| **Viajes con 4–5 ocupantes** | 🟢 Muy bueno | Bueno | 🟢 Muy bueno |
 
 ---
 
 ## 6. Lluvia, ripio, nieve y caminos del sur
 
-Aquí el orden de importancia debería ser:
-
-1. Neumáticos.
-2. Control de estabilidad y ABS.
-3. Tracción.
-4. Despeje al suelo.
-5. Calidad de suspensión.
-6. Protección de bajos.
-7. Modos de conducción.
-8. Ayudas para descenso/subida.
-
-**AWD no convierte por sí solo al vehículo en un todoterreno.** Un vehículo AWD con neumáticos inadecuados puede rendir peor que uno 2WD con buenos neumáticos en determinadas superficies.
-
-### Ventaja conceptual
-
-- **Crosstrek:** AWD estándar y mayor altura libre al suelo lo hacen especialmente interesante para caminos de baja adherencia.
-- **RAV4:** buen equilibrio entre uso diario, carretera y capacidad, con AWD disponible.
-- **CX-5:** muy competente en carretera y caminos malos, pero su menor despeje en algunas versiones hace más importante elegir la versión adecuada.
-
----
-
-## 7. Motor, caja y sensación de manejo
-
-No comparar solamente hp.
-
-También mirar:
-
-- **Torque y régimen donde aparece.**
-- Peso del vehículo.
-- Respuesta del acelerador.
-- Recuperación.
-- Comportamiento en pendientes.
-- Respuesta con aire acondicionado.
-- Sensación de la caja en adelantamientos.
-- Ruido del motor.
-- Ruido de transmisión.
-- Frenado motor en bajadas.
-- Comportamiento a baja velocidad.
-- Temperatura y esfuerzo bajo carga.
-
-### Característica distintiva
-
-**RAV4 2.0:** más potencia nominal que los motores base de Crosstrek y CX-5, con buen consumo homologado.
-
-**Crosstrek 2.0:** 156 CV, pero su argumento principal no es la potencia; es la combinación de Boxer + AWD + despeje.
-
-**CX-5 2.0:** 154 hp, pero usa una automática convencional de 6 velocidades. Si se desea más desempeño, la gama ofrece 2.5 y 2.5 Turbo.
-
----
-
-## 8. Consumo: cómo compararlo de verdad
-
-No usar solamente km/l homologados.
-
-Registrar durante una semana/mes:
-
-**Costo mensual de combustible = km mensuales ÷ km/l reales × precio del litro**
-
-Y después calcular:
-
-**Costo anual = costo mensual × 12**
-
-El consumo real debe compararse en tres escenarios:
-
-| Escenario | Qué medir |
-| :--- | :--- |
-| Ciudad | Tráfico, semáforos, trayectos cortos |
-| Carretera | 90–120 km/h |
-| Mixto real | Tu distribución habitual |
-
-También considerar que AWD, neumáticos grandes, carga y conducción en invierno pueden modificar bastante el consumo.
-
----
-
-## 9. Costo total de propiedad (TCO)
-
-Este debería ser uno de los criterios con mayor peso.
-
-### Incluir durante 5 años
-
-- Precio de compra.
-- Patente / permiso de circulación.
-- Seguro automotriz.
-- Deducible del seguro.
-- Combustible.
-- Mantenciones programadas.
-- Pastillas y discos.
-- Neumáticos.
-- Batería de 12 V.
-- Repuestos de desgaste.
-- Alineación y balanceo.
-- Accesorios.
-- Lavados y cuidado.
-- Reparaciones fuera de garantía.
-- Costo financiero si existe crédito.
-- Pérdida de valor/depreciación.
-- Precio de reventa.
-
-### Fórmula útil
-
-**Costo real de propiedad ≈ compra + financiamiento + combustible + seguro + patente + mantenciones + desgaste + reparaciones − precio de venta futura**
-
-La depreciación es especialmente importante: un vehículo $2–3 millones más barato no necesariamente termina siendo más barato después de cinco años.
-
----
-
-## 10. Seguro: dejar de usar “alto/medio/bajo” sin cotizar
-
-El seguro depende del conductor, comuna, versión, año, valor comercial, deducible y perfil de riesgo.
-
-Antes de decidir, pedir cotización para las **tres versiones exactas** y comparar:
-
-- Prima mensual/anual.
-- Deducible.
-- Cobertura por robo.
-- Pérdida total.
-- Daños propios.
-- Cristales.
-- Asistencia en ruta.
-- Vehículo de reemplazo.
-- Cobertura territorial.
-- Valor de indemnización.
-- Sistema de rastreo o requisitos antirrobo.
-- Restricciones de talleres.
-
-**Este dato puede cambiar el ranking completo.**
-
----
-
-## 11. Mantención y postventa
-
-No mirar solo “cuánto cuesta una mantención”.
-
-Comparar:
-
-| Factor | Qué preguntar |
-| :--- | :--- |
-| Intervalo | ¿Cada cuántos km/meses? |
-| Precio | 10k / 20k / 30k / 40k / 60k / 100k |
-| Mano de obra | Precio hora |
-| Repuestos | Originales vs equivalentes |
-| CVT/AT | ¿Qué mantenimiento exige la transmisión? |
-| AWD | ¿Tiene fluidos/diferenciales adicionales? |
-| Frenos | Precio delantero/trasero |
-| Neumáticos | Medida y precio de reemplazo |
-| Batería | Precio y disponibilidad |
-| Taller | Distancia y disponibilidad de horas |
-| Repuestos | Stock local o importación |
-| Garantía | Qué cubre realmente cada año |
-
-**Subaru Chile:** actualmente publicita una cobertura de vehículo nuevo de 3 años/60.000 km y una extensión de hasta 5 años/100.000 km para el tren de potencia, bajo las condiciones y mantenciones exigidas por la marca. También señala un plan de mantenimiento cada 15.000 km. Esto es distinto de decir simplemente “garantía 5 años/100.000 km” para todo el automóvil.
-
-**Toyota:** Toyota Chile publica servicios de mantención específicos para RAV4 y también para el RAV4 híbrido; conviene pedir el plan correspondiente al año/modelo exacto.
-
----
-
-## 12. Postventa en tu ciudad
-
-Este punto merece una categoría propia.
-
-Antes de comprar, comprobar:
-
-- ¿Existe concesionario oficial de la marca cerca?
-- ¿Dónde se hacen las mantenciones?
-- ¿Cuánto demora conseguir hora?
-- ¿Hay repuestos de desgaste en stock?
-- ¿Cuánto demora un parabrisas?
-- ¿Cuánto demora un faro?
-- ¿Qué pasa con un sensor ADAS dañado?
-- ¿Qué pasa con una cámara o radar?
-- ¿Dónde se calibra el sistema de asistencia después de cambiar parabrisas?
-
-Una buena marca con mala disponibilidad local puede ser más incómoda de mantener que una marca algo más cara pero con mejor soporte.
-
----
-
-## 13. Seguridad: comparar sistemas, no solo cantidad de airbags
-
-Crear una matriz por versión:
-
-| Sistema | RAV4 | Crosstrek | CX-5 |
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
 | :--- | :--- | :--- | :--- |
-| Frenado automático de emergencia | ✓ según versión | ✓ según versión | ✓ según versión |
-| Control crucero adaptativo | ✓ según versión | ✓ según versión | ✓ según versión |
-| Centrado/mantenimiento de carril | ✓ según versión | ✓ según versión | ✓ según versión |
-| Monitor de punto ciego | ✓ según versión | ✓ según versión | ✓ según versión |
-| Alerta tráfico cruzado trasero | ✓ según versión | ✓ según versión | ✓ según versión |
-| Cámara trasera | ✓ | ✓ | ✓ |
-| Cámara 360° | según versión | según versión | según versión |
-| Sensores estacionamiento | según versión | según versión | según versión |
-| ISOFIX | ✓ | ✓ | ✓ |
-| Airbags | **7 en versión consultada** | 7–9 según versión/equipamiento | **6 en la gama consultada** |
+| **AWD de serie** | No | 🟢 Sí | No |
+| **Despeje** | 🟢 Alto | 🟢 Muy alto | Menor |
+| **Control de estabilidad/ABS** | Sí | Sí | Sí |
+| **Capacidad sobre ripio** | 🟢 Muy buena | 🟢 Excelente | Buena |
+| **Superficies de baja adherencia** | Muy buena con AWD | 🟢 Excelente por AWD estándar | Buena con AWD |
+| **Protección de bajos** | Ver versión | 🟢 Orientada a caminos malos | Más orientada a carretera |
+| **Modos de conducción** | Según versión | Según versión | Según versión |
+| **Mejor perfil para sur/lluvia** | 🟢 Muy equilibrado | 🟢 Más especializado | Bueno |
+| **Observación clave** | AWD debe seleccionarse | 🟢 AWD viene de serie | AWD depende de versión |
 
-No basta con que una marca diga “sistema de seguridad avanzado”. Hay que comprobar **qué incluye la versión exacta**.
+| Principio | Detalle |
+| :--- | :--- |
+| **AWD ≠ todoterreno** | Un AWD con neumáticos deficientes puede rendir peor sobre ciertas superficies que un 2WD con buenos neumáticos. |
+| **Neumáticos** | En lluvia, ripio y nieve pueden influir tanto o más que pequeñas diferencias de potencia. |
+
+---
+
+## 7. Motor, transmisión y conducción
+
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Potencia base** | 🟢 169 hp | 156 CV | 154 hp |
+| **Respuesta urbana** | Buena | Buena | 🟢 Buena |
+| **Respuesta con carga** | 🟢 Mejor margen base | 🟡 Probar antes de decidir | 🟡 Probar especialmente 2.0 |
+| **Caja automática** | CVT | CVT | 🟢 6AT |
+| **Sensación de cambios** | Suave | Suave | 🟢 Más convencional |
+| **Motor bajo carga** | 🟢 Buen equilibrio | 🟡 Puede sentirse más justo | 🟡 2.0 puede sentirse justo |
+| **Frenado motor** | Moderado | Bueno | 🟢 Bueno |
+| **Alternativa de mayor desempeño** | Depende de gama | Versiones superiores/alternativas | 🟢 2.5 y 2.5 Turbo |
+| **Carácter de conducción** | Racional | 🟢 Seguro/estable | 🟢 Más entretenido |
+
+---
+
+## 8. Consumo y costo de combustible
+
+| Indicador | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Consumo mixto homologado** | 🟢 14,7 km/l | 13,9 km/l | 14,2 km/l |
+| **Ciudad real** | Depende del uso | Depende del uso | Depende del uso |
+| **Carretera real** | Depende del uso | Depende del uso | Depende del uso |
+| **Impacto AWD** | Mayor cuando la versión lo equipa | 🟡 AWD permanente influye en consumo | Mayor cuando la versión lo equipa |
+| **Impacto neumáticos grandes** | Puede ser relevante | Puede ser relevante | Puede ser relevante |
+| **Impacto invierno** | Relevante | Relevante | Relevante |
+
+| Cálculo | Fórmula |
+| :--- | :--- |
+| **Costo mensual combustible** | km mensuales ÷ km/l reales × precio del litro |
+| **Costo anual combustible** | costo mensual × 12 |
+| **Mejor práctica** | Medir ciudad + carretera + mixto real y repetir con neumáticos/carga habituales. |
+
+---
+
+## 9. Costo total de propiedad a 5 años (TCO)
+
+| Componente | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Precio de compra** | 🟡 Alto | 🟢 Competitivo | 🟢 Competitivo en versiones de entrada |
+| **Combustible** | 🟢 Favorable | Bueno | 🟢 Favorable |
+| **Seguro** | 🟡 Cotizar versión exacta | 🟢 Cotizar; puede resultar competitivo | 🟡 Cotizar versión exacta |
+| **Patente/permisos** | Depende del valor fiscal | Depende del valor fiscal | Depende del valor fiscal |
+| **Mantención** | 🟢 Costos y disponibilidad a investigar | 🟡 Puede ser mayor por especificidad AWD/Boxer | 🟡 Puede ser mayor en repuestos originales |
+| **Neumáticos** | Depende de medida | Depende de medida | Depende de medida |
+| **Frenos/desgaste** | Depende del uso | Depende del uso | Depende del uso |
+| **Reparaciones fuera de garantía** | 🟢 Riesgo potencialmente favorable | 🟡 Depende de disponibilidad | 🟡 Depende de disponibilidad |
+| **Depreciación** | 🟢 Históricamente fuerte, pero verificar mercado | Buena, verificar mercado | Buena, verificar mercado |
+| **TCO estimado** | **Calcular** | **Calcular** | **Calcular** |
+
+| Fórmula TCO | Cálculo |
+| :--- | :--- |
+| **Costo real de propiedad** | compra + financiamiento + combustible + seguro + patente + mantenciones + desgaste + reparaciones − precio de venta futura |
+
+---
+
+## 10. Seguro y riesgo de robo
+
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Prima anual** | Cotizar | Cotizar | Cotizar |
+| **Deducible** | Cotizar | Cotizar | Cotizar |
+| **Cobertura por robo** | Cotizar | Cotizar | Cotizar |
+| **Pérdida total** | Cotizar | Cotizar | Cotizar |
+| **Daños propios** | Cotizar | Cotizar | Cotizar |
+| **Cristales** | Cotizar | Cotizar | Cotizar |
+| **Asistencia en ruta** | Cotizar | Cotizar | Cotizar |
+| **Vehículo de reemplazo** | Cotizar | Cotizar | Cotizar |
+| **Restricciones de taller** | Cotizar | Cotizar | Cotizar |
+| **Riesgo de robo en Chile** | 🟡 Verificar con aseguradoras y estadísticas actuales | 🟢 Verificar con aseguradoras | 🟡 Verificar con aseguradoras |
+
+| Regla | Detalle |
+| :--- | :--- |
+| **No usar “alto/medio/bajo” sin cotizar** | El seguro depende de versión, comuna, conductor, año, valor comercial, deducible y compañía. |
+| **Dato decisivo** | Una diferencia importante de seguro puede cambiar completamente el ranking económico. |
+
+---
+
+## 11. Mantención, garantía y postventa
+
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Intervalo de mantención** | Ver plan exacto | 🟢 Publica mantenimiento programado cada 15.000 km | Ver plan exacto |
+| **Garantía vehículo** | Consultar unidad/campaña | 🟢 3 años/60.000 km + extensión de tren motriz hasta 5 años/100.000 km bajo condiciones | Consultar unidad/campaña |
+| **Costo mantención 10k** | Cotizar | Cotizar | Cotizar |
+| **Costo 20k** | Cotizar | Cotizar | Cotizar |
+| **Costo 30k** | Cotizar | Cotizar | Cotizar |
+| **Costo 40k** | Cotizar | Cotizar | Cotizar |
+| **Costo 60k** | Cotizar | Cotizar | Cotizar |
+| **Costo 100k** | Cotizar | Cotizar | Cotizar |
+| **Disponibilidad de repuestos** | 🟢 Verificar stock local | Verificar stock local | Verificar stock local |
+| **Costo de repuestos** | 🟢 Potencialmente favorable | 🟡 Medio/alto según pieza | 🟡 Medio/alto según pieza |
+| **Servicio técnico** | Verificar en ciudad | Verificar en ciudad | Verificar en ciudad |
+
+---
+
+## 12. Postventa local
+
+| Pregunta | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| ¿Concesionario oficial cercano? | ⬜ | ⬜ | ⬜ |
+| ¿Taller oficial disponible? | ⬜ | ⬜ | ⬜ |
+| ¿Cuántos días para obtener hora? | ⬜ | ⬜ | ⬜ |
+| ¿Repuestos de desgaste en stock? | ⬜ | ⬜ | ⬜ |
+| ¿Parabrisas disponible? | ⬜ | ⬜ | ⬜ |
+| ¿Faro disponible? | ⬜ | ⬜ | ⬜ |
+| ¿Sensores ADAS disponibles? | ⬜ | ⬜ | ⬜ |
+| ¿Cámara/radar disponible? | ⬜ | ⬜ | ⬜ |
+| ¿Calibración ADAS después de cambiar parabrisas? | ⬜ | ⬜ | ⬜ |
+| **Evaluación final de postventa local** | **/10** | **/10** | **/10** |
+
+---
+
+## 13. Seguridad activa
+
+| Sistema | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Frenado automático de emergencia** | ✓ según versión | ✓ según versión | ✓ según versión |
+| **Control crucero adaptativo** | ✓ según versión | ✓ según versión | ✓ según versión |
+| **Mantenimiento/centrado de carril** | ✓ según versión | ✓ según versión | ✓ según versión |
+| **Monitor de punto ciego** | ✓ según versión | ✓ según versión | ✓ según versión |
+| **Alerta tráfico cruzado trasero** | ✓ según versión | ✓ según versión | ✓ según versión |
+| **Cámara trasera** | ✓ | ✓ | ✓ |
+| **Cámara 360°** | Según versión | Según versión | Según versión |
+| **Sensores de estacionamiento** | Según versión | Según versión | Según versión |
+| **ISOFIX** | ✓ | ✓ | ✓ |
+| **Cantidad de airbags** | 7 en versión consultada | 7–9 según versión/equipamiento | 6 en gama consultada |
+| **Plataforma/estructura** | TNGA | 🟢 SGP | Skyactiv-Body |
+| **Lectura rápida** | 🟢 Muy buen paquete | 🟢 Muy buen paquete | 🟢 Muy buen paquete |
 
 ---
 
 ## 14. Tecnología y ergonomía
 
-Comparar durante una prueba de manejo:
-
-- Apple CarPlay inalámbrico.
-- Android Auto inalámbrico.
-- Calidad del micrófono.
-- Audio Bluetooth.
-- Cantidad de USB.
-- USB-C.
-- Carga inalámbrica.
-- Navegación.
-- Calidad y brillo de pantalla.
-- Tiempo de respuesta.
-- Botones físicos.
-- Volumen y climatización sin mirar la pantalla.
-- Calidad de cámara.
-- Cámara 360°.
-- Head-up display, si existe.
-- Actualizaciones de software.
-- Calidad de la aplicación móvil, si existe.
-
-**Importante:** una pantalla más grande no significa necesariamente mejor ergonomía.
+| Característica | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Apple CarPlay inalámbrico** | Según versión | Según versión | Según versión |
+| **Android Auto inalámbrico** | Según versión | Según versión | Según versión |
+| **USB-C** | Según versión | Según versión | Según versión |
+| **Carga inalámbrica** | Según versión | Según versión | Según versión |
+| **Pantalla** | 8–10,5" según versión | 7" + 11,6" según versión | 🟢 10,25" según versión |
+| **Calidad de cámara** | Según versión | Según versión | Según versión |
+| **Cámara 360°** | Según versión | Según versión | Según versión |
+| **HUD** | Según versión | Según versión | Según versión |
+| **Controles físicos** | 🟢 Buen equilibrio | 🟢 Buen equilibrio | 🟢 Muy buena ergonomía |
+| **Usabilidad en movimiento** | Buena | Buena | 🟢 Muy buena |
+| **Conclusión tecnológica** | Equilibrada | Funcional | 🟢 Ergonomía/manejo |
 
 ---
 
-## 15. Neumáticos: probablemente más importantes de lo que parece
+## 15. Neumáticos
 
-Anotar para cada versión:
-
-- Medida.
-- Índice de carga.
-- Índice de velocidad.
-- Tipo de neumático.
-- Precio de cuatro neumáticos.
-- Disponibilidad en Chile.
-- Existencia de alternativas equivalentes.
-- Precio de neumático de emergencia/repuesto.
-- Sensores TPMS.
-- Compatibilidad con cadenas si se necesitan.
-
-Para caminos con lluvia, ripio o nieve, este punto puede cambiar más el comportamiento real que una diferencia pequeña de potencia.
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Medida exacta** | Anotar versión | Anotar versión | Anotar versión |
+| **Índice de carga** | Anotar | Anotar | Anotar |
+| **Índice de velocidad** | Anotar | Anotar | Anotar |
+| **Precio de 4 neumáticos** | Cotizar | Cotizar | Cotizar |
+| **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar |
+| **Alternativas equivalentes** | Cotizar | Cotizar | Cotizar |
+| **TPMS** | ✓/versión | ✓/versión | ✓/versión |
+| **Cadenas** | Ver compatibilidad | Ver compatibilidad | Ver compatibilidad |
+| **Importancia para lluvia/ripio/nieve** | Alta | 🟢 Muy alta | Alta |
 
 ---
 
-## 16. Rueda de repuesto y vulnerabilidad ante pinchazos
+## 16. Rueda de repuesto y pinchazos
 
-Confirmar físicamente:
-
-- ¿Hay rueda de repuesto?
-- ¿Es normal o temporal?
-- ¿Dónde está?
-- ¿Hay gato y herramientas?
-- ¿Existe solo kit de reparación?
-- ¿Qué ocurre con un neumático lateralmente dañado?
-- ¿Puede la rueda de repuesto utilizarse en AWD sin restricciones?
-
-Para viajes largos, esto tiene más valor práctico de lo que suele aparecer en las fichas comerciales.
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Rueda de repuesto** | Ver versión | Ver versión | Ver versión |
+| **Tipo** | Normal/temporal/kit | Normal/temporal/kit | Normal/temporal/kit |
+| **Gato/herramientas** | Verificar | Verificar | Verificar |
+| **Kit de reparación** | Verificar | Verificar | Verificar |
+| **Compatibilidad de repuesto con AWD** | Verificar | Verificar | Verificar |
+| **Valor para viajes largos** | Alto | 🟢 Muy alto | Alto |
 
 ---
 
 ## 17. Remolque
 
-No usar una sola cifra genérica para toda la gama.
-
-Verificar para **la versión exacta**:
-
-- Remolque con freno.
-- Remolque sin freno.
-- Capacidad vertical sobre la bola.
-- Peso máximo combinado.
-- Homologación del enganche.
-- Disponibilidad de enganche original.
-- Compatibilidad con AWD/CVT.
-- Limitaciones de velocidad o carga.
-
-Si remolcar no es parte habitual del uso, este criterio debería tener peso bajo en la decisión.
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Remolque con freno** | Ver versión exacta | Ver versión exacta | Ver versión exacta |
+| **Remolque sin freno** | Ver versión exacta | Ver versión exacta | Ver versión exacta |
+| **Carga vertical en bola** | Verificar | Verificar | Verificar |
+| **Peso máximo combinado** | Verificar | Verificar | Verificar |
+| **Enganche original** | Verificar | Verificar | Verificar |
+| **Compatibilidad AWD/CVT** | Verificar | Verificar | Verificar |
+| **Importancia para la compra** | ⬜ Baja/Media/Alta | ⬜ Baja/Media/Alta | ⬜ Baja/Media/Alta |
 
 ---
 
 ## 18. Reventa y depreciación
 
-No basta con decir “Toyota tiene buena reventa”.
-
-Obtener datos concretos de mercado:
-
-- Precio de compra.
-- Precio de vehículos usados comparables de 1, 3 y 5 años.
-- Kilometraje.
-- Número de propietarios.
-- Accidentes.
-- Historial de mantenciones.
-- Diferencia entre versión base y tope.
-- Demanda de la versión específica.
-- Tiempo estimado para vender.
-
-Una versión cara con equipamiento muy específico puede depreciarse de manera diferente a la versión masiva.
+| Criterio | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Reputación de reventa** | 🟢 Fuerte | Buena | Buena |
+| **Precio usado 1 año** | Investigar | Investigar | Investigar |
+| **Precio usado 3 años** | Investigar | Investigar | Investigar |
+| **Precio usado 5 años** | Investigar | Investigar | Investigar |
+| **Demanda de versión concreta** | Investigar | Investigar | Investigar |
+| **Impacto del kilometraje** | Investigar | Investigar | Investigar |
+| **Tiempo estimado de venta** | Investigar | Investigar | Investigar |
+| **Depreciación estimada** | Calcular | Calcular | Calcular |
 
 ---
 
-## 19. Qué probar en una prueba de manejo
+## 19. Prueba de manejo
 
-### Antes de salir
-
-- Ajustar asiento y volante.
-- Sentarse atrás.
-- Abrir/cerrar portalón.
-- Probar maletero.
-- Revisar visibilidad.
-- Revisar espacio para las piernas.
-- Revisar posición de pedales.
-
-### Durante la conducción
-
-1. Salida desde cero.
-2. Frenada suave.
-3. Frenada más fuerte en un lugar seguro.
-4. Curvas lentas.
-5. Curvas rápidas dentro de los límites legales.
-6. Baches.
-7. Pendiente.
-8. Retroceso.
-9. Estacionamiento.
-10. Incorporación a una vía rápida.
-11. Adelantamiento simulado según condiciones seguras.
-12. Control crucero adaptativo.
-13. Mantenimiento de carril.
-14. Cámara/sensores.
-15. Ruido a velocidad de carretera.
-
-### Después
-
-Preguntarse:
-
-- ¿Me sentí cómodo?
-- ¿El motor me pareció suficiente?
-- ¿La caja me gustó?
-- ¿Me incomodó el ruido?
-- ¿La suspensión era demasiado dura/blanda?
-- ¿Los asistentes ayudan o molestan?
-- ¿Podría conducirlo dos horas sin cansarme?
+| Prueba | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :--- | :--- | :--- | :--- |
+| **Ajuste asiento/volante** | /10 | /10 | /10 |
+| **Visibilidad** | /10 | /10 | /10 |
+| **Salida desde cero** | /10 | /10 | /10 |
+| **Respuesta 60–100 km/h** | /10 | /10 | /10 |
+| **Respuesta 80–120 km/h** | /10 | /10 | /10 |
+| **Con carga** | /10 | /10 | /10 |
+| **Pendiente** | /10 | /10 | /10 |
+| **Frenada** | /10 | /10 | /10 |
+| **Curvas** | /10 | /10 | /10 |
+| **Baches** | /10 | /10 | /10 |
+| **Ruido de neumáticos** | /10 | /10 | /10 |
+| **Ruido de motor/transmisión** | /10 | /10 | /10 |
+| **Comodidad asiento** | /10 | /10 | /10 |
+| **ADAS** | /10 | /10 | /10 |
+| **Cámara/sensores** | /10 | /10 | /10 |
+| **Facilidad de estacionamiento** | /10 | /10 | /10 |
+| **Comodidad después de 2 h** | /10 | /10 | /10 |
 
 ---
 
-## 20. Ponderación recomendada
+## 20. Ponderación de decisión
 
-No asignar puntos iguales a todo.
-
-Una ponderación inicial razonable sería:
-
-| Categoría | Peso |
-| :--- | ---: |
-| Seguridad | **20%** |
-| Costo total de propiedad | **20%** |
-| Confiabilidad / postventa | **15%** |
-| Desempeño y conducción | **15%** |
-| Consumo | **10%** |
-| Espacio / practicidad | **10%** |
-| Tecnología / confort | **5%** |
-| Reventa | **5%** |
-| **Total** | **100%** |
-
-Luego ajustar los pesos según el uso real.
-
----
-
-## 21. Matriz de decisión final
-
-| Criterio | Peso | RAV4 | Crosstrek | CX-5 |
+| Categoría | Peso | RAV4 | Crosstrek | CX-5 |
 | :--- | ---: | :---: | :---: | :---: |
-| Seguridad | 20% | /10 | /10 | /10 |
-| Costo total 5 años | 20% | /10 | /10 | /10 |
-| Confiabilidad / postventa | 15% | /10 | /10 | /10 |
-| Desempeño / conducción | 15% | /10 | /10 | /10 |
-| Consumo | 10% | /10 | /10 | /10 |
-| Espacio / practicidad | 10% | /10 | /10 | /10 |
-| Tecnología / confort | 5% | /10 | /10 | /10 |
-| Reventa | 5% | /10 | /10 | /10 |
-| **Puntaje ponderado** | **100%** | **—** | **—** | **—** |
-
-**No rellenar esta tabla con opiniones genéricas.** Los puntajes deben salir de los datos y de una prueba de manejo.
+| **Seguridad** | 20% | /10 | /10 | /10 |
+| **Costo total de propiedad** | 20% | /10 | /10 | /10 |
+| **Confiabilidad/postventa** | 15% | /10 | /10 | /10 |
+| **Desempeño/conducción** | 15% | /10 | /10 | /10 |
+| **Consumo** | 10% | /10 | /10 | /10 |
+| **Espacio/practicidad** | 10% | /10 | /10 | /10 |
+| **Tecnología/confort** | 5% | /10 | /10 | /10 |
+| **Reventa** | 5% | /10 | /10 | /10 |
+| **Puntaje ponderado final** | **100%** | **—** | **—** | **—** |
 
 ---
 
-# 22. Preguntas que pueden cambiar completamente la decisión
+## 21. Preguntas personales que deben alimentar el ranking
 
-Antes de elegir, responder:
-
-- ¿Cuántos km se recorrerán al año?
-- ¿Qué porcentaje será ciudad/carretera/ripio?
-- ¿Se usará regularmente en lluvia intensa, nieve o barro?
-- ¿Cuántas personas viajarán normalmente?
-- ¿Se necesita mucho maletero?
-- ¿Se necesita AWD realmente o solo se considera “bueno tenerlo”?
-- ¿Habrá viajes largos frecuentes?
-- ¿Se transportarán bicicletas, equipamiento deportivo o mascotas?
-- ¿Se remolcará algo?
-- ¿Se estacionará en espacios estrechos?
-- ¿Cuál es el presupuesto máximo real incluyendo seguro y patente?
-- ¿Se comprará al contado o con crédito?
-- ¿Cuánto tiempo se piensa conservar?
-- ¿Qué valor se espera recuperar al vender?
-
----
-
-# 23. Mi lectura inicial de los tres
-
-### Toyota RAV4
-Es la opción que más sentido tiene cuando la prioridad es **equilibrio general, espacio, eficiencia y facilidad de propiedad**. La nueva RAV4 2026 debe compararse como generación actual y no con cifras de generaciones anteriores.
-
-### Subaru Crosstrek
-Es la opción más lógica cuando se valora especialmente **AWD estándar, despeje y comportamiento en lluvia/ripio/nieve**. La contrapartida es que el 2.0 no debe evaluarse solamente en vacío; hay que probarlo cargado y en pendientes.
-
-### Mazda CX-5
-Es probablemente la candidata más interesante cuando se prioriza **confort, calidad percibida, manejo y una caja automática convencional**, con una gama que permite subir bastante el desempeño mediante 2.5 y 2.5 Turbo.
-
-**Conclusión:** no hay un ganador universal. La decisión debería salir de la combinación de **costo total + uso real + versión exacta + prueba de manejo**.
+| Pregunta | Respuesta |
+| :--- | :--- |
+| **Km por año** | ⬜ |
+| **% ciudad** | ⬜ |
+| **% carretera** | ⬜ |
+| **% ripio/caminos malos** | ⬜ |
+| **Lluvia/nieve/barro frecuente** | ⬜ |
+| **Personas habituales** | ⬜ |
+| **Necesidad de maletero** | ⬜ |
+| **Necesidad real de AWD** | ⬜ |
+| **Viajes largos frecuentes** | ⬜ |
+| **Bicicletas/equipamiento deportivo** | ⬜ |
+| **Mascotas** | ⬜ |
+| **Necesidad de remolque** | ⬜ |
+| **Presupuesto máximo real** | ⬜ |
+| **Compra al contado/crédito** | ⬜ |
+| **Años previstos de propiedad** | ⬜ |
+| **Objetivo de reventa** | ⬜ |
 
 ---
 
-# 24. Datos que faltan completar antes de comprar
+## 22. Checklist de cotización antes de comprar
 
-Para convertir esta comparativa en una decisión casi objetiva, completar para la versión exacta:
-
-- [ ] Precio final al contado.
-- [ ] Precio con bono.
-- [ ] Condiciones para obtener el bono.
-- [ ] Impuesto verde.
-- [ ] Permiso de circulación estimado.
-- [ ] Seguro anual real de tres compañías.
-- [ ] Deducible.
-- [ ] Costo mantención 10k/20k/30k/40k/60k/100k.
-- [ ] Precio de cuatro neumáticos.
-- [ ] Precio de batería 12 V.
-- [ ] Precio de pastillas/discos.
-- [ ] Plazo de entrega.
-- [ ] Stock de repuestos.
-- [ ] Disponibilidad de servicio técnico local.
-- [ ] Garantía completa y garantía de tren motriz.
-- [ ] Equipamiento exacto de seguridad.
-- [ ] Cámara 360°.
-- [ ] Monitor de punto ciego.
-- [ ] Control crucero adaptativo.
-- [ ] Apple CarPlay / Android Auto inalámbricos.
-- [ ] ISOFIX.
-- [ ] Rueda de repuesto.
-- [ ] Capacidad real del maletero de la versión.
-- [ ] Medida y precio de neumáticos.
-- [ ] Capacidad de remolque de la versión.
-- [ ] Valor estimado de reventa a 3 y 5 años.
+| Dato | RAV4 | Crosstrek | CX-5 |
+| :--- | :---: | :---: | :---: |
+| Precio contado | ⬜ | ⬜ | ⬜ |
+| Precio con bono | ⬜ | ⬜ | ⬜ |
+| Condición del bono | ⬜ | ⬜ | ⬜ |
+| Financiamiento | ⬜ | ⬜ | ⬜ |
+| Impuesto verde | ⬜ | ⬜ | ⬜ |
+| Permiso de circulación | ⬜ | ⬜ | ⬜ |
+| Seguro anual | ⬜ | ⬜ | ⬜ |
+| Deducible | ⬜ | ⬜ | ⬜ |
+| Mantención 10k | ⬜ | ⬜ | ⬜ |
+| Mantención 20k | ⬜ | ⬜ | ⬜ |
+| Mantención 30k | ⬜ | ⬜ | ⬜ |
+| Mantención 40k | ⬜ | ⬜ | ⬜ |
+| Mantención 60k | ⬜ | ⬜ | ⬜ |
+| Mantención 100k | ⬜ | ⬜ | ⬜ |
+| 4 neumáticos | ⬜ | ⬜ | ⬜ |
+| Pastillas delanteras | ⬜ | ⬜ | ⬜ |
+| Pastillas traseras | ⬜ | ⬜ | ⬜ |
+| Disco delantero | ⬜ | ⬜ | ⬜ |
+| Batería 12 V | ⬜ | ⬜ | ⬜ |
+| Repuesto/parabrisas | ⬜ | ⬜ | ⬜ |
+| Disponibilidad de repuestos | ⬜ | ⬜ | ⬜ |
+| Servicio técnico local | ⬜ | ⬜ | ⬜ |
+| Garantía | ⬜ | ⬜ | ⬜ |
+| Cámara 360° | ⬜ | ⬜ | ⬜ |
+| Punto ciego | ⬜ | ⬜ | ⬜ |
+| ACC | ⬜ | ⬜ | ⬜ |
+| CarPlay inalámbrico | ⬜ | ⬜ | ⬜ |
+| Android Auto inalámbrico | ⬜ | ⬜ | ⬜ |
+| ISOFIX | ⬜ | ⬜ | ⬜ |
+| Rueda de repuesto | ⬜ | ⬜ | ⬜ |
+| Maletero real de la versión | ⬜ | ⬜ | ⬜ |
+| Medida/precio neumático | ⬜ | ⬜ | ⬜ |
+| Remolque homologado | ⬜ | ⬜ | ⬜ |
+| Reventa estimada 3 años | ⬜ | ⬜ | ⬜ |
+| Reventa estimada 5 años | ⬜ | ⬜ | ⬜ |
 
 ---
 
-# 25. Fuentes principales
+## 23. Fuentes
 
-- Toyota Chile — All New RAV4 gasolina: https://tienda.toyota.cl/index.php?controller=product&id_product=968&rewrite=all-new-rav4
-- Toyota Chile — All New RAV4: https://toyota.cl/modelos/suv/all-new-rav4-hibrido/
-- Toyota Chile — mantenciones RAV4: https://tienda.toyota.cl/index.php?controller=product&id_product=445&rewrite=mantencion-rav4
-- Subaru Chile — Crosstrek: https://www.subaru.cl/vehiculos/all-new-crosstrek/
-- Subaru Chile — garantía y mantenimiento: https://www.subaru.cl/garantia-y-plan-de-mantencion
-- Mazda Chile — CX-5: https://www.mazda.cl/vehiculo/mazda-cx-5
-- Mazda Chile — ficha técnica CX-5: https://www.mazda.cl/media/uivahs3j/mazda-ficha-cx-5-octubre-2025.pdf
-
-> **Nota metodológica:** las cifras de consumo provienen de homologaciones; no representan necesariamente el consumo real de cada conductor. Los precios/promociones son dinámicos. Para la decisión final, usar la ficha técnica y cotización de la versión exacta que efectivamente se pueda comprar.
+| Marca | Fuente |
+| :--- | :--- |
+| **Toyota** | https://tienda.toyota.cl/index.php?controller=product&id_product=968&rewrite=all-new-rav4 |
+| **Toyota** | https://toyota.cl/modelos/suv/all-new-rav4-hibrido/ |
+| **Toyota Mantenciones** | https://tienda.toyota.cl/index.php?controller=product&id_product=445&rewrite=mantencion-rav4 |
+| **Subaru** | https://www.subaru.cl/vehiculos/all-new-crosstrek/ |
+| **Subaru garantía/mantención** | https://www.subaru.cl/garantia-y-plan-de-mantencion |
+| **Mazda** | https://www.mazda.cl/vehiculo/mazda-cx-5 |
+| **Mazda ficha técnica** | https://www.mazda.cl/media/uivahs3j/mazda-ficha-cx-5-octubre-2025.pdf |
+| **Nota metodológica** | Las cifras homologadas no representan necesariamente el consumo real. Precios, promociones, equipamiento y disponibilidad son dinámicos. Para la compra final, usar la ficha técnica y cotización de la versión exacta. |
