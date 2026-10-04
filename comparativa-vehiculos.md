@@ -324,6 +324,30 @@
 
 ---
 
+## 10.1 Estabilidad en curvas y control de carrocería
+
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
+| :--- | :--- | :--- | :--- | :--- |
+| **Estabilidad en curvas** | 🟢 Muy buena | Muy buena | 🟢 **Excelente / referente del grupo** | 🟢 Muy buena |
+| **Control del balanceo** | 🟢 Mejorado en generación 2026 | Muy bueno, aunque con más recorrido de suspensión | 🟢 **Muy bueno** | 🟢 Muy bueno |
+| **Dirección en curvas** | Buena, orientada a seguridad | 🟢 Precisa y predecible | 🟢 **Precisa y comunicativa** | Buena, orientada al confort |
+| **Agarre en curva sobre pavimento seco** | 🟢 Muy bueno | Muy bueno | 🟢 **Excelente** | Muy bueno |
+| **Agarre en curva mojada** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno |
+| **Tendencia al subviraje al exigirlo** | 🟡 Presente de forma predecible | 🟡 Presente, como es habitual en un crossover alto | 🟢 **Más controlada** | 🟡 Presente de forma predecible |
+| **Cambios rápidos de trayectoria** | 🟢 Muy bueno | 🟢 Bueno/muy bueno | 🟢 **Muy bueno** | Muy bueno |
+| **Sensación general** | 🟢 Estable y segura | 🟢 Predecible y estable | 🟢 **La más orientada al manejo** | 🟢 Estable y confortable |
+| **Resultado preliminar** | **Muy fuerte** | **Muy fuerte** | 🟢 **Mejor candidata para manejo en curvas** | **Muy fuerte** |
+
+| Nota | Detalle |
+| :--- | :--- |
+| **Qué mide esta sección** | No es una prueba de conducción al límite. Resume arquitectura, control de carrocería, dirección y evaluaciones de manejo; el resultado definitivo debe validarse mediante prueba de manejo segura. |
+| **Contexto RAV4** | Toyota indica que la generación 2026 incorpora sistemas que trabajan sobre la postura de frenado y sincronizan pitch/roll durante las curvas para mejorar la respuesta al giro. |
+| **Contexto Crosstrek** | Subaru equipa ATV (Active Torque Vectoring) de serie y la plataforma SGP; pruebas independientes describen un comportamiento equilibrado y controlado, con buen control del balanceo. |
+| **Contexto CX-5** | Mazda destaca G-Vectoring Control Plus, y evaluaciones del CX-5 en Chile han destacado históricamente su aplomo, estabilidad en curvas y sensación de conducción similar a un automóvil. |
+| **Contexto Tucson** | Evaluaciones de la Tucson 2026 describen buen agarre y transferencia de peso controlada; sigue siendo una SUV orientada principalmente al confort. |
+
+---
+
 ## 10. Sistema AWD y conducción sobre baja adherencia
 
 | Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
