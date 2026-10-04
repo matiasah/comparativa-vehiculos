@@ -91,7 +91,7 @@
 | Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD |
 | :--- | :---: | :---: | :---: |
 | **Precio lista publicado** | **$29.990.000** | 🟢 **$25.990.000** | $27.490.000 |
-| **Precio web/campaña publicado** | $28.690.000 online* | $23.790.000* | 🟢 $25.190.000* |
+| **Precio web/promocional observado** | $28.690.000* | $23.790.000* | 🟢 $25.190.000* |
 | **Diferencia vs. lista más barata** | +$4.000.000 | 🟢 $0 | +$1.500.000 |
 | **Posición de precio** | 🔴 Más cara | 🟢 Más barata | Intermedia |
 | **Precio a usar para TCO** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** |
@@ -99,9 +99,9 @@
 | Nota | Detalle |
 | :--- | :--- |
 | ***** | Las páginas oficiales muestran bonos/campañas que pueden depender de financiamiento y vigencia. Para una compra en octubre de 2026, no asumir que una campaña anterior sigue vigente: pedir cotización escrita del día. |
-| **Toyota** | La tienda oficial publica lista $29.990.000; la misma ficha muestra precio online $28.690.000 y una promoción financiada con vigencia indicada hasta el 30/09/2026. |
-| **Subaru** | La página oficial publica lista $25.990.000 y campaña $23.790.000; los términos consultados indican vigencia de esa promoción hasta el 30/09/2026. |
-| **Mazda** | Mazda Chile publica lista $27.490.000 y precio desde $25.190.000 para Core 2.0 AWD. |
+| **Toyota** | La tienda oficial muestra lista $29.990.000 y ha mostrado precio online/promocional de $28.690.000; la promoción financiera encontrada vencía el 30/09/2026, por lo que debe confirmarse una campaña vigente al cotizar. |
+| **Subaru** | La página oficial muestra lista $25.990.000 y campaña $23.790.000; los términos encontrados indican vigencia hasta el 30/09/2026, por lo que **no debe tratarse como precio vigente al 4/10/2026 sin confirmación del concesionario**. |
+| **Mazda** | Mazda Chile muestra lista $27.490.000 y precio desde $25.190.000 para Core 2.0 AWD en la página vigente consultada; confirmar la campaña del día de compra. |
 
 ---
 
