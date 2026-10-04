@@ -2,7 +2,7 @@
 
 | Parámetro | Criterio |
 | :--- | :--- |
-| **Alcance** | **Solo versiones con tracción integral AWD/4x4.** Se excluyen de toda la comparativa las versiones 4x2/2WD, sus precios, consumos y equipamiento. |
+| **Alcance** | **Solo versiones con tracción integral AWD/4x4.** Toda la información comparativa corresponde exclusivamente a versiones AWD. |
 | **Fecha de referencia** | Octubre de 2026. |
 | **Cómo leerla** | 🟢 = mejor ventaja de esa fila. 🟡 = punto a vigilar. 🔴 = desventaja/riesgo relevante. |
 | **Regla de comparación** | Se priorizan versiones AWD de entrada para comparar vehículos equivalentes; las versiones AWD superiores se muestran aparte cuando aportan una diferencia relevante. |
