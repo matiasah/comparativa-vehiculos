@@ -1,0 +1,25 @@
+# **Comparativa Definitiva de Vehículos**
+
+# **Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5 (Bencina)**
+
+Resumen integral y unificado de especificaciones, precios, seguridad, costos y valoraciones en el mercado chileno. Los elementos destacados en verde señalan el mejor ítem o punto fuerte de cada vehículo por categoría.
+
+| Característica / Categoría | Toyota RAV4 | Subaru Crosstrek | Mazda CX-5 |
+| :---- | :---- | :---- | :---- |
+| **Clase de Vehículo** | SUV Crossover Compacto | SUV Crossover Subcompacto | SUV Crossover Compacto |
+| **Precio Inicial (Chile \- CLP)** | \~\$28.990.000 CLP (2.0 LE 4x2) – \$32.490.000 CLP (2.0 XLE 4x2) \[Promo financiamiento desde \~\$24.990.000\] | \~\$25.990.000 CLP (2.0i CVT) – \$32.590.000 CLP (2.0i Touring ES HK) | 🟢 **\~\$22.290.000 CLP (2.0 2WD Core)** – \$35.190.000 CLP (2.5T Signature AWD) |
+| **Opciones de Motor** | • 2.0L 4-Cil Bencina (🟢 **170 hp**) | • 2.0L 4-Cil Boxer Bencina (156 hp) | • 2.0L 4-Cil Bencina (154 hp) • 2.5L Bencina (188 hp) • 2.5L Turbo (227 hp) \[🟢 **caja automática tradicional no-CVT**\] |
+| **Tracción / AWD** | Tracción delantera (FWD) estándar; Tracción integral (AWD) disponible | 🟢 **Tracción integral Symmetrical AWD estándar en todas las versiones** | Tracción integral i-Activ AWD estándar en todas las versiones |
+| **Rendimiento de Combustible (Chile \- km/l)** | \~13.5 km/l Combinado (10.8 Ciudad / 15.8 Carretera) | \~13.9 km/l Combinado (11.0 Ciudad / 16.2 Carretera) | 🟢 **\~13.1 – 14.2 km/l Combinado** (Mejor eficiencia punta) |
+| **Despeje del Suelo** | 21,3 a 21,8 cm | 🟢 **22,1 cm** (23,6 cm en versión Wilderness) | 19,3 a 20,1 cm |
+| **Capacidad del Maletero** | 🟢 • **1.062 L (asientos levantados)** 🟢 • **1.977 L (asientos abatidos)** *(Máximo espacio de carga)* | • 564–589 L (asientos levantados) • 1.549–1.555 L (asientos abatidos) | • 872 L (asientos levantados) • 1.679 L (asientos abatidos) |
+| **Espacio para Piernas Trasero** | 96,0 cm | 92,7 cm | 🟢 **100,6 cm** *(Mayor comodidad para pasajeros traseros)* |
+| **Capacidad Máxima de Remolque** | 680 kg estándar (hasta 1.588 kg para Adventure/TRD) | 680 kg estándar (hasta 1.588 kg para Wilderness) | 🟢 **907 kg** *(Mayor capacidad de arrastre base)* |
+| **Pantalla de Infoentretenimiento** | 8,0 pulgadas estándar (10,5 pulgadas en versiones superiores) | Doble pantalla de 7,0 pulgadas (pantalla vertical de 11,6 pulgadas disponible) | 🟢 **Pantalla de 10,25 pulgadas estándar** |
+| **Sistema de Seguridad Activa** | Toyota Safety Sense 2.5 / 3.0 | Asistencia Subaru EyeSight | Tecnología i-Activesense |
+| **Seguridad Física y Pasiva** | • 7 Airbags de serie • Plataforma TNGA (alta rigidez) • 5 Estrellas Euro NCAP | 🟢 • **8 a 9 Airbags de serie** 🟢 • **Plataforma SGP (motor se desliza bajo el piso)** • 5 Estrellas Euro NCAP | • 6 Airbags de serie • Carrocería Skyactiv-Body (acero de alta resistencia) • 5 Estrellas Euro NCAP |
+| **Seguridad Anti-robo (Chile)** | • Inmovilizador y alarma. • Riesgo en Chile: 🔴 **Alto** (altamente cotizado por delincuentes, alto costo de seguro). | 🟢 • Inmovilizador Subaru Engine Immobilizer. 🟢 • Riesgo en Chile: **Moderado-Bajo** (seguro más accesible). | • Inmovilizador Skyactiv. • Alarma de fábrica. • Riesgo en Chile: 🟡 **Medio** (costo de seguro moderado). |
+| **Costos de Propiedad y Mantención (Chile)** | • Seguro: Alto (riesgo de robo) 🟢 • Mantención: **Económica / Accesible** 🟢 • Garantía: **5 años o 100.000 km** 🟢 • Repuestos: **Excelente disponibilidad y bajo costo** | 🟢 • Seguro: **Bajo / Moderado** • Mantención: Moderado (fluidos/bujías específicas) 🟢 • Garantía: **5 años o 100.000 km** • Repuestos: Costo medio-alto | • Seguro: Moderado • Mantención: Moderado • Garantía: 3 años o 100.000 km • Repuestos: Costo medio-alto |
+| **Pros según Reddit** | 🟢 • Confiabilidad e indestructibilidad a largo plazo. 🟢 • Maletero masivo. 🟢 • Alto valor de reventa. | 🟢 • Symmetrical AWD superior en nieve, barro y ripio. 🟢 • Confort de suspensión. 🟢 • Precisión de EyeSight. | 🟢 • Calidad de acabados e insonorización premium. 🟢 • Manejo ágil (caja AT tradicional). 🟢 • Excelente relación precio-equipamiento base. |
+| **Contras según Reddit** | • Aislamiento acústico y ruido de motor en cabina. • Plásticos duros. • Manejo aburrido (CVT). | • Maletero reducido (formato hatchback elevado). • Aceleración pausada en motor 2.0L. • Pantalla táctil vertical con algo de lag. | • Espacio trasero y maletero más acotados que en RAV4. • Control multimedia por perilla sin táctil en marcha. • Consumo urbano ligeramente superior. |
+| **Valoraciones Mercado Chileno** | • **Positivo:** Mantenimiento económico y altísima reventa local. • **Crítica:** Precios de lista elevados que exigen financiamiento; versión base austera. | • **Positivo:** Excelente desempeño en el sur de Chile (ripio, lluvia, barro). • **Crítica:** Motor 2.0L perezoso en cuestas cargado; maletero justo para familia. | • **Positivo:** Terminaciones un escalón por encima de marcas generalistas. • **Crítica:** Motor 2.0L justo en adelantamientos; repuestos originales caros. |
