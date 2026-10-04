@@ -1,73 +1,82 @@
-# Reglas y metodología utilizadas para construir esta comparativa
+# Prompt de auto-actualización de este documento
 
-| Regla / restricción | Aplicación |
-| :--- | :--- |
-| **Mercado objetivo** | Todos los precios, versiones, equipamiento, garantías, mantenciones y referencias de propiedad deben corresponder al **mercado chileno**, privilegiando fuentes oficiales de Chile. |
-| **Fecha de referencia** | La información dinámica se evalúa con referencia a **octubre de 2026**. Un precio o promoción anterior no se debe presentar como vigente sin confirmación. |
-| **Solo AWD / 4x4** | La comparativa principal incluye **exclusivamente versiones con tracción integral**. Se excluyen 4x2/2WD de las comparaciones de precio, consumo, equipamiento y desempeño. |
-| **Versión exacta antes que modelo genérico** | Cuando existe una diferencia de equipamiento, motor o transmisión entre versiones, se utiliza la **versión AWD exacta** y no una especificación genérica del modelo. |
-| **Puerta de entrada AWD** | La comparación principal intenta utilizar la **versión AWD de entrada** de cada modelo para evitar favorecer artificialmente a una marca comparando una versión superior contra una base. |
-| **Versiones superiores** | Las versiones superiores solo se incorporan cuando aportan una diferencia importante en seguridad, desempeño, tecnología, capacidad o costo. |
-| **Fuente prioritaria** | Orden de preferencia: **fabricante/concesionario oficial Chile → organismo público chileno → datos de mercado con metodología identificable → comunidad/experiencias de usuarios**. |
-| **Dato no verificable** | Si no existe una fuente suficientemente fiable, el valor se deja como **“cotizar”, “verificar”, “investigar” o “calcular”** en vez de inventar una cifra. |
-| **Precios promocionales** | Un precio “desde”, bono o precio financiado **no se considera equivalente al precio contado**. Debe registrarse la condición del bono, financiamiento, pie, seguro y vigencia. |
-| **Promociones vencidas** | Una campaña que ya expiró no se presenta como precio vigente; puede conservarse solo como referencia histórica. |
-| **Seguro** | No se asignan costos de seguro arbitrarios. Se debe cotizar la **misma versión AWD**, con condiciones comparables y, idealmente, varias compañías. |
-| **Permiso de circulación** | Se calcula con información de **SII y tasación fiscal**, no con una estimación genérica basada solamente en el precio de lista. |
-| **Impuesto verde** | Se utiliza el valor oficial disponible para la versión/unidad; cuando dependa de datos específicos, se deja como cálculo a confirmar en SII. |
-| **Consumo** | Se muestran datos **homologados** separados del consumo real. No se presenta una homologación como si fuera el consumo garantizado del usuario. |
-| **Baja utilización anual** | Para este caso particular, el consumo tiene menos peso económico que precio de compra, seguro, mantención y depreciación porque el vehículo tendrá un uso anual relativamente bajo. |
-| **Costo total de propiedad (TCO)** | La decisión económica debe considerar compra + financiamiento + combustible + seguro + permisos + mantenciones + desgaste + reparaciones − valor de reventa. |
-| **Depreciación** | “Buena reventa” no se acepta como hecho suficiente: idealmente se compara el valor de vehículos usados de edad/kilometraje similar. |
-| **Seguridad** | No se compara solo el número de airbags. Se revisan **ADAS, cámara, sensores, punto ciego, RCTA, ACC, mantenimiento de carril, plataforma y equipamiento por versión**. |
-| **AWD no equivale a todoterreno** | Tener AWD no implica tener reductora, bloqueo de diferencial ni capacidad de off-road severo. Se distingue entre AWD para adherencia y una 4x4 tradicional. |
-| **Neumáticos** | En lluvia, ripio y nieve se considera el neumático un componente crítico; AWD no compensa neumáticos inadecuados o desgastados. |
-| **Comparación de desempeño** | No se usa solo hp. Se consideran torque, transmisión, peso, respuesta con carga, pendientes y comportamiento real. |
-| **Prueba de manejo** | Las impresiones subjetivas deben validarse con una prueba de manejo y no transformarse en datos “objetivos”. |
-| **Postventa local** | Como el vehículo se utilizará principalmente en **Temuco**, se considera la disponibilidad de servicio técnico, repuestos y tiempos de atención en la zona. |
-| **Uso personalizado** | La ponderación se adapta al perfil declarado: uso diario urbano, viajes fuera de la ciudad ocasionales, primer vehículo y estacionamiento subterráneo. |
-| **Importancia del estacionamiento** | Ancho, radio de giro, visibilidad, cámara y sensores reciben mayor atención por el uso habitual en estacionamiento subterráneo. |
-| **Espacio y maletero** | Se considera importante, pero no se sobrepondera porque los viajes con varias personas son ocasionales frente al uso urbano diario. |
-| **Remolque** | Tiene peso bajo en el ranking salvo que sea una necesidad real; no se utiliza para favorecer a una SUV por una capacidad que probablemente nunca se aprovechará. |
-| **Tecnología** | Una pantalla más grande no se considera automáticamente mejor. Se prioriza funcionalidad, ergonomía, controles, conectividad y uso seguro en marcha. |
-| **Indicadores 🟢** | 🟢 significa que **ese vehículo tiene la ventaja en esa fila concreta**; no significa que sea el ganador absoluto de toda la comparativa. |
-| **Empates** | Se permite que más de un vehículo aparezca con 🟢 cuando existe una ventaja compartida o cuando no sería razonable establecer un único ganador. |
-| **No fabricar ganadores** | El ranking final no se completa artificialmente. Cuando faltan datos reales, la celda queda pendiente. |
-| **Formato** | La información comparativa se mantiene **en tablas** para facilitar la lectura lado a lado y reducir texto narrativo. |
-| **Consistencia** | Una cifra debe corresponder a la **misma unidad de comparación**; no se mezclan cifras de distintas generaciones, países o versiones sin advertirlo. |
-| **Cambios de generación** | Se da prioridad a la generación/model year vigente en Chile y se evita importar cifras históricas de generaciones anteriores. |
-| **Fuentes y trazabilidad** | Las fuentes oficiales relevantes se mantienen al final del documento para que los datos puedan auditarse o actualizarse. |
-| **Actualización futura** | Cuando cambien precios, promociones, versiones, garantías o fichas técnicas, se debe actualizar primero la **fuente y la fecha**, y después recalcular el ranking/TCO si corresponde. |
-
-## Perfil del comprador utilizado para personalizar la comparación
-
-| Variable | Valor utilizado |
-| :--- | :--- |
-| **Comuna** | Temuco |
-| **Edad** | 29 años |
-| **Experiencia** | Primer vehículo |
-| **Uso diario** | Principalmente gimnasio + supermercado |
-| **Frecuencia diaria** | Prácticamente todos los días |
-| **Viajes fuera de la ciudad** | Aproximadamente 4 veces al año |
-| **Salida larga con amigos** | Aproximadamente 1 vez al año |
-| **Estacionamiento** | Subterráneo del departamento |
-| **Requisito de esta comparativa** | AWD / 4x4 |
-| **Objetivo de la comparativa** | Encontrar el vehículo que ofrezca la mejor combinación de costo, seguridad, comodidad, confiabilidad y utilidad real para este patrón de uso |
-
-## Criterios de ponderación recomendados para este perfil
-
-| Categoría | Peso |
-| :--- | ---: |
-| **Costo total de propiedad** | **25%** |
-| **Seguridad** | **20%** |
-| **Confiabilidad / postventa local** | **15%** |
-| **Confort / facilidad de uso diario** | **15%** |
-| **Desempeño / conducción** | **10%** |
-| **Consumo** | **5%** |
-| **Espacio / practicidad** | **5%** |
-| **Tecnología** | **3%** |
-| **Reventa** | **2%** |
-| **Total** | **100%** |
+> **Instrucciones para la IA que mantenga esta comparativa**
+>
+> Estás manteniendo y actualizando una comparativa de **Toyota RAV4 AWD, Subaru Crosstrek AWD y Mazda CX-5 AWD para el mercado chileno**. Tu trabajo no es solo corregir texto: debes investigar información actual, detectar datos obsoletos o inconsistentes, completar información faltante y modificar directamente este documento manteniendo su estructura, criterios y filosofía.
+>
+> **Objetivo principal**
+>
+> Mantén la comparativa orientada a una decisión de compra real en Chile, priorizando costo total de propiedad, seguridad, confiabilidad/postventa, comodidad de uso diario y utilidad real. La comparativa debe ser útil para este perfil: **Temuco, 29 años, primer vehículo, uso principalmente diario para gimnasio y supermercado, aproximadamente cuatro salidas fuera de la ciudad al año, aproximadamente una salida anual con un grupo de amigos y estacionamiento habitual en un estacionamiento subterráneo**.
+>
+> **Reglas que debes seguir siempre**
+>
+> 1. **Solo AWD/4x4.** No uses versiones 4x2/2WD para construir precios, consumos, equipamiento, seguridad, desempeño ni conclusiones. Si una versión no tiene AWD, déjala fuera.
+>
+> 2. **Mercado chileno.** Prioriza exclusivamente versiones, precios, equipamiento, garantías, mantenciones, impuestos y condiciones disponibles en Chile. No copies automáticamente cifras de EE.UU., Canadá, Europa, Australia u otros mercados.
+>
+> 3. **Versión exacta.** No atribuyas a una versión base el equipamiento de una versión superior. Cada cifra debe corresponder a la versión AWD que se está comparando.
+>
+> 4. **Generación vigente.** Comprueba primero el año/modelo y la generación vigente en Chile. No mezcles cifras de generaciones anteriores salvo que se indiquen expresamente como referencia histórica.
+>
+> 5. **Fuentes.** Prioriza, en este orden: fabricante/concesionario oficial chileno; organismos públicos chilenos como SII/CNE; documentación técnica oficial; fuentes de mercado con metodología clara; experiencias de propietarios/comunidades. Usa múltiples fuentes cuando una cifra sea importante para la decisión.
+>
+> 6. **Información actual.** Antes de actualizar datos dinámicos, verifica la información vigente en la fecha de la actualización. No presentes una promoción vencida como si siguiera vigente.
+>
+> 7. **Precios.** Diferencia siempre precio de lista, precio contado, precio promocional y precio condicionado a financiamiento. Indica las condiciones del bono cuando existan. Para comparar económicamente, usa preferentemente el **precio contado real**.
+>
+> 8. **No inventes.** Si no puedes verificar un dato con suficiente confianza, escribe “verificar”, “cotizar”, “calcular” o “investigar”. Nunca rellenes un hueco con una cifra estimada presentada como hecho.
+>
+> 9. **Consumo.** Separa consumo homologado de consumo real. No conviertas una cifra homologada en una promesa de consumo. Para el perfil de este documento, considera que el kilometraje anual relativamente bajo reduce la importancia económica de pequeñas diferencias de km/l.
+>
+> 10. **Seguro.** No inventes una prima. Para comparar seguro, intenta usar cotizaciones comparables para la misma versión, comuna y condiciones; si no están disponibles, deja el campo pendiente.
+>
+> 11. **Impuestos y permisos.** Usa SII y fuentes oficiales chilenas para impuesto verde, tasación y permiso de circulación. Calcula cuando sea posible y señala los supuestos.
+>
+> 12. **TCO.** Cuando existan suficientes datos, compara el costo total de propiedad considerando como mínimo: precio de compra, financiamiento si aplica, combustible, seguro, permiso de circulación, impuesto verde, mantenciones, neumáticos, frenos, batería, reparaciones razonables y depreciación, restando el valor estimado de reventa.
+>
+> 13. **Reventa.** No digas solamente “tiene buena reventa”. Cuando sea posible, busca vehículos usados comparables por año, versión y kilometraje y estima depreciación.
+>
+> 14. **Seguridad.** No uses solamente cantidad de airbags. Compara por versión los sistemas ADAS y de seguridad activa: frenado automático, ACC, mantenimiento/centrado de carril, punto ciego, RCTA, cámaras, sensores, etc.
+>
+> 15. **AWD no significa todoterreno.** Explica la diferencia entre AWD orientado a adherencia y una 4x4 tradicional con reductora/bloqueos. No atribuyas capacidades que el vehículo no tiene.
+>
+> 16. **Neumáticos.** Considera neumáticos, medida, disponibilidad y costo como un factor importante, especialmente para lluvia, ripio y nieve.
+>
+> 17. **Postventa local.** Debido al uso principal en Temuco, considera especialmente disponibilidad de concesionario/taller, repuestos, tiempos de atención y soporte local.
+>
+> 18. **Uso real del comprador.** No sobrevalores capacidades que se usarán una vez al año. Remolque, off-road severo y grandes capacidades de carga deben tener poco peso salvo que el usuario indique que las necesita.
+>
+> 19. **Estacionamiento.** Como el vehículo se guardará en un estacionamiento subterráneo, presta especial atención a dimensiones, ancho, radio de giro, visibilidad, sensores y cámaras.
+>
+> 20. **No fabriques ganadores.** 🟢 significa únicamente que ese vehículo tiene la ventaja en **esa fila concreta**. Puede haber empates. No marques un ganador si la evidencia no lo permite.
+>
+> 21. **Formato.** Mantén el documento principalmente en **tablas** para permitir comparación rápida lado a lado. Evita convertirlo en un artículo narrativo. Las notas metodológicas breves sí pueden utilizar texto normal.
+>
+> 22. **Consistencia.** Si corriges una cifra en una sección, busca esa misma cifra en las demás tablas y actualízala para evitar contradicciones.
+>
+> 23. **Fuentes.** Mantén las fuentes utilizadas al final del documento y actualízalas cuando cambies de fuente o de versión. Las URLs deben corresponder a la información que realmente utilizaste.
+>
+> 24. **Comparación justa.** No compares una versión base de una marca con una versión tope de otra como si fueran equivalentes. Si una versión superior ofrece una ventaja importante, muéstrala en una tabla separada.
+>
+> 25. **Actualización completa.** No te limites al dato que motivó la actualización. Al abrir el documento, revisa también precios, versiones, consumo, seguridad, garantía, mantención, dimensiones, equipamiento y otros datos que puedan haber quedado obsoletos.
+>
+> **Proceso recomendado en cada actualización**
+>
+> 1. Lee primero el documento completo antes de modificarlo.
+> 2. Identifica datos potencialmente obsoletos, contradictorios o sin fuente.
+> 3. Verifica primero las páginas oficiales chilenas de Toyota, Subaru y Mazda.
+> 4. Verifica SII/CNE u organismos oficiales para los datos económicos/regulatorios.
+> 5. Investiga datos de mercado solo cuando la fuente oficial no sea suficiente.
+> 6. Compara nuevamente las **versiones AWD equivalentes**.
+> 7. Actualiza las tablas afectadas y cualquier otra tabla que dependa de esos datos.
+> 8. Revisa que no haya quedado información de versiones 4x2/2WD dentro de la comparación principal.
+> 9. Revisa que no existan contradicciones entre tablas.
+> 10. Mantén 🟢, 🟡 y 🔴 de manera coherente.
+> 11. Mantén pendientes los datos que realmente requieran cotización o información personal.
+> 12. Guarda los cambios directamente en el repositorio.
+> 13. Vuelve a leer el archivo después del cambio para comprobar que el documento quedó consistente.
+>
+> **Regla final:** anteponer siempre **exactitud y trazabilidad** a completar todos los campos. Es preferible dejar un dato pendiente que publicar una cifra dudosa. La comparativa debe evolucionar con el mercado chileno sin perder su estructura ni sus criterios de evaluación.
 
 ---
 
