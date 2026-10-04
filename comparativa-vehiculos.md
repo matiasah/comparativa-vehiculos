@@ -1,221 +1,239 @@
-# Comparativa 4x4 / AWD: Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5
+# Comparativa 4x4 / AWD en Chile
+
+## Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5
 
 | Parámetro | Criterio |
 | :--- | :--- |
-| **Alcance** | **Solo versiones con tracción integral AWD/4x4.** Toda la información comparativa corresponde exclusivamente a versiones AWD. |
-| **Fecha de referencia** | Octubre de 2026. |
-| **Cómo leerla** | 🟢 = mejor ventaja de esa fila. 🟡 = punto a vigilar. 🔴 = desventaja/riesgo relevante. |
-| **Regla de comparación** | Se priorizan versiones AWD de entrada para comparar vehículos equivalentes; las versiones AWD superiores se muestran aparte cuando aportan una diferencia relevante. |
-| **Nota sobre “4x4”** | En esta comparativa, “4x4” se usa en el sentido habitual de SUV: **tracción integral AWD**. No implica que los tres tengan reductora, bloqueo mecánico de diferencial ni capacidad de todoterreno de una 4x4 tradicional. |
+| **Mercado** | Chile |
+| **Fecha de referencia** | Octubre de 2026 |
+| **Alcance** | **Solo versiones con tracción integral AWD/4x4.** |
+| **Leyenda** | 🟢 = mejor ventaja de esa fila. 🟡 = punto a vigilar. 🔴 = desventaja/riesgo relevante. |
+| **Regla** | No se usan versiones 4x2/2WD para establecer precios, consumos, equipamiento ni ganadores. |
+| **Nota** | “4x4” aquí significa AWD/Symmetrical AWD/i-Activ AWD; ninguno de los tres es una 4x4 tradicional con reductora. |
 
 ---
 
-## 1. Versiones AWD consideradas
+## 1. Versiones AWD realmente comparables
 
-| Marca / modelo | Versión AWD de referencia | Otras versiones AWD relevantes |
-| :--- | :--- | :--- |
-| **Toyota RAV4** | 🟢 **LE 2.0 AWD CVT** | La gama chilena consultada muestra LE 2.0 AWD; las XLE 2.0 publicadas en la misma consulta corresponden a 4x2 y por tanto quedan fuera. |
-| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus, 2.0i AWD CVT Dynamic ES, 2.0i AWD CVT Touring ES HK 360; también existe 2.0 Hybrid AWD CVT Touring ES. |
-| **Mazda CX-5** | 🟢 **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD 6AT, Sport 2.5 AWD 6AT, Signature 2.5T AWD 6AT. |
+| Marca / modelo | Versión AWD de referencia en Chile | Versiones AWD superiores relevantes | Año/ficha de referencia |
+| :--- | :--- | :--- | :--- |
+| **Toyota RAV4** | **LE 2.0 AWD CVT** | La gama publicada de esta generación muestra la LE 2.0 AWD como versión AWD gasolina de entrada. | 2026 |
+| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus; 2.0i AWD CVT Dynamic ES; 2.0i AWD CVT Touring ES HK 360; 2.0 Hybrid AWD CVT Touring ES. | Ficha 2026 / oferta comercial vigente |
+| **Mazda CX-5** | **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD; Sport 2.5 AWD; Signature 2.5T AWD. | Gama actual publicada por Mazda Chile |
 
-| Observación | Detalle |
+| Nota de comparación | Detalle |
 | :--- | :--- |
 | **Comparación principal** | RAV4 LE 2.0 AWD vs. Crosstrek 2.0i AWD vs. CX-5 Core 2.0 AWD. |
-| **Por qué usar las versiones base AWD** | Reduce la distorsión por motores, equipamiento y precio de versiones superiores. |
-| **Versiones superiores** | Se consideran solo cuando la diferencia cambia materialmente seguridad, desempeño, confort o costo. |
+| **Por qué** | Son las puertas de entrada AWD de cada modelo y evitan mezclar motores/equipamientos de versiones superiores. |
+| **Diferencia de gama** | El CX-5 permite subir a 2.5/2.5T; el Crosstrek permite subir principalmente en equipamiento y también a híbrido; la RAV4 de esta gama ofrece la LE 2.0 AWD como referencia AWD gasolina. |
 
 ---
 
-## 2. Precio de entrada AWD en Chile
+## 2. Precio real de referencia en Chile
 
 | Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD |
-| :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: |
 | **Precio lista publicado** | **$29.990.000** | 🟢 **$25.990.000** | $27.490.000 |
-| **Precio promocional publicado** | $25.390.000* | $23.790.000* | 🟢 $25.190.000* |
-| **Diferencia frente a la más barata por lista** | +$4.000.000 | 🟢 Base | +$1.500.000 |
-| **Lectura** | 🟡 Más cara | 🟢 Entrada AWD más económica | Buen punto medio |
+| **Precio web/campaña publicado** | $28.690.000 online* | $23.790.000* | 🟢 $25.190.000* |
+| **Diferencia vs. lista más barata** | +$4.000.000 | 🟢 $0 | +$1.500.000 |
+| **Posición de precio** | 🔴 Más cara | 🟢 Más barata | Intermedia |
+| **Precio a usar para TCO** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** |
 
-| Nota de precio | Detalle |
+| Nota | Detalle |
 | :--- | :--- |
-| ***** | Los precios promocionales pueden depender de bonos, financiamiento, stock y vigencia. Para TCO conviene utilizar el **precio real contado** que cotice el concesionario. |
+| ***** | Las páginas oficiales muestran bonos/campañas que pueden depender de financiamiento y vigencia. Para una compra en octubre de 2026, no asumir que una campaña anterior sigue vigente: pedir cotización escrita del día. |
+| **Toyota** | La tienda oficial publica lista $29.990.000; la misma ficha muestra precio online $28.690.000 y una promoción financiada con vigencia indicada hasta el 30/09/2026. |
+| **Subaru** | La página oficial publica lista $25.990.000 y campaña $23.790.000; los términos consultados indican vigencia de esa promoción hasta el 30/09/2026. |
+| **Mazda** | Mazda Chile publica lista $27.490.000 y precio desde $25.190.000 para Core 2.0 AWD. |
 
 ---
 
-## 3. Motor y desempeño AWD
+## 3. Impuestos y costos legales de compra
+
+| Concepto | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| :--- | :--- | :--- | :--- |
+| **IVA** | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado |
+| **Impuesto verde** | 🟡 Toyota publica una referencia de **$634.852** para esta unidad en su página comercial; verificar cálculo final con SII/VIN/CIT | **Calcular en SII para la versión exacta** | **Calcular en SII para la versión exacta** |
+| **Permiso de circulación** | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII |
+| **Tasación fiscal de un vehículo nuevo** | Valor neto de factura/contrato para el primer permiso | Igual | Igual |
+| **Regla de permiso 2026** | Escala progresiva sobre tasación fiscal | Igual | Igual |
+
+| Referencia SII 2026 | Valor |
+| :--- | :--- |
+| **UTM enero 2026** | $69.751 |
+| **Hasta 60 UTM** | 1% |
+| **Sobre 60 y hasta 120 UTM** | 2% |
+| **Sobre 120 y hasta 250 UTM** | 3% |
+| **Sobre 250 y hasta 400 UTM** | 4% |
+| **Sobre 400 UTM** | 4,5% |
+
+---
+
+## 4. Motor, potencia y transmisión
 
 | Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD |
 | :--- | :--- | :--- | :--- |
 | **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina |
-| **Cilindrada** | 1.986 cc* | 1.995 cc | 2.0 L |
-| **Potencia** | 🟢 **169 hp** | 156 CV | 154 hp |
-| **Torque** | Ver ficha de versión | 196 Nm | 🟢 **200 Nm** |
-| **Caja** | CVT | Lineartronic CVT | 🟢 Automática 6AT |
-| **Tracción** | AWD | 🟢 AWD de distribución de torque activo | AWD i-Activ |
-| **Capacidad de combustible** | Ver ficha exacta | 🟢 63 L | Ver ficha exacta |
-| **Perfil mecánico** | Potencia + eficiencia | 🟢 Tracción + despeje | 🟢 Caja convencional + 200 Nm |
-
-| Dato | Valor |
-| :--- | :--- |
-| ***** | Utilizar la ficha técnica de la unidad para confirmar cilindrada exacta y demás datos de homologación antes de publicar una especificación contractual. |
+| **Cilindrada** | 2.0 L | 🟢 **1.995 cc** | 2.0 L |
+| **Potencia máxima** | 🟢 **169 hp** | 156 CV | 154 hp |
+| **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 🟢 **200 Nm** |
+| **Transmisión** | CVT | Lineartronic CVT | 🟢 Automática 6AT |
+| **Tracción** | AWD | 🟢 Symmetrical AWD permanente + ATV | i-Activ AWD |
+| **Capacidad estanque** | Ver ficha exacta | 🟢 **63 L** | Ver ficha exacta |
+| **Perfil mecánico** | 🟢 Potencia/eficiencia | 🟢 Tracción/despeje | 🟢 Caja convencional/torque |
 
 ---
 
-## 4. Consumo AWD homologado
+## 5. Consumo homologado AWD
 
-| Escenario homologado | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
 | :--- | :---: | :---: | :---: |
-| **Ciudad** | 11,1 km/l | 10,6 km/l | 12,3 km/l |
-| **Carretera** | 16,2 km/l | 16,7 km/l | 15,7 km/l |
+| **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** |
+| **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l |
 | **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** |
-| **Mejor mixto** | 2.º | 2.º | 🟢 1.º |
-
-| Lectura | Detalle |
-| :--- | :--- |
-| **Resultado** | El CX-5 AWD 2.0 tiene el mejor consumo mixto homologado de estas tres versiones AWD de referencia. |
-| **Advertencia** | El consumo real dependerá de tráfico, neumáticos, temperatura, carga, velocidad y uso de AWD. |
-
----
-
-## 5. Dimensiones y habitabilidad
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Largo** | 🟢 4.600 mm | 4.480 mm | 4.575 mm |
-| **Ancho** | 🟢 1.855 mm | 1.800 mm | 1.845 mm |
-| **Alto** | 🟢 1.695 mm | 1.600 mm | 1.680 mm aprox.* |
-| **Distancia entre ejes** | 2.690 mm aprox.* | 2.670 mm | 🟢 2.700 mm |
-| **Despeje al suelo** | ~213 mm* | 🟢 **220 mm** | 185 mm |
-| **Maletero** | Ver ficha exacta de versión | 328 L según ficha técnica | 🟢 **541 L / 1.303 L abatido** |
-| **Espacio familiar** | 🟢 Muy bueno | Bueno | 🟢 Muy bueno |
-| **Perfil** | SUV compacta amplia | Crossover compacto | 🟢 SUV familiar |
+| **Ganador ciudad** | 2.º | 3.º | 🟢 1.º |
+| **Ganador carretera** | 2.º | 🟢 1.º | 3.º |
+| **Ganador mixto** | 3.º | 2.º | 🟢 1.º |
 
 | Nota | Detalle |
 | :--- | :--- |
-| ***** | Mantener en la versión definitiva únicamente las cifras de la ficha técnica chilena correspondiente al año/unidad que se vaya a cotizar. |
+| ***** | Toyota también publica distintos escenarios de carretera/urbano según ciclo; para comparación se usa la cifra homologada mostrada para la versión AWD. |
+| **Importante** | Homologación ≠ consumo real. Carga, temperatura, neumáticos, velocidad y uso en invierno pueden cambiar bastante el resultado. |
 
 ---
 
-## 6. Uso urbano
+## 6. Dimensiones y capacidad
 
 | Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
 | :--- | :--- | :--- | :--- |
-| **Facilidad para estacionar** | Buena | 🟢 Muy buena | Buena |
-| **Visibilidad** | Muy buena | 🟢 Muy buena | Muy buena |
-| **Despeje para lomos/hoyos** | 🟢 Muy bueno | 🟢 Muy bueno | Menor |
-| **Radio/tamaño urbano** | Mayor | 🟢 Más manejable | Intermedio |
-| **Confort en tráfico** | Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno |
-| **Consumo urbano homologado** | 11,1 km/l | 10,6 km/l | 🟢 12,3 km/l |
-| **Veredicto urbano** | 🟢 Equilibrio | 🟢 Maniobrabilidad | 🟢 Consumo + confort |
+| **Largo** | 🟢 **4.600 mm** | 4.480 mm | 4.575 mm |
+| **Ancho** | 🟢 **1.855 mm** | 1.800 mm | 1.845 mm |
+| **Alto** | 🟢 **1.695 mm** | 1.600 mm | 1.680 mm aprox. |
+| **Distancia entre ejes** | 2.690 mm aprox. | 2.670 mm | 🟢 **2.700 mm** |
+| **Despeje al suelo** | ~21,3 cm* | 🟢 **22,0 cm** | 18,5 cm |
+| **Maletero con asientos arriba** | Verificar ficha exacta | 328 L | 🟢 **541 L** |
+| **Maletero con asientos abatidos** | Verificar ficha exacta | Verificar ficha exacta | 🟢 **1.303 L** |
+| **Radio mínimo de giro** | Verificar ficha exacta | 🟢 **5,4 m** | Verificar ficha exacta |
+| **Peso en orden de marcha** | Verificar ficha exacta | 1.485 kg* | Ver ficha exacta |
 
----
-
-## 7. Carretera y viajes largos
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Potencia base** | 🟢 169 hp | 156 CV | 154 hp |
-| **Torque base** | Ver ficha | 196 Nm | 🟢 200 Nm |
-| **Respuesta con carga** | 🟢 Buen margen | 🟡 Probar antes de decidir | 🟡 El 2.0 puede sentirse justo |
-| **Confort de marcha** | 🟢 Muy bueno | Muy bueno | 🟢 Muy bueno |
-| **Aislamiento acústico** | Bueno | Bueno | 🟢 Muy bueno |
-| **Estabilidad** | 🟢 Muy buena | 🟢 Muy buena | 🟢 Muy buena |
-| **Viaje largo familiar** | 🟢 Muy bueno | Bueno | 🟢 Muy bueno |
-
----
-
-## 8. Lluvia, ripio, nieve y caminos del sur
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **AWD estándar en la versión comparada** | ✓ | 🟢 ✓ | ✓ |
-| **Despeje** | Alto | 🟢 **220 mm** | Menor |
-| **Sistema AWD** | AWD | 🟢 Active Torque Distribution AWD | i-Activ AWD |
-| **Control de tracción** | ✓ | ✓ | ✓ |
-| **Perfil para ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno |
-| **Perfil para nieve/hielo** | Muy bueno | 🟢 Excelente | Muy bueno |
-| **Perfil para barro moderado** | 🟢 Muy bueno | 🟢 Muy bueno | Bueno |
-| **Protección/aptitud de caminos malos** | 🟢 Buena | 🟢 Muy buena | Buena |
-| **Mejor opción específica para baja adherencia** | Muy fuerte | 🟢 **Crosstrek** | Muy fuerte |
-
-| Principio | Detalle |
+| Nota | Detalle |
 | :--- | :--- |
-| **AWD no reemplaza neumáticos** | La elección y estado de los neumáticos puede cambiar radicalmente el comportamiento sobre lluvia, ripio y nieve. |
-| **4x4 vs todoterreno** | Ninguno debe evaluarse como reemplazo de una 4x4 con reductora para uso off-road severo. |
+| ***** | Crosstrek: 1.485 kg corresponde a la versión 2.0i AWD CVT de la ficha 2026. Para RAV4 y CX-5 se debe usar la cifra exacta de la unidad/versiones chilenas. |
 
 ---
 
-## 9. Sistema de tracción
+## 7. Neumáticos y rueda de repuesto
 
-| Característica | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 Core 2.0 AWD |
 | :--- | :--- | :--- | :--- |
-| **Tipo** | AWD | 🟢 AWD Active Torque Distribution | i-Activ AWD |
-| **Distribución de torque** | Automática | 🟢 Activa según condiciones | Predictiva/activa |
-| **En lluvia** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno |
-| **En ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno |
-| **En nieve** | Muy bueno | 🟢 Excelente | Muy bueno |
+| **Neumático de serie** | Verificar unidad | 🟢 **225/60 R17** | 🟢 **225/65 R17** |
+| **TPMS** | ✓ | ✓ | ✓ |
+| **Rueda de repuesto** | Verificar | 🟢 **185/65 R17** | Verificar |
+| **Kit antipinchazos** | Verificar | No en versión 2.0i base si equipa rueda de repuesto | Verificar |
+| **Precio 4 neumáticos** | Cotizar | Cotizar | Cotizar |
+| **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar |
+| **Importancia para AWD** | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta |
+
+---
+
+## 8. Seguridad activa y pasiva por versión base
+
+| Sistema | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD |
+| :--- | :--- | :--- | :--- |
+| **Airbags** | 7 | 🟢 **8** | 6 |
+| **ABS/EBD** | ✓ | ✓ | ✓/DSC |
+| **Control estabilidad** | VSC | VDC | DSC |
+| **Asistencia pendiente** | HAC | ✓ | HLA |
+| **Control descenso** | DAC | — | — |
+| **Cámara trasera** | ✓ | ✓ | ✓ |
+| **Cámara delantera** | —/según versión | ✓ en Dynamic/Touring; no en base | — |
+| **Sensores estacionamiento** | 🟢 Delanteros + traseros | No en base; traseros desde Dynamic | 🟢 Delanteros + traseros |
+| **Monitor punto ciego** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus |
+| **RCTA tráfico cruzado** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus |
+| **Frenado automático de emergencia** | Toyota Safety Sense según equipamiento | **EyeSight no viene en la 2.0i AWD base**; sí en Dynamic/Touring | SCBS depende de versión; no asumirlo en Core |
+| **Control crucero adaptativo** | Ver versión | **No en base; sí con EyeSight** | No debe asumirse en Core |
+| **Asistencia de carril** | Ver versión | No en base; sí con EyeSight | No en Core; disponible en superiores |
+| **ISOFIX** | ✓ | ✓ | ✓ |
+| **TPMS** | ✓ | ✓ | ✓ |
+
+| Lectura de seguridad | Resultado |
+| :--- | :--- |
+| **Airbags** | 🟢 Crosstrek |
+| **ADAS en versión base** | 🟡 Verificar: la Crosstrek base pierde EyeSight frente a Dynamic/Touring |
+| **Sensores de estacionamiento de serie** | 🟢 RAV4 LE y CX-5 Core |
+| **Mejor seguridad por subir de versión** | 🟢 Crosstrek Dynamic/Touring añade EyeSight + BSD/RCTA según versión |
+
+---
+
+## 9. Tecnología y confort
+
+| Característica | Toyota RAV4 LE AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core AWD |
+| :--- | :--- | :--- | :--- |
+| **Pantalla** | Ver versión | 🟢 **7" doble pantalla** en base / 11,6" en versiones superiores | 🟢 **10,25"** |
+| **Apple CarPlay** | Ver versión | ✓ sujeto a compatibilidad | ✓ |
+| **Android Auto** | Ver versión | ✓ sujeto a compatibilidad | ✓ |
+| **Carga inalámbrica** | Ver versión | No en base | Verificar según ficha vigente |
+| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores |
+| **HUD** | Ver versión | — | No en Core; ✓ Core Plus y superiores según ficha |
+| **Climatizador** | Ver versión | Ver versión | 🟢 Bizona en gama/ficha |
+| **Audio** | Ver versión | 6 parlantes base | 🟢 6 parlantes base; Bose en superiores |
+| **Cuero** | Ver versión | No en base | No en Core |
+| **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda |
+| **Mejor pantalla base** | — | — | 🟢 CX-5 |
+
+---
+
+## 10. Sistema AWD y conducción sobre baja adherencia
+
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| :--- | :--- | :--- | :--- |
+| **Arquitectura AWD** | AWD | 🟢 Symmetrical AWD permanente | i-Activ AWD |
+| **Vectorización de torque** | VSC/gestión de tracción | 🟢 ATV de serie | G-Vectoring Control Plus |
+| **Modo específico caminos malos** | Ver versión | 🟢 X-MODE | 🟢 Mi-Drive con Off-Road |
+| **Despeje** | Muy alto | 🟢 220 mm | Menor |
+| **Ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno |
+| **Nieve/hielo** | Muy bueno | 🟢 Excelente | 🟢 Muy bueno con Off-Road |
+| **Barro moderado** | Muy bueno | 🟢 Muy bueno | Bueno/Muy bueno |
 | **Uso diario** | 🟢 Excelente equilibrio | Muy bueno | 🟢 Excelente equilibrio |
-| **Complejidad mecánica** | Alta | Alta | Alta |
 
 ---
 
-## 10. Seguridad activa y pasiva
-
-| Sistema | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Frenado automático de emergencia** | ✓ según versión | ✓ según versión | ✓ según versión |
-| **Control crucero adaptativo** | ✓ según versión | ✓ según versión | ✓ según versión |
-| **Mantenimiento de carril** | ✓ según versión | ✓ según versión | ✓ según versión |
-| **Monitor de punto ciego** | Según versión | Según versión | Según versión |
-| **Alerta tráfico cruzado trasero** | Según versión | Según versión | Según versión |
-| **Cámara trasera** | 🟢 ✓ | ✓ | ✓ |
-| **Cámara 360°** | Según versión | Según versión | Según versión |
-| **Sensores estacionamiento** | 🟢 Delanteros + traseros en LE AWD consultada | Según versión | Según versión |
-| **Airbags** | 🟢 7 | Según versión | 6 |
-| **Plataforma** | TNGA | 🟢 SGP | Skyactiv-Body |
-| **Lectura** | 🟢 Muy completo | 🟢 Muy completo | 🟢 Muy completo |
-
----
-
-## 11. Tecnología y ergonomía
-
-| Característica | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Pantalla** | Según versión | Según versión | 🟢 10,25" en gama publicada |
-| **Apple CarPlay** | Según versión | Según versión | Según versión |
-| **Android Auto** | Según versión | Según versión | Según versión |
-| **Carga inalámbrica** | Según versión | Según versión | Según versión |
-| **Cámara** | Según versión | Según versión | Según versión |
-| **Cámara 360°** | Según versión | Según versión | Según versión |
-| **HUD** | Según versión | Según versión | 🟢 Desde Core Plus AWD |
-| **Controles físicos** | 🟢 Buen equilibrio | Bueno | 🟢 Muy buena ergonomía |
-| **Experiencia tecnológica** | Muy buena | Muy buena | 🟢 Muy buena |
-
----
-
-## 12. Mantención y propiedad
+## 11. Mantención, garantía y postventa publicada
 
 | Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
 | :--- | :--- | :--- | :--- |
-| **Mantención programada** | 🟢 Precio/prepagos publicados por Toyota | Programa publicado por Subaru | Programa según Mazda |
-| **Costo 10.000 km** | Cotizar | Cotizar | Cotizar |
-| **Costo 20.000 km** | Cotizar | Cotizar | Cotizar |
-| **Costo 30.000 km** | Cotizar | Cotizar | Cotizar |
-| **Costo 40.000 km** | Cotizar | Cotizar | Cotizar |
-| **Costo 60.000 km** | Cotizar | Cotizar | Cotizar |
-| **Costo 100.000 km** | Cotizar | Cotizar | Cotizar |
-| **Repuestos comunes** | 🟢 Potencialmente más fáciles de conseguir | Cotizar disponibilidad | Cotizar disponibilidad |
-| **Neumáticos** | Cotizar por versión | Cotizar por versión | Cotizar por versión |
-| **Costo de AWD** | Incorporado al vehículo | Incorporado al vehículo | Incorporado al vehículo |
-
-| Dato oficial destacado | Detalle |
-| :--- | :--- |
-| **Toyota** | La tienda Toyota publica un paquete de cuatro mantenciones RAV4 10k/20k/30k/40k con precio preferencial online de $1.091.968, sujeto a sus condiciones. |
-| **Subaru** | Subaru indica mantenimiento programado cada 15.000 km y una cobertura publicada de 3 años/60.000 km, con extensión del tren motriz hasta 5 años/100.000 km bajo condiciones. |
-| **Mazda** | El costo debe cotizarse para la versión AWD exacta y el intervalo aplicable. |
+| **Garantía vehículo** | 🟢 **5 años/100.000 km** | 3 años/60.000 km + extensión publicada del tren motriz hasta 5 años/100.000 km bajo condiciones | 3 años/100.000 km |
+| **Intervalo de servicio** | 🟢 10.000 km/1 año según pauta | 🟢 15.000 km | 🟢 10.000 km/12 meses para 2.0/2.5 |
+| **Primer servicio** | 15 días gratuito | Según plan Subaru | Según plan Mazda |
+| **4 mantenciones iniciales** | 🟢 Toyota publica paquete 10k/20k/30k/40k | Cotizar | Cotizar |
+| **Precio publicado paquete 10–40k** | 🟢 $1.091.968 online; referencial $1.364.960 | — | — |
+| **Repuestos** | 🟢 Red oficial Toyota | Red oficial Subaru | Red oficial Mazda |
+| **Servicio técnico local** | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta |
 
 ---
 
-## 13. Seguro y riesgo de robo
+## 12. Costos de mantención que faltan cotizar localmente
+
+| Mantención / desgaste | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
+| :--- | :---: | :---: | :---: |
+| 10.000 km | **Publicado** | Cotizar | Cotizar |
+| 20.000 km | **Publicado / paquete** | Cotizar | Cotizar |
+| 30.000 km | **Publicado / paquete** | Cotizar | Cotizar |
+| 40.000 km | **Publicado / paquete** | Cotizar | Cotizar |
+| 60.000 km | Cotizar | Cotizar | Cotizar |
+| 100.000 km | Cotizar | Cotizar | Cotizar |
+| Pastillas delanteras | Cotizar | Cotizar | Cotizar |
+| Pastillas traseras | Cotizar | Cotizar | Cotizar |
+| Discos delanteros | Cotizar | Cotizar | Cotizar |
+| Discos traseros | Cotizar | Cotizar | Cotizar |
+| Batería 12 V | Cotizar | Cotizar | Cotizar |
+| 4 neumáticos | Cotizar | Cotizar | Cotizar |
+| Parabrisas | Cotizar | Cotizar | Cotizar |
+| Faro LED | Cotizar | Cotizar | Cotizar |
+
+---
+
+## 13. Seguro y robo
 
 | Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
 | :--- | :--- | :--- | :--- |
@@ -223,215 +241,147 @@
 | **Deducible** | Cotizar | Cotizar | Cotizar |
 | **Cobertura robo** | Cotizar | Cotizar | Cotizar |
 | **Pérdida total** | Cotizar | Cotizar | Cotizar |
+| **Asistencia en ruta** | Cotizar | Cotizar | Cotizar |
 | **Vehículo de reemplazo** | Cotizar | Cotizar | Cotizar |
-| **GPS/antirrobo requerido** | Cotizar | Cotizar | Cotizar |
-| **Riesgo de robo** | 🟡 Verificar con aseguradoras/estadísticas | 🟢 Verificar | 🟡 Verificar |
-| **Impacto en TCO** | **Muy alto** | **Alto** | **Alto** |
+| **GPS/antirrobo exigido** | Cotizar | Cotizar | Cotizar |
+| **Riesgo de robo** | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟢 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin estadísticas/cotización actual |
 
 | Regla | Detalle |
 | :--- | :--- |
-| **No fijar un ranking definitivo sin cotizaciones** | El seguro depende de versión, comuna, conductor, valor del vehículo, deducible y compañía. |
+| **No usar “alto/medio/bajo”** | Para Chile, el dato útil es la cotización real del seguro para la versión exacta y la comuna donde vivirá el vehículo. |
 
 ---
 
-## 14. Neumáticos
+## 14. Reventa y depreciación
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| Criterio | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
 | :--- | :--- | :--- | :--- |
-| **Medida exacta** | Anotar unidad | Anotar unidad | Anotar unidad |
-| **Índice de carga** | Anotar | Anotar | Anotar |
-| **Índice de velocidad** | Anotar | Anotar | Anotar |
-| **Precio por 4** | Cotizar | Cotizar | Cotizar |
-| **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar |
-| **Alternativas equivalentes** | Cotizar | Cotizar | Cotizar |
-| **TPMS** | ✓ | ✓ | ✓ |
-| **Importancia para AWD** | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta |
-| **Uso sur de Chile** | 🟢 Muy importante | 🟢 Muy importante | 🟢 Muy importante |
-
----
-
-## 15. Rueda de repuesto y pinchazos
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Rueda de repuesto** | Verificar versión | Verificar versión | Verificar versión |
-| **Tipo de repuesto** | Normal/temporal/kit | Normal/temporal/kit | Normal/temporal/kit |
-| **Gato/herramientas** | Verificar | Verificar | Verificar |
-| **Compatibilidad con AWD** | Verificar | Verificar | Verificar |
-| **Valor para viajes largos** | 🟢 Alto | 🟢 Alto | 🟢 Alto |
-
----
-
-## 16. Capacidad de carga y remolque
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Maletero normal** | Ver ficha exacta | 328 L | 🟢 541 L |
-| **Maletero abatido** | Ver ficha exacta | Ver ficha exacta | 🟢 1.303 L |
-| **Remolque con freno** | Ver versión exacta | Ver versión exacta | Ver versión exacta |
-| **Remolque sin freno** | Ver versión exacta | Ver versión exacta | Ver versión exacta |
-| **Carga vertical sobre bola** | Verificar | Verificar | Verificar |
-| **Enganche homologado** | Verificar | Verificar | Verificar |
-| **Mejor perfil familiar** | 🟢 Muy bueno | Bueno | 🟢 Muy bueno |
-
----
-
-## 17. Reventa y depreciación
-
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Reputación de reventa** | 🟢 Fuerte | Buena | Buena |
+| **Reputación histórica de reventa** | 🟢 Fuerte | Buena | Buena |
 | **Precio usado 1 año** | Investigar | Investigar | Investigar |
 | **Precio usado 3 años** | Investigar | Investigar | Investigar |
 | **Precio usado 5 años** | Investigar | Investigar | Investigar |
-| **Demanda de versión AWD** | 🟢 Alta a verificar | Buena | Buena |
+| **Demanda de AWD** | 🟢 Alta a verificar | Buena a verificar | Buena a verificar |
+| **Depreciación real** | Calcular | Calcular | Calcular |
 | **Tiempo de venta** | Investigar | Investigar | Investigar |
-| **Depreciación 5 años** | Calcular | Calcular | Calcular |
 
 ---
 
-## 18. TCO a 5 años
+## 15. TCO a 5 años
 
-| Elemento | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
+| Elemento | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
 | :--- | :--- | :--- | :--- |
-| **Precio inicial** | 🟡 Alto | 🟢 Más bajo | Intermedio |
-| **Combustible** | Bueno | Bueno | 🟢 Mejor homologado |
+| **Compra** | 🔴 Precio lista más alto | 🟢 Precio lista más bajo | Intermedio |
+| **Combustible homologado** | Bueno | Bueno | 🟢 Mejor mixto |
 | **Seguro** | Cotizar | Cotizar | Cotizar |
-| **Patente** | Calcular | Calcular | Calcular |
-| **Mantenciones** | Cotizar | Cotizar | Cotizar |
+| **Permiso circulación** | Calcular SII | Calcular SII | Calcular SII |
+| **Mantenciones** | 🟢 Ya existe precio oficial parcial | Cotizar | Cotizar |
 | **Neumáticos** | Cotizar | Cotizar | Cotizar |
 | **Frenos** | Cotizar | Cotizar | Cotizar |
-| **Batería 12 V** | Cotizar | Cotizar | Cotizar |
+| **Batería** | Cotizar | Cotizar | Cotizar |
 | **Reparaciones fuera de garantía** | Cotizar | Cotizar | Cotizar |
 | **Depreciación** | 🟢 Potencialmente favorable | Calcular | Calcular |
-| **TCO final** | **Calcular** | **Calcular** | **Calcular** |
-
-| Fórmula | Cálculo |
-| :--- | :--- |
-| **TCO** | compra + financiamiento + combustible + seguro + patente + mantenciones + desgaste + reparaciones − precio de venta futura |
+| **TCO definitivo** | **No cerrar hasta tener seguro + mantenciones + reventa** | **No cerrar hasta tener seguro + mantenciones + reventa** | **No cerrar hasta tener seguro + mantenciones + reventa** |
 
 ---
 
-## 19. Prueba de manejo
+## 16. Prueba de manejo
 
-| Prueba | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD |
-| :--- | :--- | :--- | :--- |
-| **Ajuste asiento/volante** | /10 | /10 | /10 |
-| **Visibilidad** | /10 | /10 | /10 |
-| **Salida desde cero** | /10 | /10 | /10 |
-| **Respuesta 60–100 km/h** | /10 | /10 | /10 |
-| **Respuesta 80–120 km/h** | /10 | /10 | /10 |
-| **Respuesta con carga** | /10 | /10 | /10 |
-| **Pendiente** | /10 | /10 | /10 |
-| **Frenada** | /10 | /10 | /10 |
-| **Curvas** | /10 | /10 | /10 |
-| **Baches** | /10 | /10 | /10 |
-| **Ripio** | /10 | /10 | /10 |
-| **Lluvia** | /10 | /10 | /10 |
-| **Ruido neumáticos** | /10 | /10 | /10 |
-| **Ruido motor/transmisión** | /10 | /10 | /10 |
-| **Comodidad asiento** | /10 | /10 | /10 |
-| **ADAS** | /10 | /10 | /10 |
-| **Cámara/sensores** | /10 | /10 | /10 |
-| **Estacionamiento** | /10 | /10 | /10 |
-| **Comodidad después de 2 h** | /10 | /10 | /10 |
+| Prueba | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
+| :--- | :---: | :---: | :---: |
+| Salida desde cero | /10 | /10 | /10 |
+| 60–100 km/h | /10 | /10 | /10 |
+| 80–120 km/h | /10 | /10 | /10 |
+| Respuesta con carga | /10 | /10 | /10 |
+| Pendiente | /10 | /10 | /10 |
+| Frenada | /10 | /10 | /10 |
+| Baches | /10 | /10 | /10 |
+| Ripio | /10 | /10 | /10 |
+| Lluvia | /10 | /10 | /10 |
+| Ruido de neumáticos | /10 | /10 | /10 |
+| Ruido motor/caja | /10 | /10 | /10 |
+| Comodidad asiento | /10 | /10 | /10 |
+| ADAS | /10 | /10 | /10 |
+| Cámara/sensores | /10 | /10 | /10 |
+| Estacionamiento | /10 | /10 | /10 |
+| Comodidad después de 2 h | /10 | /10 | /10 |
 
 ---
 
-## 20. Ponderación final
+## 17. Ponderación final recomendada
 
 | Categoría | Peso | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
 | :--- | ---: | :---: | :---: | :---: |
-| **Seguridad** | 20% | /10 | /10 | /10 |
-| **Costo total de propiedad** | 20% | /10 | /10 | /10 |
-| **Confiabilidad / postventa** | 15% | /10 | /10 | /10 |
-| **Desempeño / conducción** | 15% | /10 | /10 | /10 |
-| **Consumo** | 10% | /10 | /10 | /10 |
-| **Espacio / practicidad** | 10% | /10 | /10 | /10 |
-| **Tecnología / confort** | 5% | /10 | /10 | /10 |
-| **Reventa** | 5% | /10 | /10 | /10 |
-| **Puntaje ponderado** | **100%** | **—** | **—** | **—** |
+| Seguridad | 20% | /10 | /10 | /10 |
+| Costo total de propiedad | 20% | /10 | /10 | /10 |
+| Confiabilidad/postventa | 15% | /10 | /10 | /10 |
+| Desempeño/conducción | 15% | /10 | /10 | /10 |
+| Consumo | 10% | /10 | /10 | /10 |
+| Espacio/practicidad | 10% | /10 | /10 | /10 |
+| Tecnología/confort | 5% | /10 | /10 | /10 |
+| Reventa | 5% | /10 | /10 | /10 |
+| **Puntaje ponderado final** | **100%** | **—** | **—** | **—** |
 
 ---
 
-## 21. Datos personales que pueden cambiar el ranking
+## 18. Checklist de compra en Chile
 
-| Pregunta | Respuesta |
-| :--- | :--- |
-| **Km por año** | ⬜ |
-| **% ciudad** | ⬜ |
-| **% carretera** | ⬜ |
-| **% ripio/caminos malos** | ⬜ |
-| **Lluvia/nieve/barro frecuente** | ⬜ |
-| **Personas habituales** | ⬜ |
-| **Necesidad de maletero** | ⬜ |
-| **Necesidad real de AWD** | ⬜ |
-| **Viajes largos frecuentes** | ⬜ |
-| **Bicicletas/equipamiento** | ⬜ |
-| **Mascotas** | ⬜ |
-| **Remolque** | ⬜ |
-| **Presupuesto máximo real** | ⬜ |
-| **Compra contado/crédito** | ⬜ |
-| **Años previstos de propiedad** | ⬜ |
-| **Objetivo de reventa** | ⬜ |
-
----
-
-## 22. Checklist de cotización AWD
-
-| Dato | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
+| Dato a conseguir | RAV4 AWD | Crosstrek AWD | CX-5 AWD |
 | :--- | :---: | :---: | :---: |
-| Precio contado real | ⬜ | ⬜ | ⬜ |
-| Precio financiado real | ⬜ | ⬜ | ⬜ |
-| Bonos y condiciones | ⬜ | ⬜ | ⬜ |
-| Impuesto verde | ⬜ | ⬜ | ⬜ |
+| Precio contado final | ⬜ | ⬜ | ⬜ |
+| Bono vigente hoy | ⬜ | ⬜ | ⬜ |
+| Precio financiado final | ⬜ | ⬜ | ⬜ |
+| Impuesto verde SII | ⬜ | ⬜ | ⬜ |
 | Permiso de circulación | ⬜ | ⬜ | ⬜ |
 | Seguro anual | ⬜ | ⬜ | ⬜ |
 | Deducible | ⬜ | ⬜ | ⬜ |
-| Mantención 10k/20k/30k/40k | ⬜ | ⬜ | ⬜ |
+| Mantenciones 10–40k | ⬜ | ⬜ | ⬜ |
 | Mantención 60k | ⬜ | ⬜ | ⬜ |
 | Mantención 100k | ⬜ | ⬜ | ⬜ |
 | 4 neumáticos | ⬜ | ⬜ | ⬜ |
-| Pastillas delanteras | ⬜ | ⬜ | ⬜ |
-| Pastillas traseras | ⬜ | ⬜ | ⬜ |
-| Discos | ⬜ | ⬜ | ⬜ |
-| Batería 12 V | ⬜ | ⬜ | ⬜ |
+| Pastillas/discos | ⬜ | ⬜ | ⬜ |
+| Batería | ⬜ | ⬜ | ⬜ |
 | Parabrisas | ⬜ | ⬜ | ⬜ |
 | Faro | ⬜ | ⬜ | ⬜ |
-| Disponibilidad de repuestos | ⬜ | ⬜ | ⬜ |
-| Servicio técnico local | ⬜ | ⬜ | ⬜ |
-| Garantía | ⬜ | ⬜ | ⬜ |
+| Repuestos en stock | ⬜ | ⬜ | ⬜ |
+| Servicio técnico en Temuco | ⬜ | ⬜ | ⬜ |
 | Cámara 360° | ⬜ | ⬜ | ⬜ |
-| Monitor de punto ciego | ⬜ | ⬜ | ⬜ |
-| Control crucero adaptativo | ⬜ | ⬜ | ⬜ |
+| Monitor punto ciego | ⬜ | ⬜ | ⬜ |
+| ACC | ⬜ | ⬜ | ⬜ |
 | CarPlay inalámbrico | ⬜ | ⬜ | ⬜ |
 | Android Auto inalámbrico | ⬜ | ⬜ | ⬜ |
-| ISOFIX | ⬜ | ⬜ | ⬜ |
 | Rueda de repuesto | ⬜ | ⬜ | ⬜ |
 | Maletero real | ⬜ | ⬜ | ⬜ |
-| Medida/precio neumáticos | ⬜ | ⬜ | ⬜ |
 | Remolque homologado | ⬜ | ⬜ | ⬜ |
 | Reventa 3 años | ⬜ | ⬜ | ⬜ |
 | Reventa 5 años | ⬜ | ⬜ | ⬜ |
 
 ---
 
-## 23. Fuentes oficiales de referencia
+## 19. Fuentes oficiales utilizadas
 
-| Marca | Fuente |
+| Fuente | URL |
 | :--- | :--- |
-| **Toyota RAV4 AWD 2026** | https://tienda.toyota.cl/index.php?controller=product&id_product=974&rewrite=all-new-rav4 |
-| **Toyota precios/comercial** | https://tienda.toyota.cl/index.php?controller=category&id_category=2&q=Modelo-All+New+Rav4%2FCombustible-Gasolina |
-| **Toyota términos comerciales** | https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/ |
-| **Subaru Crosstrek 2026** | https://www.subaru.cl/vehiculos/all-new-crosstrek/ |
-| **Subaru ficha técnica** | https://www.subaru.cl/media/vz3bu2er/spec-crosstrek-2026-a4-web_compressed.pdf |
+| **Toyota RAV4 LE 2.0 AWD** | https://tienda.toyota.cl/index.php?controller=product&id_product=974&rewrite=all-new-rav4 |
+| **Toyota garantía** | https://toyota.cl/terminos-y-condiciones/ |
+| **Toyota mantenciones** | https://tienda.toyota.cl/index.php?controller=product&id_product=1009&rewrite=mantencion-rav4 |
+| **Subaru Crosstrek** | https://www.subaru.cl/vehiculos/all-new-crosstrek/ |
+| **Subaru ficha técnica 2026** | https://www.subaru.cl/media/k1mkeoad/spec-crosstrek-2026-a4-1812_compressed.pdf |
 | **Subaru garantía/mantención** | https://www.subaru.cl/garantia-y-plan-de-mantencion |
 | **Mazda CX-5** | https://www.mazda.cl/vehiculo/mazda-cx-5 |
-| **Mazda ficha técnica** | https://www.mazda.cl/media/uivahs3j/mazda-ficha-cx-5-octubre-2025.pdf |
+| **Mazda ficha técnica** | https://www.mazda.cl/media/4p2pgyh4/mazda-ficha-cx-5-enero-2025-v1-b.pdf |
+| **SII tasación 2026** | https://www.sii.cl/destacados/tasacion_vehiculos/2026/index.html |
+| **SII UTM 2026** | https://www.sii.cl/valores_y_fechas/utm/utm2026.htm |
 
-| Nota metodológica | Detalle |
+---
+
+## 20. Notas metodológicas
+
+| Tema | Regla |
 | :--- | :--- |
-| **Precios** | Los precios de lista son más comparables que los precios “desde”, porque estos últimos pueden depender de financiamiento y bonos. |
-| **Consumo** | Las cifras son homologadas; el consumo real puede ser diferente. |
-| **Equipamiento** | Siempre verificar la versión AWD exacta y el año/modelo antes de usar un dato para una decisión de compra. |
-| **Tracción** | Todo vehículo incluido en las tablas principales es AWD/4x4. No se usa información de versiones 4x2/2WD para establecer ganadores. |
+| **Precios** | Usar precio lista para comparar y precio contado cotizado para decidir. |
+| **Bonos** | No considerar un bono como “precio real” hasta confirmar vigencia y condiciones en el concesionario. |
+| **Impuesto verde** | Confirmar en SII para la versión/código exacto; Toyota publica una cifra de referencia en su propia ficha. |
+| **Permiso** | Para vehículos nuevos, SII indica que la tasación del primer permiso corresponde al valor neto de la factura/contrato; el permiso se calcula con la escala vigente y puede ser proporcional en el primer año. |
+| **Consumo** | Solo homologado; no sustituye un registro de consumo real. |
+| **Seguridad** | Comparar por versión exacta: el Crosstrek 2.0i AWD base, por ejemplo, no incluye EyeSight/BSD/RCTA, que aparecen en versiones superiores. |
+| **TCO** | No declarar un ganador económico mientras falten seguro, mantenciones completas y valor de reventa. |
