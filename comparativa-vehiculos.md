@@ -13,6 +13,40 @@
 
 ---
 
+## 1.0 Perfil de uso personalizado en Temuco
+
+| Variable | Perfil declarado | Impacto en la comparación |
+| :--- | :--- | :--- |
+| **Ciudad** | Temuco | 🟢 La facilidad de uso urbano y postventa local deben pesar bastante. |
+| **Uso diario** | Gimnasio + supermercado, prácticamente todos los días | 🟢 El confort en trayectos cortos, maniobrabilidad, consumo urbano y facilidad de estacionamiento importan más que el desempeño extremo. |
+| **Viajes fuera de la ciudad** | Aproximadamente 4 veces al año | El comportamiento en carretera importa, pero no justifica pagar mucho más únicamente por prestaciones de viaje. |
+| **Salida con grupo de amigos** | Aproximadamente 1 vez al año | El espacio trasero y maletero importan, pero tienen poco peso frente al uso diario. |
+| **Primer vehículo** | Sí | 🟢 Conviene dar más peso a seguridad, facilidad de manejo, disponibilidad de repuestos, postventa y costo predecible. |
+| **Estacionamiento habitual** | Subterráneo del departamento | 🟢 Maniobrabilidad, ancho, sensores/cámara y facilidad para entrar/salir del estacionamiento adquieren mayor importancia. |
+| **AWD/4x4** | Requisito de esta comparativa | AWD debe evaluarse como una ventaja de lluvia, ripio y viajes ocasionales, no como necesidad diaria de uso urbano. |
+| **Prioridad sugerida** | Costo total + facilidad de uso + seguridad + confiabilidad | 🟢 Evitar sobreponderar potencia, remolque o capacidad off-road si casi nunca se utilizarán. |
+
+| Ajuste recomendado de pesos | Peso sugerido |
+| :--- | ---: |
+| **Costo total de propiedad** | **25%** |
+| **Seguridad** | **20%** |
+| **Confiabilidad / postventa local** | **15%** |
+| **Confort / facilidad de uso diario** | **15%** |
+| **Desempeño / conducción** | **10%** |
+| **Consumo** | **5%** |
+| **Espacio / practicidad** | **5%** |
+| **Tecnología** | **3%** |
+| **Reventa** | **2%** |
+| **Total** | **100%** |
+
+| Interpretación | Resultado |
+| :--- | :--- |
+| **Qué sube de importancia** | Precio real, seguro, mantenciones, depreciación, estacionamiento, cámara/sensores, confort urbano y postventa en Temuco. |
+| **Qué baja de importancia** | Capacidad de remolque, desempeño extremo, maletero máximo y aptitud off-road severa. |
+| **Qué NO debe hacerse** | Elegir el vehículo por el mejor km/l homologado aislado: con poco kilometraje anual, la diferencia absoluta de combustible será relativamente pequeña. |
+
+---
+
 ## 1. Versiones AWD realmente comparables
 
 | Marca / modelo | Versión AWD de referencia en Chile | Versiones AWD superiores relevantes | Año/ficha de referencia |
@@ -26,6 +60,29 @@
 | **Comparación principal** | RAV4 LE 2.0 AWD vs. Crosstrek 2.0i AWD vs. CX-5 Core 2.0 AWD. |
 | **Por qué** | Son las puertas de entrada AWD de cada modelo y evitan mezclar motores/equipamientos de versiones superiores. |
 | **Diferencia de gama** | El CX-5 permite subir a 2.5/2.5T; el Crosstrek permite subir principalmente en equipamiento y también a híbrido; la RAV4 de esta gama ofrece la LE 2.0 AWD como referencia AWD gasolina. |
+
+---
+
+## 1.1 Impacto del bajo kilometraje anual
+
+| Supuesto de sensibilidad | Kilómetros/año |
+| :--- | ---: |
+| **Uso bajo** | 5.000 km |
+| **Uso medio** | 7.000 km |
+| **Uso alto** | 9.000 km |
+
+| Escenario | RAV4 AWD 13,8 km/l | Crosstrek AWD 13,9 km/l | CX-5 AWD 14,2 km/l |
+| :--- | ---: | ---: | ---: |
+| **5.000 km/año** | ~$570.000 | ~$566.000 | 🟢 ~$554.000 |
+| **7.000 km/año** | ~$798.000 | ~$793.000 | 🟢 ~$776.000 |
+| **9.000 km/año** | ~$1.027.000 | ~$1.019.000 | 🟢 ~$998.000 |
+
+| Base del cálculo | Detalle |
+| :--- | :--- |
+| **Precio de referencia** | Bencina 95 en Temuco: mediana de aproximadamente **$1.574/l** al 2 de octubre de 2026. |
+| **Fuente** | Información de estaciones reportada a la CNE; los precios cambian diariamente. |
+| **Advertencia** | Son cálculos orientativos usando consumo mixto homologado. Los trayectos urbanos cortos pueden arrojar un consumo real peor. |
+| **Conclusión económica** | A 5.000–9.000 km/año, la diferencia de combustible entre estos tres modelos es relativamente pequeña frente a una diferencia de precio de compra, seguro o depreciación. |
 
 ---
 
