@@ -398,6 +398,48 @@
 
 ---
 
+## 11.1. Capa local: proveedores y soporte en Temuco
+
+> **Objetivo:** incorporar datos reales de la zona de uso, sin confundir la existencia de un proveedor con un precio ya cotizado. Los precios que no estén publicados se mantienen como **cotizar**.
+
+| Marca / vehículo | Proveedor oficial en Temuco | Soporte confirmado | Referencia local |
+| :--- | :--- | :--- | :--- |
+| **Toyota RAV4 AWD** | **Toyota Portillo Sur - Temuco** | Servicio técnico oficial + repuestos originales + venta de Toyota 0 km | Bernardo O'Higgins 0250; horario publicado aprox. 08:30–19:00 según día |
+| **Subaru Crosstrek AWD** | **Salazar Israel Temuco** | Servicio técnico y repuestos; la red Subaru identifica la sucursal de Caupolicán para servicio/repuestos y Plaza Banderas para ventas | Caupolicán 1476 / Hochstetter 976 |
+| **Mazda CX-5 AWD** | **DeCar - Temuco Casa Matriz** | Servicio técnico + repuestos Mazda | Bernardo O'Higgins 302; servicio L–V 08:30–13:30 y 15:00–18:00; sábado 10:00–13:00 |
+| **Hyundai Tucson 4WD** | **Gildemeister Retail Temuco** | Servicio técnico + repuestos Hyundai | Pedro León Gallo 1021; servicio L–J 08:30–18:00 y V 08:30–17:30 |
+
+| Tipo de proveedor | Referencia local útil | Para qué usarlo en la comparativa |
+| :--- | :--- | :--- |
+| **Seguro automotriz** | **Temuco Seguros** | Comparar cotizaciones de distintas aseguradoras y registrar prima, deducible, robo, pérdida total, asistencia y vehículo de reemplazo. |
+| **Taller multimarca / mantención** | **Taller Izaguirre Gallardo** | Benchmark de mantenciones, frenos, baterías, neumáticos y reparaciones fuera de garantía; publica atención para Toyota, Subaru y Mazda. |
+| **Servicio automotriz multimarca** | **S&M Servicio Automotriz** | Segunda referencia local para Toyota/Mazda y costos de mantención/reparación fuera de garantía. |
+| **Neumáticos** | **NEUMA-REX Temuco / Serviteca DACSA** | Cotizar 4 neumáticos de la medida exacta, montaje, balanceo, alineación y válvulas. |
+| **Parabrisas** | **Parabrisas Araucanía** | Cotizar vidrio, instalación y disponibilidad; además permite contrastar el costo fuera del concesionario. |
+
+### Método de cotización local
+
+| Ítem | Cómo incorporarlo |
+| :--- | :--- |
+| **Mantenciones 10k–100k** | Pedir precio para la **versión AWD exacta** y conservar por separado precio de concesionario oficial y precio de taller independiente. |
+| **Pastillas y discos** | Cotizar kit + mano de obra; registrar si es OEM/original o alternativo. |
+| **Batería 12 V** | Cotizar marca, capacidad, garantía y mano de obra. |
+| **Neumáticos** | Pedir 4 unidades de la medida exacta, incluyendo instalación, balanceo, alineación y disposición del neumático usado si aplica. |
+| **Parabrisas / faro LED** | Cotizar pieza, instalación y, cuando corresponda, calibración ADAS. |
+| **Seguro** | Solicitar cotización para la misma versión AWD, Temuco y mismo nivel de deducible/cobertura para los cuatro modelos. |
+| **Postventa** | Registrar disponibilidad del proveedor, horario, repuestos, tiempo de espera para cita y si realiza diagnóstico/calibración ADAS. |
+| **TCO** | Usar los costos locales como entrada preferente cuando estén cotizados; no sustituir una cotización real por una cifra de internet sin advertencia. |
+
+### Regla de puntuación local
+
+| Criterio | Regla |
+| :--- | :--- |
+| **Disponibilidad de postventa** | Puntuar por existencia de servicio oficial, repuestos y alternativa independiente en Temuco. |
+| **Costo de servicio** | Puntuar con cotizaciones comparables; menor costo no significa automáticamente mejor si cambia la calidad/cobertura. |
+| **Riesgo de quedar sin vehículo** | Incorporar tiempo de espera para atención y disponibilidad de repuestos cuando exista información verificable. |
+| **Calibración ADAS** | Registrar expresamente si el proveedor local puede realizarla tras cambio de parabrisas o reparación frontal. |
+| **Proveedor independiente** | Úsalo como referencia de costo fuera de garantía, no como sustituto automático del servicio oficial mientras el vehículo esté sujeto a condiciones de garantía. |
+
 ## 12. Costos de mantención que faltan cotizar localmente
 
 | Mantención / desgaste | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
