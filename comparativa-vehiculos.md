@@ -440,17 +440,44 @@
 
 ## 14. Reventa y depreciación
 
-| Criterio | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | :--- | :--- | :--- | :---: |
-| **Reputación histórica de reventa** | 🟢 Fuerte | Buena | Buena | Buena a verificar |
-| **Precio usado 1 año** | Investigar | Investigar | Investigar | Investigar |
-| **Precio usado 3 años** | Investigar | Investigar | Investigar | Investigar |
-| **Precio usado 5 años** | Investigar | Investigar | Investigar | Investigar |
-| **Demanda de AWD** | 🟢 Alta a verificar | Buena a verificar | Buena a verificar | Investigar |
-| **Depreciación real** | Calcular | Calcular | Calcular | Calcular |
-| **Tiempo de venta** | Investigar | Investigar | Investigar | Investigar |
+| Criterio | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Tucson 4WD |
+| :--- | :--- | :--- | :--- | :--- |
+| **Señal de reventa** | 🟢 Fuerte | Buena | Buena | Buena |
+| **Depreciación observada preliminar** | ~25% | ~26% | ~32% | 🟢 ~18% |
+| **Confianza** | Media | 🟢 Buena | Media | Media |
+| **Precio usado comparable** | $24,0 M / 42k km (2021 Adventure 4x4) | $18,49 M / ~52k km (2024 2.0 AWD) | $21,29 M / 36,5k km (2023 2.0 Active AWD) | $16,89 M / 62,3k km (2021 1.6T Limited 4WD) |
+| **Valor para TCO** | 🟢 Alto | Alto | Alto | Alto |
+| **Nota para el ranking** | **Mantener pendiente de más muestras** | **Usar provisionalmente** | **Mantener pendiente de más muestras** | **Mantener provisionalmente** |
 
----
+## 14.1 Depreciación observada en el mercado chileno
+
+| Modelo | Referencia histórica de nuevo | Precio usado observado | Año / km del usado | Retención aproximada | Depreciación observada | Calidad del dato |
+| :--- | ---: | ---: | :--- | ---: | ---: | :--- |
+| **Toyota RAV4 AWD** | ~$31,99 M* | **$24,00 M** | 2021 Adventure 4x4 / 42.000 km | ~75% | ~25% | 🟡 Media: referencia de precio promedio del modelo, no del mismo trim |
+| **Subaru Crosstrek** | **$24,99 M** | **$18,49 M** | 2024 2.0 AWD / ~52.000–60.000 km | ~74% | ~26% | 🟢 Buena: precio inicial oficial de la versión AWD base + varios avisos comparables |
+| **Mazda CX-5 AWD** | ~$31,29 M* | **$21,29 M** | 2023 2.0 Active AWD / 36.500 km | ~68% | ~32% | 🟡 Media: referencia de precio promedio del modelo vs. avisos AWD |
+| **Hyundai Tucson AWD** | ~$20,69 M* | **$16,89 M** | 2021 1.6T Limited 4WD / 62.300 km | ~82% | ~18% | 🟡 Media: referencia promedio del modelo vs. versión AWD exacta |
+
+| Modelo | Observaciones de mercado |
+| :--- | :--- |
+| **RAV4** | Chileautos registra además una RAV4 2021 Adventure 4x4 a $24,0 M con 42.000 km. Otra RAV4 2021 Limited Hybrid 4x4 aparece a $26,49 M con 108.069 km; esto muestra que versión y motorización pueden alterar mucho la retención. |
+| **Crosstrek** | Chileautos muestra varios Crosstrek 2024 AWD en torno a $18,0–20,0 M. Un 2024 2.0 AWD de 36.173 km aparece en $17,99 M y otro de 52.284 km en $18,49 M. |
+| **CX-5** | Para 2023, Chileautos muestra varios AWD 2.0: $21,48 M (60.000 km), $20,09 M (50.000 km) y $21,29 M (36.500 km). Esto da una señal mucho más útil que mirar un solo aviso. |
+| **Tucson** | Un Tucson 2021 1.6T NX4 Limited 4WD aparece en $16,89 M con 62.300 km. El mercado también tiene Tucson 2022 AWD Limited anunciadas cerca de $24,9–25,0 M, lo que evidencia diferencias importantes por año, kilometraje y versión. |
+
+| Regla de interpretación | Aplicación |
+| :--- | :--- |
+| **Precio de publicación ≠ precio de venta** | Los valores de Chileautos son precios pedidos por vendedores. Para TCO deben tratarse como una aproximación al valor de mercado, no como una transacción cerrada. |
+| **Depreciación real** | La cifra debería confirmarse con varios avisos, idealmente comparando misma versión, año y rango de kilometraje. |
+| **Inflación / cambio de precios** | Comparar precio de nuevo de 2021/2023 con precio nuevo de 2026 no es lo mismo que medir depreciación financiera pura; por eso esta tabla se llama **depreciación observada**. |
+| **Importancia para este comprador** | 🟢 Como se planea conservar el vehículo varios años y el kilometraje anual será relativamente bajo, la depreciación probablemente tendrá bastante más impacto económico que una diferencia pequeña de consumo. |
+
+| *Referencia histórica* | Detalle |
+| :--- | :--- |
+| **RAV4 2021** | Chileautos muestra un precio promedio histórico de **$31,99 M** para RAV4 2021. |
+| **Crosstrek 2023** | Subaru publicó oficialmente **$24,99 M** para el 2.0i AWD CVT al lanzamiento en mayo de 2023. |
+| **CX-5 2023** | Chileautos muestra un precio promedio histórico de **$31,29 M** para CX-5 2023; la cifra agrupa la gama y no solo el 2.0 AWD. |
+| **Tucson 2021** | Chileautos muestra un precio promedio histórico de **$20,69 M** para Tucson 2021; la cifra agrupa la gama y no solo el 1.6T 4WD. |
 
 ## 15. TCO a 5 años
 
@@ -505,16 +532,16 @@
 | **Consumo** | 5% | 8,5/10 | 8,5/10 | 🟢 9,0/10 | 7,0/10 |
 | **Espacio / practicidad** | 5% | 🟢 9,0/10 | 7,0/10 | 8,5/10 | 9,0/10 |
 | **Tecnología** | 3% | 8,0/10 | 8,0/10 | 🟢 9,0/10 | 🟢 9,0/10 |
-| **Reventa** | 2% | 🟢 9,0/10 | 8,0/10 | 8,0/10 | 7,5/10 |
-| **Puntaje total ponderado** | **100%** | **8,27/10** | **8,25/10** | 🟢 **8,36/10** | **7,95/10** |
-| **Porcentaje equivalente** | **100%** | **82,7/100** | **82,5/100** | 🟢 **83,6/100** | **79,5/100** |
+| **Reventa** | 2% | 🟢 8,8/10 | 8,3/10 | 7,8/10 | 8,7/10 |
+| **Puntaje total ponderado** | **100%** | **8,27/10** | **8,26/10** | 🟢 **8,36/10** | **8,01/10** |
+| **Porcentaje equivalente** | **100%** | **82,7/100** | **82,6/100** | 🟢 **83,6/100** | **80,1/100** |
 | **Ranking preliminar** | — | **2.º** | **3.º** | 🟢 **1.º** | **4.º** |
 
 | Regla del score | Detalle |
 | :--- | :--- |
 | **Escala** | 0–10 por ítem; 10 es mejor. |
 | **Puntaje ponderado** | Cada categoría se multiplica por su peso y luego se suman todas las contribuciones. |
-| **Estado** | Este ranking es **preliminar** porque TCO, seguro, reventa y algunos costos de postventa todavía requieren cotización/datos reales. |
+| **Estado** | Este ranking sigue siendo **preliminar** porque TCO, seguro, mantenciones completas y varias referencias de reventa todavía requieren más datos. |
 | **Actualización** | Cuando se complete un dato pendiente, deben recalcularse las notas afectadas y el puntaje total. |
 
 ## 18. Checklist de compra en Chile
@@ -566,6 +593,20 @@
 | **Hyundai Tucson 1.5T 4WD Plus** | https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/especificaciones-tecnicas/ |
 | **SII tasación 2026** | https://www.sii.cl/destacados/tasacion_vehiculos/2026/index.html |
 | **SII UTM 2026** | https://www.sii.cl/valores_y_fechas/utm/utm2026.htm |
+| **Chileautos RAV4 Adventure 2021** | https://www.chileautos.cl/vehiculos/detalles/2021-toyota-rav4-2-5-adventure-4x4-at-5p/CL-AD-20524314/ |
+| **Chileautos XV AWD 2021** | https://www.chileautos.cl/vehiculos/usado-tipo/subaru/xv/2021-ano/ |
+| **Subaru Crosstrek precio lanzamiento 2023** | https://www.subaru.cl/media/2nfd4yks/precio-y-especificaciones_all-new-crosstrek_precios.pdf |
+| **Chileautos CX-5 Active AWD 2023** | https://www.chileautos.cl/vehiculos/detalles/2023-mazda-cx-5-2-0-active-awd-at-5p/CP-AD-8552808/ |
+| **Chileautos Tucson Limited 4WD 2021** | https://www.chileautos.cl/vehiculos/detalles/2021-hyundai-tucson-1-6t-nx4-limited-4wd-at-5p/CP-AD-8542294/ |
+| **Chileautos RAV4 precio 2021** | https://www.chileautos.cl/toyota/rav4/precio/2021/ |
+| **Chileautos Crosstrek / precios** | https://www.chileautos.cl/subaru/crosstrek/precio/ |
+| **Chileautos Subaru XV precio 2021** | https://www.chileautos.cl/subaru/xv/precio/2021/ |
+| **Chileautos CX-5 precio 2023** | https://www.chileautos.cl/mazda/cx-5/precio/2023/ |
+| **Chileautos Tucson precio 2021** | https://www.chileautos.cl/hyundai/tucson/precio/2021/ |
+| **Chileautos avisos AWD RAV4 2021** | https://www.chileautos.cl/vehiculos/toyota/rav4/2021-ano/ |
+| **Chileautos avisos AWD Crosstrek** | https://www.chileautos.cl/vehiculos/subaru/crosstrek/ |
+| **Chileautos avisos AWD CX-5 2023** | https://www.chileautos.cl/vehiculos/mazda/cx-5/2023-ano/ |
+| **Chileautos avisos AWD Tucson 2021** | https://www.chileautos.cl/vehiculos/hyundai/tucson/2021-ano/ |
 
 ---
 
