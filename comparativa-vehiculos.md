@@ -157,9 +157,9 @@
 
 | Escenario | RAV4 AWD 13,8 km/l | Crosstrek AWD 13,9 km/l | CX-5 AWD 14,2 km/l | Hyundai Tucson 1.5T 4WD Plus |
 | :--- | ---: | ---: | ---: | :---: |
-| **5.000 km/año** | ~$570.000 | ~$566.000 | 🟢 ~$554.000 | ~$625.000* |
-| **7.000 km/año** | ~$798.000 | ~$793.000 | 🟢 ~$776.000 | ~$875.000* |
-| **9.000 km/año** | ~$1.027.000 | ~$1.019.000 | 🟢 ~$998.000 | ~$1.125.000* |
+| **5.000 km/año** | ~$570.000 | ~$566.000 | 🟢 ~$554.000 | ~$661.000* |
+| **7.000 km/año** | ~$798.000 | ~$793.000 | 🟢 ~$776.000 | ~$925.000* |
+| **9.000 km/año** | ~$1.027.000 | ~$1.019.000 | 🟢 ~$998.000 | ~$1.189.000* |
 
 | Base del cálculo | Detalle |
 | :--- | :--- |
@@ -231,7 +231,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 11,1 km/l* |
 | **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 15,6 km/l* |
-| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 12,6 km/l* |
+| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 11,9 km/l* |
 | **Ranking ciudad** | 2.º (empate) | 4.º | 🟢 1.º | 2.º (empate) |
 | **Ranking carretera** | 2.º | 🟢 1.º | 3.º | 4.º |
 | **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 4.º |
@@ -518,7 +518,7 @@
 
 ## 20. Notas metodológicas
 
-| **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6/12,6 km/l se conserva como referencia de mercado/concesionario y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
+| **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6 km/l se conserva como referencia de mercado/concesionario y el mixto 11,9 km/l proviene de información pública oficial y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
 
 | Tema | Regla |
 | :--- | :--- |
