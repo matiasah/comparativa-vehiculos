@@ -8,6 +8,27 @@
 >
 > Mantén la comparativa orientada a una decisión de compra real en Chile, priorizando costo total de propiedad, seguridad, confiabilidad/postventa, comodidad de uso diario y utilidad real. La comparativa debe ser útil para este perfil: **Temuco, 29 años, primer vehículo, uso principalmente diario para gimnasio y supermercado, aproximadamente cuatro salidas fuera de la ciudad al año, aproximadamente una salida anual con un grupo de amigos y estacionamiento habitual en un estacionamiento subterráneo**.
 >
+
+> **Sistema de puntuación obligatorio**
+>
+> 26. **Puntuar cada ítem comparable.** Toda fila de una tabla que compare atributos entre vehículos debe incluir, además del dato descriptivo, un **puntaje de 0 a 10 para cada vehículo**. La nota debe evaluar únicamente ese ítem y no la impresión general del vehículo.
+>
+> 27. **Escala homogénea.** Usa 0–10, donde 10 = desempeño/valor excepcional dentro de los vehículos comparados y 0 = muy desfavorable. Para criterios donde “menos es mejor” (precio, costo, peso, consumo de combustible), transforma el resultado a una nota donde el mejor valor reciba la nota más alta. No cambies la dirección de la escala entre tablas.
+>
+> 28. **Puntaje basado en evidencia.** La nota debe derivarse de datos verificables, comparaciones relativas o una evaluación claramente explicada. No asignar 10 a varios vehículos sin una razón objetiva. Se permiten empates cuando la diferencia sea insignificante.
+>
+> 29. **Mostrar dato + nota.** Mantén la información factual visible y agrega el puntaje de forma compacta, por ejemplo: “14,2 km/l — 9,5/10”. El 🟢 continúa indicando el mejor resultado del ítem; la nota numérica complementa, no reemplaza, el dato.
+>
+> 30. **Puntaje por categoría.** Cuando varias filas pertenecen a una misma categoría, calcula un promedio de sus notas para obtener el puntaje de la categoría. No mezcles una categoría con otra al calcular ese promedio.
+>
+> 31. **Puntaje total.** Usa la tabla de ponderación personalizada del documento. El puntaje total de cada vehículo debe ser la suma de “puntaje de categoría × peso de categoría”, expresada sobre 10 y también, si resulta útil, como porcentaje sobre 100.
+>
+> 32. **Fila final obligatoria.** La tabla final de decisión debe terminar con una fila **Puntaje total ponderado** y, cuando corresponda, una fila **Ranking final**. El vehículo con mayor puntaje total recibe 🟢; los empates deben mantenerse como empates.
+>
+> 33. **Actualizaciones.** Si cambia un dato que afecta una nota, recalcula el puntaje del ítem, el promedio de la categoría y el puntaje total. Nunca dejes el ranking anterior cuando los datos que lo sustentaban hayan cambiado.
+>
+> 34. **No confundir precio con valor.** Una nota económica debe considerar el objetivo del criterio. Un vehículo no recibe automáticamente mejor nota solo por ser más barato; para TCO se debe considerar el costo total de propiedad y para precio inicial se puntúa exclusivamente el desembolso inicial comparable.
+>
 > **Reglas que debes seguir siempre**
 >
 > 1. **Solo AWD/4x4.** No uses versiones 4x2/2WD para construir precios, consumos, equipamiento, seguridad, desempeño ni conclusiones. Si una versión no tiene AWD, déjala fuera.
@@ -472,21 +493,29 @@
 
 ---
 
-## 17. Ponderación final recomendada
+## 17. Ponderación y score final
 
-| Categoría | Peso | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | ---: | :---: | :---: | :---: | :---: |
-| Seguridad | 20% | /10 | /10 | /10 | /10 |
-| Costo total de propiedad | 20% | /10 | /10 | /10 | /10 |
-| Confiabilidad/postventa | 15% | /10 | /10 | /10 | /10 |
-| Desempeño/conducción | 15% | /10 | /10 | /10 | /10 |
-| Consumo | 10% | /10 | /10 | /10 | /10 |
-| Espacio/practicidad | 10% | /10 | /10 | /10 | /10 |
-| Tecnología/confort | 5% | /10 | /10 | /10 | /10 |
-| Reventa | 5% | /10 | /10 | /10 | /10 |
-| **Puntaje ponderado final** | **100%** | **—** | **—** | **—** | /10 |
+| Categoría | Peso | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Tucson 4WD |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Costo total de propiedad** | 25% | 7,5/10 | 8,5/10 | 8,0/10 | 7,0/10 |
+| **Seguridad** | 20% | 8,5/10 | 8,0/10 | 8,0/10 | 8,0/10 |
+| **Confiabilidad / postventa local** | 15% | 9,0/10 | 8,5/10 | 8,0/10 | 8,0/10 |
+| **Confort / facilidad de uso diario** | 15% | 8,0/10 | 8,5/10 | 🟢 9,0/10 | 8,5/10 |
+| **Desempeño / conducción** | 10% | 8,5/10 | 8,0/10 | 🟢 9,0/10 | 9,0/10 |
+| **Consumo** | 5% | 8,5/10 | 8,5/10 | 🟢 9,0/10 | 7,0/10 |
+| **Espacio / practicidad** | 5% | 🟢 9,0/10 | 7,0/10 | 8,5/10 | 9,0/10 |
+| **Tecnología** | 3% | 8,0/10 | 8,0/10 | 🟢 9,0/10 | 🟢 9,0/10 |
+| **Reventa** | 2% | 🟢 9,0/10 | 8,0/10 | 8,0/10 | 7,5/10 |
+| **Puntaje total ponderado** | **100%** | **8,24/10** | **8,23/10** | 🟢 **8,58/10** | **8,02/10** |
+| **Porcentaje equivalente** | **100%** | **82,4/100** | **82,3/100** | 🟢 **85,8/100** | **80,2/100** |
+| **Ranking preliminar** | — | **2.º** | **3.º** | 🟢 **1.º** | **4.º** |
 
----
+| Regla del score | Detalle |
+| :--- | :--- |
+| **Escala** | 0–10 por ítem; 10 es mejor. |
+| **Puntaje ponderado** | Cada categoría se multiplica por su peso y luego se suman todas las contribuciones. |
+| **Estado** | Este ranking es **preliminar** porque TCO, seguro, reventa y algunos costos de postventa todavía requieren cotización/datos reales. |
+| **Actualización** | Cuando se complete un dato pendiente, deben recalcularse las notas afectadas y el puntaje total. |
 
 ## 18. Checklist de compra en Chile
 
@@ -541,6 +570,8 @@
 ---
 
 ## 20. Notas metodológicas
+
+| **Puntuación** | En futuras actualizaciones, cada fila comparativa debe mostrar dato + nota /10 para los cuatro vehículos; las notas de cada categoría deben alimentar el puntaje ponderado final. |
 
 | **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6 km/l se conserva como referencia de mercado/concesionario y el mixto 11,9 km/l proviene de información pública oficial y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
 
