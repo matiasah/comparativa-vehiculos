@@ -112,7 +112,7 @@
 | **Alcance** | **Solo versiones con tracción integral AWD/4x4.** |
 | **Leyenda** | 🟢 = mejor ventaja de esa fila. 🟡 = punto a vigilar. 🔴 = desventaja/riesgo relevante. |
 | **Regla** | No se usan versiones 4x2/2WD para establecer precios, consumos, equipamiento ni ganadores. |
-| **Nota** | “4x4” aquí significa AWD/Symmetrical AWD/i-Activ AWD; ninguno de los tres es una 4x4 tradicional con reductora. |
+| **Nota** | “4x4” aquí significa AWD/Symmetrical AWD/i-Activ AWD/HTRAC; ninguno es una 4x4 tradicional con reductora. |
 
 ---
 
@@ -196,7 +196,7 @@
 ## 2. Precio real de referencia en Chile
 
 | Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Subaru Forester 2.5 AWD XS ES |
-| :--- | :---: | :---: | :---: | :---: | :---:  ---: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---:  ---: |
 | **Precio lista publicado** | **$29.990.000** | 🟢 **$25.990.000** | $27.490.000 | **$30.190.000** | $31.490.000 |
 | **Precio web/promocional observado** | $28.690.000* | $23.790.000* | 🟢 $25.190.000* | $26.590.000* | $27.990.000** |
 | **Diferencia vs. lista más barata** | +$4.000.000 | 🟢 $0 | +$1.500.000 | +$4.200.000 | +$5.500.000 |
@@ -215,13 +215,13 @@
 
 ## 3. Impuestos y costos legales de compra
 
-| Concepto | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---: | :---:  ---: |
+| Concepto | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
 | **IVA** | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado |
-| **Impuesto verde** | 🟡 Toyota publica una referencia de **$634.852** para esta unidad en su página comercial; verificar cálculo final con SII/VIN/CIT | **Calcular en SII para la versión exacta** | **Calcular en SII para la versión exacta** | Calcular en SII para la versión exacta | 🟡 Subaru publica **$416.184** para la 2.5 AWD XS ES en su tabla de precios; verificar nuevamente con SII/CIT exacto |
+| **Impuesto verde** | 🟡 Toyota publica una referencia de **$634.852** para esta unidad en su página comercial; verificar cálculo final con SII/VIN/CIT | **Calcular en SII para la versión exacta** | **Calcular en SII para la versión exacta** | Calcular en SII para la versión exacta | 🟡 $416.184 publicado por Subaru; verificar con SII/CIT exacto |
 | **Permiso de circulación** | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII |
-| **Tasación fiscal de un vehículo nuevo** | Valor neto de factura/contrato para el primer permiso | Igual | Igual | Valor neto de factura/contrato para el primer permiso  Pendiente |
-| **Regla de permiso 2026** | Escala progresiva sobre tasación fiscal | Igual | Igual | Calcular por tasación SII  Pendiente |
+| **Tasación fiscal de un vehículo nuevo** | Valor neto de factura/contrato para el primer permiso | Igual | Igual | Valor neto de factura/contrato para el primer permiso | Valor neto de factura/contrato para el primer permiso |
+| **Regla de permiso 2026** | Escala progresiva sobre tasación fiscal | Igual | Igual | Calcular por tasación SII | Escala progresiva sobre tasación fiscal |
 
 | Referencia SII 2026 | Valor |
 | :--- | :--- |
@@ -236,29 +236,29 @@
 
 ## 4. Motor, potencia y transmisión
 
-| Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | 🟢 **1.5T gasolina**  2.5 Boxer gasolina |
-| **Cilindrada** | 2.0 L | 🟢 **1.995 cc** | 2.0 L | 1.500 cc  2.498 cc |
-| **Potencia máxima** | 🟢 **169 hp** | 156 CV | 154 hp | 🟢 **178 hp**  185 CV |
-| **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 🟢 **200 Nm** | 🟢 **253 Nm**  247 Nm |
-| **Transmisión** | CVT | Lineartronic CVT | 🟢 Automática 6AT | 🟢 **Automática 8AT**  CVT |
-| **Tracción** | AWD | 🟢 Symmetrical AWD permanente + ATV | i-Activ AWD | 🟢 **4WD H-Track**  Pendiente |
-| **Capacidad estanque** | Ver ficha exacta | 🟢 **63 L** | Ver ficha exacta | 54 L  Pendiente |
-| **Perfil mecánico** | 🟢 Potencia/eficiencia | 🟢 Tracción/despeje | 🟢 Caja convencional/torque | 🟢 Turbo + alto torque + 8AT  Pendiente |
+| Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | 🟢 **1.5T gasolina** | 2.5 Boxer gasolina |
+| **Cilindrada** | 2.0 L | 🟢 **1.995 cc** | 2.0 L | 1.500 cc | 2.498 cc |
+| **Potencia máxima** | 🟢 **169 hp** | 156 CV | 154 hp | 🟢 **178 hp** | 185 CV |
+| **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 🟢 **200 Nm** | 🟢 **253 Nm** | 247 Nm |
+| **Transmisión** | CVT | Lineartronic CVT | 🟢 Automática 6AT | 🟢 **Automática 8AT** | CVT / Lineartronic |
+| **Tracción** | AWD | 🟢 Symmetrical AWD permanente + ATV | i-Activ AWD | 🟢 **4WD H-Track** | Symmetrical AWD permanente + ATV |
+| **Capacidad estanque** | Ver ficha exacta | 🟢 **63 L** | Ver ficha exacta | 54 L | 63 L |
+| **Perfil mecánico** | 🟢 Potencia/eficiencia | 🟢 Tracción/despeje | 🟢 Caja convencional/torque | 🟢 Turbo + alto torque + 8AT | 🟢 2.5 Boxer + AWD + CVT + buen torque |
 
 ---
 
 ## 5. Consumo AWD de referencia
 
-| Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :---: | :---: | :---: | :---:  ---: |
-| **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 11,1 km/l*  Pendiente |
-| **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 15,6 km/l*  Pendiente |
-| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 11,9 km/l*  Pendiente |
-| **Ranking ciudad** | 2.º (empate) | 4.º | 🟢 1.º | 2.º (empate)  Pendiente |
-| **Ranking carretera** | 2.º | 🟢 1.º | 3.º | 4.º  Pendiente |
-| **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 4.º  Pendiente |
+| Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 11,1 km/l* | 10,6 km/l |
+| **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 15,6 km/l* | 16,1 km/l |
+| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 11,9 km/l* | 14,0 km/l |
+| **Ranking ciudad** | 2.º (empate) | 4.º | 🟢 1.º | 2.º (empate) | 5.º |
+| **Ranking carretera** | 2.º | 🟢 1.º | 3.º | 4.º | 4.º |
+| **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 4.º | 2.º |
 
 | Nota | Detalle |
 | :--- | :--- |
@@ -269,17 +269,17 @@
 
 ## 6. Dimensiones y capacidad
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Largo** | 🟢 **4.600 mm** | 4.480 mm | 4.575 mm | 4.670 mm  4.655 mm |
-| **Ancho** | 🟢 **1.855 mm** | 1.800 mm | 1.845 mm | 1.865 mm  1.830 mm |
-| **Alto** | 🟢 **1.695 mm** | 1.600 mm | 1.680 mm aprox. | 1.665 mm  1.730 mm |
-| **Distancia entre ejes** | 2.690 mm aprox. | 2.670 mm | 🟢 **2.700 mm** | 🟢 **2.755 mm**  2.670 mm |
-| **Despeje al suelo** | ~21,3 cm* | 🟢 **22,0 cm** | 18,5 cm | Verificar ficha técnica chilena  Pendiente |
-| **Maletero con asientos arriba** | Verificar ficha exacta | 328 L | 🟢 **541 L** | 🟢 **539 L**  Pendiente |
-| **Maletero con asientos abatidos** | Verificar ficha exacta | Verificar ficha exacta | 🟢 **1.303 L** | Verificar  Pendiente |
-| **Radio mínimo de giro** | Verificar ficha exacta | 🟢 **5,4 m** | Verificar ficha exacta | Verificar  Pendiente |
-| **Peso en orden de marcha** | Verificar ficha exacta | 1.485 kg* | Ver ficha exacta | 2.090 kg P.B.V.*  Pendiente |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Largo** | 🟢 **4.600 mm** | 4.480 mm | 4.575 mm | 4.670 mm | 4.655 mm |
+| **Ancho** | 🟢 **1.855 mm** | 1.800 mm | 1.845 mm | 1.865 mm | 1.830 mm |
+| **Alto** | 🟢 **1.695 mm** | 1.600 mm | 1.680 mm aprox. | 1.665 mm | 1.730 mm |
+| **Distancia entre ejes** | 2.690 mm aprox. | 2.670 mm | 🟢 **2.700 mm** | 🟢 **2.755 mm** | 2.670 mm |
+| **Despeje al suelo** | ~21,3 cm* | 🟢 **22,0 cm** | 18,5 cm | Verificar ficha técnica chilena | 🟢 220 mm |
+| **Maletero con asientos arriba** | Verificar ficha exacta | 328 L | 🟢 **541 L** | 🟢 **539 L** | 509 L |
+| **Maletero con asientos abatidos** | Verificar ficha exacta | Verificar ficha exacta | 🟢 **1.303 L** | Verificar | Verificar ficha |
+| **Radio mínimo de giro** | Verificar ficha exacta | 🟢 **5,4 m** | Verificar ficha exacta | Verificar | 5,4 m |
+| **Peso en orden de marcha** | Verificar ficha exacta | 1.485 kg* | Ver ficha exacta | 2.090 kg P.B.V.* | 1.594 kg |
 
 | Nota | Detalle |
 | :--- | :--- |
@@ -289,37 +289,37 @@
 
 ## 7. Neumáticos y rueda de repuesto
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Neumático de serie** | Verificar unidad | 🟢 **225/60 R17** | 🟢 **225/65 R17** | 🟢 **235/60 R18**  Pendiente |
-| **TPMS** | ✓ | ✓ | ✓ | ✓  Pendiente |
-| **Rueda de repuesto** | Verificar | 🟢 **185/65 R17** | Verificar | 🟢 **Tamaño completo**  Pendiente |
-| **Kit antipinchazos** | Verificar | No en versión 2.0i base si equipa rueda de repuesto | Verificar | No; incluye rueda de repuesto completa  Pendiente |
-| **Precio 4 neumáticos** | Cotizar | Cotizar | Cotizar | Cotizar  Pendiente |
-| **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar | Cotizar  Pendiente |
-| **Importancia para AWD** | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta  Pendiente |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Neumático de serie** | Verificar unidad | 🟢 **225/60 R17** | 🟢 **225/65 R17** | 🟢 **235/60 R18** | 225/60 R17 99H |
+| **TPMS** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Rueda de repuesto** | Verificar | 🟢 **185/65 R17** | Verificar | 🟢 **Tamaño completo** | ✓ |
+| **Kit antipinchazos** | Verificar | No en versión 2.0i base si equipa rueda de repuesto | Verificar | No; incluye rueda de repuesto completa | No; incluye rueda de repuesto |
+| **Precio 4 neumáticos** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Importancia para AWD** | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta |
 
 ---
 
 ## 8. Seguridad activa y pasiva por versión base
 
-| Sistema | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Airbags** | 7 | 🟢 **8** | 6 | 6  8 |
-| **ABS/EBD** | ✓ | ✓ | ✓/DSC | ✓  Pendiente |
-| **Control estabilidad** | VSC | VDC | DSC | ✓  Pendiente |
-| **Asistencia pendiente** | HAC | ✓ | HLA | ✓ HAC + DBC  Pendiente |
-| **Control descenso** | DAC | — | — | ✓ DBC  Pendiente |
-| **Cámara trasera** | ✓ | ✓ | ✓ | ✓  Pendiente |
-| **Cámara delantera** | —/según versión | ✓ en Dynamic/Touring; no en base | — | —  Pendiente |
-| **Sensores estacionamiento** | 🟢 Delanteros + traseros | No en base; traseros desde Dynamic | 🟢 Delanteros + traseros | 🟢 Delanteros + traseros  Pendiente |
-| **Monitor punto ciego** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No  Pendiente |
-| **RCTA tráfico cruzado** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No  Pendiente |
-| **Frenado automático de emergencia** | Toyota Safety Sense según equipamiento | **EyeSight no viene en la 2.0i AWD base**; sí en Dynamic/Touring | SCBS depende de versión; no asumirlo en Core | ✓ FCA frontal  Pendiente |
-| **Control crucero adaptativo** | Ver versión | **No en base; sí con EyeSight** | No debe asumirse en Core | No  Pendiente |
-| **Asistencia de carril** | Ver versión | No en base; sí con EyeSight | No en Core; disponible en superiores | ✓ LKA + LFA  Pendiente |
-| **ISOFIX** | ✓ | ✓ | ✓ | ✓  Pendiente |
-| **TPMS** | ✓ | ✓ | ✓ | ✓  Pendiente |
+| Sistema | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Airbags** | 7 | 🟢 **8** | 6 | 6 | 🟢 8 |
+| **ABS/EBD** | ✓ | ✓ | ✓/DSC | ✓ | ✓ |
+| **Control estabilidad** | VSC | VDC | DSC | ✓ | VDC |
+| **Asistencia pendiente** | HAC | ✓ | HLA | ✓ HAC + DBC | EyeSight / HAC |
+| **Control descenso** | DAC | — | — | ✓ DBC | Pendiente / no atribuir sin fuente específica |
+| **Cámara trasera** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Cámara delantera** | —/según versión | ✓ en Dynamic/Touring; no en base | — | — | — en XS ES |
+| **Sensores estacionamiento** | 🟢 Delanteros + traseros | No en base; traseros desde Dynamic | 🟢 Delanteros + traseros | 🟢 Delanteros + traseros | — en XS ES |
+| **Monitor punto ciego** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No | 🟢 ✓ BSD / SRVD |
+| **RCTA tráfico cruzado** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No | 🟢 ✓ RCTA / SRVD |
+| **Frenado automático de emergencia** | Toyota Safety Sense según equipamiento | **EyeSight no viene en la 2.0i AWD base**; sí en Dynamic/Touring | SCBS depende de versión; no asumirlo en Core | ✓ FCA frontal | 🟢 ✓ EyeSight |
+| **Control crucero adaptativo** | Ver versión | **No en base; sí con EyeSight** | No debe asumirse en Core | No | 🟢 ✓ EyeSight |
+| **Asistencia de carril** | Ver versión | No en base; sí con EyeSight | No en Core; disponible en superiores | ✓ LKA + LFA | 🟢 ✓ EyeSight |
+| **ISOFIX** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **TPMS** | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 | Lectura de seguridad | Resultado |
 | :--- | :--- |
@@ -332,35 +332,35 @@
 
 ## 9. Tecnología y confort
 
-| Característica | Toyota RAV4 LE AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Pantalla** | Ver versión | 🟢 **7" doble pantalla** en base / 11,6" en versiones superiores | 🟢 **10,25"** | 🟢 **12,3\"**  7'' doble pantalla |
-| **Apple CarPlay** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓  Pendiente |
-| **Android Auto** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓  Pendiente |
-| **Carga inalámbrica** | Ver versión | No en base | Verificar según ficha vigente | ✓  Pendiente |
-| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No  Pendiente |
-| **HUD** | Ver versión | — | No en Core; ✓ Core Plus y superiores según ficha | No  Pendiente |
-| **Climatizador** | Ver versión | Ver versión | 🟢 Bizona en gama/ficha | 🟢 Bizona  Pendiente |
-| **Audio** | Ver versión | 6 parlantes base | 🟢 6 parlantes base; Bose en superiores | 6 parlantes  Pendiente |
-| **Cuero** | Ver versión | No en base | No en Core | Tela  Pendiente |
-| **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda | Pantalla táctil  Pendiente |
-| **Mejor pantalla base** | — | — | 🟢 CX-5 | 🟢 **12,3\"**  Pendiente |
+| Característica | Toyota RAV4 LE AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Pantalla** | Ver versión | 🟢 **7" doble pantalla** en base / 11,6" en versiones superiores | 🟢 **10,25"** | 🟢 **12,3\"** | 7" doble pantalla |
+| **Apple CarPlay** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
+| **Android Auto** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
+| **Carga inalámbrica** | Ver versión | No en base | Verificar según ficha vigente | ✓ | No en XS ES |
+| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No | No en XS ES |
+| **HUD** | Ver versión | — | No en Core; ✓ Core Plus y superiores según ficha | No | No |
+| **Climatizador** | Ver versión | Ver versión | 🟢 Bizona en gama/ficha | 🟢 Bizona | Bizona |
+| **Audio** | Ver versión | 6 parlantes base | 🟢 6 parlantes base; Bose en superiores | 6 parlantes | 4 parlantes |
+| **Cuero** | Ver versión | No en base | No en Core | Tela | No; tela |
+| **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda | Pantalla táctil | Pantalla táctil / controles al volante |
+| **Mejor pantalla base** | — | — | 🟢 CX-5 | 🟢 **12,3\"** | Pendiente de comparar por usabilidad, no solo tamaño |
 
 ---
 
 ## 10.1 Estabilidad en curvas y control de carrocería
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---  ---: |
-| **Estabilidad en curvas** | 🟢 Muy buena | Muy buena | 🟢 **Excelente / referente del grupo** | 🟢 Muy buena  Pendiente |
-| **Control del balanceo** | 🟢 Mejorado en generación 2026 | Muy bueno, aunque con más recorrido de suspensión | 🟢 **Muy bueno** | 🟢 Muy bueno  Pendiente |
-| **Dirección en curvas** | Buena, orientada a seguridad | 🟢 Precisa y predecible | 🟢 **Precisa y comunicativa** | Buena, orientada al confort  Pendiente |
-| **Agarre en curva sobre pavimento seco** | 🟢 Muy bueno | Muy bueno | 🟢 **Excelente** | Muy bueno  Pendiente |
-| **Agarre en curva mojada** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno  Pendiente |
-| **Tendencia al subviraje al exigirlo** | 🟡 Presente de forma predecible | 🟡 Presente, como es habitual en un crossover alto | 🟢 **Más controlada** | 🟡 Presente de forma predecible  Pendiente |
-| **Cambios rápidos de trayectoria** | 🟢 Muy bueno | 🟢 Bueno/muy bueno | 🟢 **Muy bueno** | Muy bueno  Pendiente |
-| **Sensación general** | 🟢 Estable y segura | 🟢 Predecible y estable | 🟢 **La más orientada al manejo** | 🟢 Estable y confortable  Pendiente |
-| **Resultado preliminar** | **Muy fuerte** | **Muy fuerte** | 🟢 **Mejor candidata para manejo en curvas** | **Muy fuerte**  Pendiente |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Estabilidad en curvas** | 🟢 Muy buena | Muy buena | 🟢 **Excelente / referente del grupo** | 🟢 Muy buena | Muy buena |
+| **Control del balanceo** | 🟢 Mejorado en generación 2026 | Muy bueno, aunque con más recorrido de suspensión | 🟢 **Muy bueno** | 🟢 Muy bueno | Muy bueno |
+| **Dirección en curvas** | Buena, orientada a seguridad | 🟢 Precisa y predecible | 🟢 **Precisa y comunicativa** | Buena, orientada al confort | Precisa y estable |
+| **Agarre en curva sobre pavimento seco** | 🟢 Muy bueno | Muy bueno | 🟢 **Excelente** | Muy bueno | Muy bueno |
+| **Agarre en curva mojada** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | Muy bueno |
+| **Tendencia al subviraje al exigirlo** | 🟡 Presente de forma predecible | 🟡 Presente, como es habitual en un crossover alto | 🟢 **Más controlada** | 🟡 Presente de forma predecible | 🟡 Presente de forma predecible |
+| **Cambios rápidos de trayectoria** | 🟢 Muy bueno | 🟢 Bueno/muy bueno | 🟢 **Muy bueno** | Muy bueno | Muy bueno |
+| **Sensación general** | 🟢 Estable y segura | 🟢 Predecible y estable | 🟢 **La más orientada al manejo** | 🟢 Estable y confortable | 🟢 Estable, segura y aplomada |
+| **Resultado preliminar** | **Muy fuerte** | **Muy fuerte** | 🟢 **Mejor candidata para manejo en curvas** | **Muy fuerte** | Muy fuerte |
 
 | Nota | Detalle |
 | :--- | :--- |
@@ -374,30 +374,30 @@
 
 ## 10. Sistema AWD y conducción sobre baja adherencia
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Arquitectura AWD** | AWD | 🟢 Symmetrical AWD permanente | i-Activ AWD | 🟢 **HTRAC 4WD**  Symmetrical AWD permanente |
-| **Vectorización de torque** | VSC/gestión de tracción | 🟢 ATV de serie | G-Vectoring Control Plus | Gestión de tracción H-Track  ATV de serie |
-| **Modo específico caminos malos** | Ver versión | 🟢 X-MODE | 🟢 Mi-Drive con Off-Road | Eco / Normal / Sport / My Drive  X-MODE |
-| **Despeje** | Muy alto | 🟢 220 mm | Menor | Verificar  220 mm |
-| **Ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno | Muy bueno  Excelente |
-| **Nieve/hielo** | Muy bueno | 🟢 Excelente | 🟢 Muy bueno con Off-Road | Muy bueno  Excelente |
-| **Barro moderado** | Muy bueno | 🟢 Muy bueno | Bueno/Muy bueno | Bueno/Muy bueno  Muy bueno |
-| **Uso diario** | 🟢 Excelente equilibrio | Muy bueno | 🟢 Excelente equilibrio | 🟢 Excelente equilibrio  Muy bueno |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Arquitectura AWD** | AWD | 🟢 Symmetrical AWD permanente | i-Activ AWD | 🟢 **HTRAC 4WD** | 🟢 Symmetrical AWD permanente |
+| **Vectorización de torque** | VSC/gestión de tracción | 🟢 ATV de serie | G-Vectoring Control Plus | Gestión de tracción H-Track | 🟢 ATV de serie |
+| **Modo específico caminos malos** | Ver versión | 🟢 X-MODE | 🟢 Mi-Drive con Off-Road | Eco / Normal / Sport / My Drive | 🟢 X-MODE |
+| **Despeje** | Muy alto | 🟢 220 mm | Menor | Verificar | 🟢 220 mm |
+| **Ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno | Muy bueno | 🟢 Excelente |
+| **Nieve/hielo** | Muy bueno | 🟢 Excelente | 🟢 Muy bueno con Off-Road | Muy bueno | 🟢 Excelente |
+| **Barro moderado** | Muy bueno | 🟢 Muy bueno | Bueno/Muy bueno | Bueno/Muy bueno | Muy bueno |
+| **Uso diario** | 🟢 Excelente equilibrio | Muy bueno | 🟢 Excelente equilibrio | 🟢 Excelente equilibrio | Muy bueno |
 
 ---
 
 ## 11. Mantención, garantía y postventa publicada
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Garantía vehículo** | 🟢 **5 años/100.000 km** | 3 años/60.000 km + extensión publicada del tren motriz hasta 5 años/100.000 km bajo condiciones | 3 años/100.000 km | Hasta 5 años/100.000 km bajo condiciones Hyundai  3 años/60.000 km + extensión tren motriz 5 años/100.000 km |
-| **Intervalo de servicio** | 🟢 10.000 km/1 año según pauta | 🟢 15.000 km | 🟢 10.000 km/12 meses para 2.0/2.5 | 🟢 **10.000 km / 12 meses**  15.000 km |
-| **Primer servicio** | 15 días gratuito | Según plan Subaru | Según plan Mazda | Revisión a 30 días según programa  Cotizar |
-| **4 mantenciones iniciales** | 🟢 Toyota publica paquete 10k/20k/30k/40k | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Precio publicado paquete 10–40k** | 🟢 $1.091.968 online; referencial $1.364.960 | — | — | Cotizar  Cotizar |
-| **Repuestos** | 🟢 Red oficial Toyota | Red oficial Subaru | Red oficial Mazda | Red oficial Hyundai  Pendiente |
-| **Servicio técnico local** | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta  Salazar Israel Temuco |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Garantía vehículo** | 🟢 **5 años/100.000 km** | 3 años/60.000 km + extensión publicada del tren motriz hasta 5 años/100.000 km bajo condiciones | 3 años/100.000 km | Hasta 5 años/100.000 km bajo condiciones Hyundai | 3 años/60.000 km + extensión de tren motriz hasta 5 años/100.000 km bajo condiciones |
+| **Intervalo de servicio** | 🟢 10.000 km/1 año según pauta | 🟢 15.000 km | 🟢 10.000 km/12 meses para 2.0/2.5 | 🟢 **10.000 km / 12 meses** | 🟢 15.000 km |
+| **Primer servicio** | 15 días gratuito | Según plan Subaru | Según plan Mazda | Revisión a 30 días según programa | Según plan Subaru / cotizar |
+| **4 mantenciones iniciales** | 🟢 Toyota publica paquete 10k/20k/30k/40k | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Precio publicado paquete 10–40k** | 🟢 $1.091.968 online; referencial $1.364.960 | — | — | Cotizar | Cotizar |
+| **Repuestos** | 🟢 Red oficial Toyota | Red oficial Subaru | Red oficial Mazda | Red oficial Hyundai | Red oficial Subaru |
+| **Servicio técnico local** | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta | Salazar Israel Temuco |
 
 ---
 
@@ -447,7 +447,7 @@
 
 | Mantención / desgaste | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
 | :--- | :---: | :---: | :---: | :---: |
-| 10.000 km | **Publicado** | Cotizar | Cotizar | Cotizar |
+| 10.000 km | **Publicado** | Cotizar | Cotizar | Cotizar | Cotizar |
 | 20.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
 | 30.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
 | 40.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
@@ -466,16 +466,16 @@
 
 ## 13. Seguro y robo
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus   Forester 2.5 AWD XS ES |
-| :--- | :--- | :--- | :--- | :---:  ---: |
-| **Prima anual** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Deducible** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Cobertura robo** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Pérdida total** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Asistencia en ruta** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Vehículo de reemplazo** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **GPS/antirrobo exigido** | Cotizar | Cotizar | Cotizar | Cotizar  Cotizar |
-| **Riesgo de robo** | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟢 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin cotización/estadística actual  Pendiente |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Prima anual** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Deducible** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Cobertura robo** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Pérdida total** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Asistencia en ruta** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Vehículo de reemplazo** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **GPS/antirrobo exigido** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Riesgo de robo** | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟢 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin cotización/estadística actual | Pendiente: no asignar ranking sin cotización/estadística actual |
 
 | Regla | Detalle |
 | :--- | :--- |
