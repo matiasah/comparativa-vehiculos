@@ -196,7 +196,7 @@
 ## 2. Precio real de referencia en Chile
 
 | Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Subaru Forester 2.5 AWD XS ES |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---:  ---: |
+| :--- | ---: | ---: | ---: | ---: | ---: |
 | **Precio lista publicado** | **$29.990.000** | 🟢 **$25.990.000** | $27.490.000 | **$30.190.000** | $31.490.000 |
 | **Precio web/promocional observado** | $28.690.000* | $23.790.000* | 🟢 $25.190.000* | $26.590.000* | $27.990.000** |
 | **Diferencia vs. lista más barata** | +$4.000.000 | 🟢 $0 | +$1.500.000 | +$4.200.000 | +$5.500.000 |
