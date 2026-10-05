@@ -154,11 +154,11 @@
 
 | Marca / modelo | Versión AWD de referencia en Chile | Versiones AWD superiores relevantes | Año/ficha de referencia |
 | :--- | :--- | :--- | :--- |
-| **Toyota RAV4** | **LE 2.0 AWD CVT** | La gama publicada de esta generación muestra la LE 2.0 AWD como referencia AWD gasolina. | 2026 |
-| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus; 2.0i AWD CVT Dynamic ES; 2.0i AWD CVT Touring ES HK 360; 2.0 Hybrid AWD CVT Touring ES. | 2026 / oferta vigente |
-| **Mazda CX-5** | **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD; Sport 2.5 AWD; Signature 2.5T AWD. | Gama vigente |
-| **Hyundai Tucson** | **NX4c 1.5T AT 4WD Plus FL** | En gasolina AWD, esta es la versión 4WD publicada actualmente; existe además una gama Tucson híbrida 4WD en un rango de precio superior. | 2026 / oferta vigente |
-| **Subaru Forester** | **2.5 AWD CVT XS ES** | Versión AWD de entrada de la gama All New Forester 2026 a gasolina; las versiones Dynamic, Sport y Touring suben equipamiento y precio. | 2026 |
+| **Toyota RAV4** | **LE 2.0 AWD CVT** | La gama publicada de esta generación muestra la LE 2.0 AWD como referencia AWD gasolina. | **2026** |
+| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus; 2.0i AWD CVT Dynamic ES; 2.0i AWD CVT Touring ES HK 360; 2.0 Hybrid AWD CVT Touring ES. | **2026** |
+| **Mazda CX-5** | **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD; Sport 2.5 AWD; Signature 2.5T AWD. | **Año modelo exacto: verificar por VIN/cotización; ficha/gama vigente** |
+| **Hyundai Tucson** | **NX4c 1.5T AT 4WD Plus FL** | En gasolina AWD, esta es la versión 4WD publicada actualmente; existe además una gama Tucson híbrida 4WD en un rango de precio superior. | **2026** |
+| **Subaru Forester** | **2.5 AWD CVT XS ES** | Versión AWD de entrada de la gama All New Forester 2026 a gasolina; Dynamic, Sport y Touring suben equipamiento y precio. Subaru ya muestra unidades 2027 de otras versiones, por lo que el año debe confirmarse por VIN. | **2026 (unidad comparada)** |
 
 | Observación | Detalle |
 | :--- | :--- |
@@ -338,13 +338,15 @@
 | **Apple CarPlay** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
 | **Android Auto** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
 | **Carga inalámbrica** | Ver versión | No en base | Verificar según ficha vigente | ✓ | No en XS ES |
-| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No | No en XS ES |
+| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No | **No en XS ES; ✓ Dynamic ES y superiores** |
 | **HUD** | Ver versión | — | No en Core; ✓ Core Plus y superiores según ficha | No | No |
 | **Climatizador** | Ver versión | Ver versión | 🟢 Bizona en gama/ficha | 🟢 Bizona | Bizona |
 | **Audio** | Ver versión | 6 parlantes base | 🟢 6 parlantes base; Bose en superiores | 6 parlantes | 4 parlantes |
 | **Cuero** | Ver versión | No en base | No en Core | Tela | No; tela |
 | **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda | Pantalla táctil | Pantalla táctil / controles al volante |
 | **Mejor pantalla base** | — | — | 🟢 CX-5 | 🟢 **12,3\"** | Pendiente de comparar por usabilidad, no solo tamaño |
+
+| **Nota sobre Forester XS ES y cámara 360°** | La ficha oficial 2026 indica que la **XS ES no trae cámara 360°**, mientras que la **Dynamic ES, Sport ES y Touring ES sí**. Un retrofit aftermarket de 4 cámaras es técnicamente posible, pero debe tratarse como modificación separada: requiere cámaras frontal, trasera y laterales, módulo de procesamiento/calibración y una solución compatible con la pantalla original o una pantalla/interfaz adicional. No asumir integración OEM con la pantalla de 7\" del XS ES sin verificar compatibilidad específica. |
 
 ---
 
