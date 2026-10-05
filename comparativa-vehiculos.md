@@ -219,7 +219,7 @@
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **IVA** | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado |
 | **Impuesto verde** | 🟡 Toyota publica una referencia de **$634.852** para esta unidad en su página comercial; verificar cálculo final con SII/VIN/CIT | **Calcular en SII para la versión exacta** | **Calcular en SII para la versión exacta** | Calcular en SII para la versión exacta | 🟡 $416.184 publicado por Subaru; verificar con SII/CIT exacto |
-| **Permiso de circulación** | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII | Calcular por tasación SII |
+| **Permiso de circulación (referencia 2026 para fabricación 2025)** | **$554.812** | **$485.654** | **$452.292** | Pendiente de obtener | Pendiente de obtener |
 | **Tasación fiscal de un vehículo nuevo** | Valor neto de factura/contrato para el primer permiso | Igual | Igual | Valor neto de factura/contrato para el primer permiso | Valor neto de factura/contrato para el primer permiso |
 | **Regla de permiso 2026** | Escala progresiva sobre tasación fiscal | Igual | Igual | Calcular por tasación SII | Escala progresiva sobre tasación fiscal |
 
@@ -673,7 +673,7 @@
 | **Precios** | Usar precio lista para comparar y precio contado cotizado para decidir. |
 | **Bonos** | No considerar un bono como “precio real” hasta confirmar vigencia y condiciones en el concesionario. |
 | **Impuesto verde** | Confirmar en SII para la versión/código exacto; Toyota publica una cifra de referencia en su propia ficha. |
-| **Permiso** | Para vehículos nuevos, SII indica que la tasación del primer permiso corresponde al valor neto de la factura/contrato; el permiso se calcula con la escala vigente y puede ser proporcional en el primer año. |
+| **Permiso** | Para la comparativa se incorporan los valores de referencia obtenidos para vehículos de **fabricación 2025**: RAV4 $554.812, Crosstrek $485.654 y CX-5 $452.292. Tucson y Forester quedan pendientes hasta obtener su valor exacto. |
 | **Consumo** | Solo homologado; no sustituye un registro de consumo real. |
 | **Seguridad** | Comparar por versión exacta: el Crosstrek 2.0i AWD base, por ejemplo, no incluye EyeSight/BSD/RCTA, que aparecen en versiones superiores. |
 | **TCO** | No declarar un ganador económico mientras falten seguro, mantenciones completas y valor de reventa. |
