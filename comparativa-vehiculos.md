@@ -660,11 +660,10 @@
 
 ## 20. Notas metodológicas
 
+| Tema | Nota |
+| :--- | :--- |
 | **Forester** | La versión principal elegida es la **2.5 AWD CVT XS ES**. Subaru Chile publica 185 CV, 247 Nm, Symmetrical AWD, 220 mm de despeje, 509 L de maletero y consumo mixto de 14,0 km/l. La ficha 2026 también confirma EyeSight y BSD/RCTA de serie en esta versión. El precio promocional de $27.990.000 encontrado corresponde a una campaña con vigencia hasta el 30/09/2026; para octubre de 2026 debe volver a cotizarse. |
-
-
 | **Puntuación** | En futuras actualizaciones, cada fila comparativa debe mostrar dato + nota /10 para los cinco vehículos; las notas de cada categoría deben alimentar el puntaje ponderado final. |
-
 | **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6 km/l se conserva como referencia de mercado/concesionario y el mixto 11,9 km/l proviene de información pública oficial y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
 
 | Tema | Regla |
