@@ -103,7 +103,7 @@
 
 # Comparativa 4x4 / AWD en Chile
 
-## Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5 vs. Hyundai Tucson vs. Subaru Forester
+## Toyota RAV4 vs. Subaru Crosstrek vs. Mazda CX-5 vs. Subaru Forester vs. Honda CR-V
 
 | Parámetro | Criterio |
 | :--- | :--- |
@@ -112,7 +112,7 @@
 | **Alcance** | **Solo versiones con tracción integral AWD/4x4.** |
 | **Leyenda** | 🟢 = mejor ventaja de esa fila. 🟡 = punto a vigilar. 🔴 = desventaja/riesgo relevante. |
 | **Regla** | No se usan versiones 4x2/2WD para establecer precios, consumos, equipamiento ni ganadores. |
-| **Nota** | “4x4” aquí significa AWD/Symmetrical AWD/i-Activ AWD/HTRAC; ninguno es una 4x4 tradicional con reductora. |
+| **Nota** | “4x4” aquí significa AWD/Symmetrical AWD/Real Time AWD/i-Activ AWD/Symmetrical AWD; ninguno es una 4x4 tradicional con reductora. |
 
 ---
 
@@ -154,21 +154,18 @@
 
 | Marca / modelo | Versión AWD de referencia en Chile | Versiones AWD superiores relevantes | Año/ficha de referencia |
 | :--- | :--- | :--- | :--- |
-| **Toyota RAV4** | **LE 2.0 AWD CVT** | La gama publicada de esta generación muestra la LE 2.0 AWD como referencia AWD gasolina. | **2026** |
-| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus; 2.0i AWD CVT Dynamic ES; 2.0i AWD CVT Touring ES HK 360; 2.0 Hybrid AWD CVT Touring ES. | **2026** |
-| **Mazda CX-5** | **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD; Sport 2.5 AWD; Signature 2.5T AWD. | **Año modelo exacto: verificar por VIN/cotización; ficha/gama vigente** |
-| **Hyundai Tucson** | **NX4c 1.5T AT 4WD Plus FL** | En gasolina AWD, esta es la versión 4WD publicada actualmente; existe además una gama Tucson híbrida 4WD en un rango de precio superior. | **2026** |
-| **Subaru Forester** | **2.5 AWD CVT XS ES** | Versión AWD de entrada de la gama All New Forester 2026 a gasolina; Dynamic, Sport y Touring suben equipamiento y precio. Subaru ya muestra unidades 2027 de otras versiones, por lo que el año debe confirmarse por VIN. | **2026 (unidad comparada)** |
+| **Toyota RAV4** | **LE 2.0 AWD CVT** | Gama AWD gasolina según oferta Toyota | **2026** |
+| **Subaru Crosstrek** | **2.0i AWD CVT** | 2.0i AWD CVT Plus; Dynamic ES; Touring ES HK 360; Hybrid AWD | **2026** |
+| **Mazda CX-5** | **Core 2.0 AWD 6AT** | Core Plus 2.0 AWD; Sport 2.5 AWD; Signature 2.5T AWD | **Gama vigente / confirmar año por VIN** |
+| **Subaru Forester** | **2.5 AWD CVT XS ES** | Dynamic ES; Sport ES; Touring ES | **2026 (unidad comparada)** |
+| **Honda CR-V** | **Touring 1.5 Turbo CVT 4x4** | La EX-T 1.5 Turbo es 4x2 y queda fuera de esta comparativa AWD | **2026 / ficha vigente** |
 
 | Observación | Detalle |
 | :--- | :--- |
-| **Comparación principal** | RAV4 LE 2.0 AWD vs. Crosstrek 2.0i AWD vs. CX-5 Core 2.0 AWD vs. **Tucson 1.5T AT 4WD Plus** vs. **Forester 2.5 AWD CVT XS ES**. |
-| **Por qué estas versiones** | Son las referencias AWD de entrada/representativas de cada modelo y permiten comparar precio, motor, equipamiento y TCO sin mezclar versiones superiores de forma injusta. |
-| **Tucson elegida** | Se usa la **1.5T 4WD Plus gasolina** porque es la Tucson AWD que mantiene una posición de precio comparable con las otras tres. |
-| **Tucson híbrida** | No se incorpora a la comparación principal: la Tucson Hybrid AWD Limited tiene un precio considerablemente mayor y cambiaría el objetivo de la comparación. |
-| **Forester híbrido** | No se incorpora a la comparación principal: el Forester Strong Hybrid AWD parte en un nivel de precio muy superior; se mantiene como referencia aparte. |
-
----
+| **Comparación principal** | RAV4 LE 2.0 AWD vs. Crosstrek 2.0i AWD vs. CX-5 Core 2.0 AWD vs. **Forester 2.5 AWD XS ES** vs. **CR-V Touring 1.5 Turbo 4x4**. |
+| **CR-V y regla AWD** | Honda Chile ofrece la CR-V EX-T como **4x2**, mientras que la **Touring 1.5 Turbo 4x4** es la versión que cumple nuestro requisito AWD. |
+| **Consecuencia de precio** | La CR-V Touring queda en un nivel de precio muy superior al resto; esto debe pesar fuertemente en TCO y valor de compra. |
+| **Forester** | Se mantiene la **XS ES**, no la Dynamic, porque subir de versión solo para obtener cámara 360 no resulta conveniente para este presupuesto. |
 
 ## 1.1 Impacto del bajo kilometraje anual
 
@@ -178,297 +175,234 @@
 | **Uso medio** | 7.000 km |
 | **Uso alto** | 9.000 km |
 
-| Escenario | RAV4 AWD 13,8 km/l | Crosstrek AWD 13,9 km/l | CX-5 AWD 14,2 km/l | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD 14,0 km/l |
-| :--- | ---: | ---: | ---: | :---: | ---: |
-| **5.000 km/año** | ~$570.000 | ~$566.000 | 🟢 ~$554.000 | ~$661.000* | ~$562.000 |
-| **7.000 km/año** | ~$798.000 | ~$793.000 | 🟢 ~$776.000 | ~$925.000* | ~$787.000 |
-| **9.000 km/año** | ~$1.027.000 | ~$1.019.000 | 🟢 ~$998.000 | ~$1.189.000* | ~$1.012.000 |
+| Escenario | RAV4 AWD 13,8 km/l | Crosstrek AWD 13,9 km/l | CX-5 AWD 14,2 km/l | Forester AWD 14,0 km/l | CR-V Touring 4x4 13,0 km/l |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **5.000 km/año** | ~$570.000 | ~$566.000 | 🟢 ~$554.000 | ~$562.000 | ~$605.000 |
+| **7.000 km/año** | ~$798.000 | ~$793.000 | 🟢 ~$776.000 | ~$787.000 | ~$847.000 |
+| **9.000 km/año** | ~$1.027.000 | ~$1.019.000 | 🟢 ~$998.000 | ~$1.012.000 | ~$1.090.000 |
 
 | Base del cálculo | Detalle |
 | :--- | :--- |
-| **Precio de referencia** | Bencina 95 en Temuco: mediana de aproximadamente **$1.574/l** al 2 de octubre de 2026. |
-| **Fuente** | Información de estaciones reportada a la CNE; los precios cambian diariamente. |
-| **Advertencia** | Son cálculos orientativos usando consumo mixto homologado. Los trayectos urbanos cortos pueden arrojar un consumo real peor. |
-| **Conclusión económica** | A 5.000–9.000 km/año, la diferencia de combustible entre estos tres modelos es relativamente pequeña frente a una diferencia de precio de compra, seguro o depreciación. |
-
----
+| **Precio de referencia** | Bencina 95 en Temuco: aproximadamente **$1.574/l** en la referencia usada por el documento. |
+| **Advertencia** | Son cálculos orientativos usando consumo mixto homologado. Los trayectos urbanos cortos, invierno, velocidad y carga pueden empeorar el consumo real. |
+| **Conclusión económica** | Con este nivel de kilometraje, la diferencia de combustible sigue siendo mucho menor que una diferencia de varios millones en precio de compra. |
 
 ## 2. Precio real de referencia en Chile
 
-| Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Subaru Forester 2.5 AWD XS ES |
+| Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Subaru Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Precio lista publicado** | **$29.990.000** | 🟢 **$25.990.000** | $27.490.000 | **$30.190.000** | $31.490.000 |
-| **Precio web/promocional observado** | $28.690.000* | $23.790.000* | 🟢 $25.190.000* | $26.590.000* | $27.990.000** |
-| **Diferencia vs. lista más barata** | +$4.000.000 | 🟢 $0 | +$1.500.000 | +$4.200.000 | +$5.500.000 |
-| **Posición de precio** | 🔴 Más cara | 🟢 Más barata | Intermedia | 🔴 Más cara | 🔴 Más cara |
-| **Precio a usar para TCO** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** | **Precio contado realmente cotizado** |
+| **Precio de referencia actual** | **$27.490.000** | **$25.990.000** | 🟢 **$24.990.000** | **$25.990.000** | 🔴 **$42.990.000** |
+| **Origen del valor** | Informado para la comparación | Referencia oficial anterior; confirmar cotización | Informado para la comparación | Informado para la comparación | Lista oficial Honda Chile |
+| **Diferencia vs. el más barato** | +$2.500.000 | +$1.000.000 | 🟢 $0 | +$1.000.000 | 🔴 +$18.000.000 |
+| **Posición de precio** | Intermedia | Cercana al mínimo | 🟢 Más barata | Cercana al mínimo | 🔴 Muy superior |
+| **Precio a usar para TCO** | **$27.490.000 como referencia; reemplazar por cotización final** | **$25.990.000 como referencia; reemplazar por cotización final** | **$24.990.000 como referencia; reemplazar por cotización final** | **$25.990.000 como referencia; reemplazar por cotización final** | **$42.990.000 lista; cotizar precio contado vigente** |
 
 | Nota | Detalle |
 | :--- | :--- |
-| ***** | Las páginas oficiales muestran bonos/campañas que pueden depender de financiamiento y vigencia. Para una compra en octubre de 2026, no asumir que una campaña anterior sigue vigente: pedir cotización escrita del día. |
-| **Toyota** | La tienda oficial muestra lista $29.990.000 y ha mostrado precio online/promocional de $28.690.000; la promoción financiera encontrada vencía el 30/09/2026, por lo que debe confirmarse una campaña vigente al cotizar. |
-| **Subaru** | La página oficial muestra lista $25.990.000 y campaña $23.790.000; los términos encontrados indican vigencia hasta el 30/09/2026, por lo que **no debe tratarse como precio vigente al 4/10/2026 sin confirmación del concesionario**. |
-| **Mazda** | Mazda Chile muestra lista $27.490.000 y precio desde $25.190.000 para Core 2.0 AWD en la página vigente consultada; confirmar la campaña del día de compra. |
-| **Forester** | Subaru publicó lista $31.490.000 y una campaña de $27.990.000 para 2.5 AWD XS ES; los términos comerciales encontrados indican vigencia hasta el 30/09/2026, por lo que **el precio promocional debe verificarse nuevamente al 4/10/2026**. El precio lista sirve como referencia actual hasta obtener cotización escrita. |
-
----
+| **Precios proporcionados** | Para RAV4, CX-5 y Forester se incorporan los valores que indicaste: $27,49 M, $24,99 M y $25,99 M respectivamente. |
+| **Honda CR-V** | Honda Chile publica la **Touring 1.5 Turbo 4x4** con precio lista de **$42.990.000**. La oferta publicada de $39.990.000 tenía vigencia hasta el 30/09/2026, por lo que no se usa como precio vigente a octubre sin confirmación. |
+| **Crosstrek** | Se mantiene $25.990.000 como referencia de lista previa; conviene confirmar el valor exacto de la unidad 2026 en concesionario. |
+| **Lectura** | A igualdad de requisito AWD, la CR-V queda fuera de la franja económica de los otros cuatro y será penalizada en costo de compra/TCO. |
 
 ## 3. Impuestos y costos legales de compra
 
-| Concepto | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Concepto | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Subaru Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **IVA** | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado | Incluido en precio publicado |
-| **Impuesto verde** | 🟡 Toyota publica una referencia de **$634.852** para esta unidad en su página comercial; verificar cálculo final con SII/VIN/CIT | **Calcular en SII para la versión exacta** | **Calcular en SII para la versión exacta** | Calcular en SII para la versión exacta | 🟡 $416.184 publicado por Subaru; verificar con SII/CIT exacto |
-| **Permiso de circulación (referencia 2026 para fabricación 2025)** | **$554.812** | **$485.654** | **$452.292** | Pendiente de obtener | Pendiente de obtener |
-| **Tasación fiscal de un vehículo nuevo** | Valor neto de factura/contrato para el primer permiso | Igual | Igual | Valor neto de factura/contrato para el primer permiso | Valor neto de factura/contrato para el primer permiso |
-| **Regla de permiso 2026** | Escala progresiva sobre tasación fiscal | Igual | Igual | Calcular por tasación SII | Escala progresiva sobre tasación fiscal |
+| **IVA** | Incluido | Incluido | Incluido | Incluido | Incluido |
+| **Impuesto verde** | 🟡 Referencia Toyota: $634.852; verificar SII/CIT | Calcular en SII | Calcular en SII | 🟡 Referencia Subaru: $416.184; verificar SII/CIT | **Calcular en SII para versión Touring 4x4** |
+| **Permiso de circulación (referencia 2026, fabricación 2025)** | **$554.812** | **$485.654** | 🟢 **$452.292** | Pendiente | Pendiente |
+| **Tasación fiscal vehículo nuevo** | Según regla SII | Según regla SII | Según regla SII | Según regla SII | Según regla SII |
+| **Estado** | Valor aportado/verificado | Valor aportado/verificado | Valor aportado/verificado | Pendiente | Pendiente |
 
-| Referencia SII 2026 | Valor |
+| Referencia | Detalle |
 | :--- | :--- |
-| **UTM enero 2026** | $69.751 |
-| **Hasta 60 UTM** | 1% |
-| **Sobre 60 y hasta 120 UTM** | 2% |
-| **Sobre 120 y hasta 250 UTM** | 3% |
-| **Sobre 250 y hasta 400 UTM** | 4% |
-| **Sobre 400 UTM** | 4,5% |
-
----
+| **Permisos aportados** | Valores de referencia para vehículos de fabricación 2025: RAV4 $554.812, Crosstrek $485.654 y CX-5 $452.292. |
+| **Pendientes** | Obtener valor exacto del Forester XS ES y CR-V Touring 4x4 antes de incorporarlos al TCO definitivo. |
 
 ## 4. Motor, potencia y transmisión
 
-| Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Subaru Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | 🟢 **1.5T gasolina** | 2.5 Boxer gasolina |
-| **Cilindrada** | 2.0 L | 🟢 **1.995 cc** | 2.0 L | 1.500 cc | 2.498 cc |
-| **Potencia máxima** | 🟢 **169 hp** | 156 CV | 154 hp | 🟢 **178 hp** | 185 CV |
-| **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 🟢 **200 Nm** | 🟢 **253 Nm** | 247 Nm |
-| **Transmisión** | CVT | Lineartronic CVT | 🟢 Automática 6AT | 🟢 **Automática 8AT** | CVT / Lineartronic |
-| **Tracción** | AWD | 🟢 Symmetrical AWD permanente + ATV | i-Activ AWD | 🟢 **4WD H-Track** | Symmetrical AWD permanente + ATV |
-| **Capacidad estanque** | Ver ficha exacta | 🟢 **63 L** | Ver ficha exacta | 54 L | 63 L |
-| **Perfil mecánico** | 🟢 Potencia/eficiencia | 🟢 Tracción/despeje | 🟢 Caja convencional/torque | 🟢 Turbo + alto torque + 8AT | 🟢 2.5 Boxer + AWD + CVT + buen torque |
-
----
+| **Motor** | 2.0 gasolina | 2.0 Boxer gasolina | 2.0 gasolina | 2.5 Boxer gasolina | 1.5 Turbo gasolina |
+| **Cilindrada** | 2.0 L | 🟢 1.995 cc | 2.0 L | 2.498 cc | 1.498 cc |
+| **Potencia máxima** | 169 hp | 156 CV | 154 hp | 🟢 **185 CV** | 188 hp |
+| **Torque máximo** | Ver ficha comercial exacta | 196 Nm | 200 Nm | 🟢 **247 Nm** | 240 Nm |
+| **Transmisión** | CVT | Lineartronic CVT | 🟢 Automática 6AT | CVT / Lineartronic | CVT |
+| **Tracción** | AWD | Symmetrical AWD permanente + ATV | i-Activ AWD | Symmetrical AWD permanente + ATV | Real Time AWD inteligente |
+| **Capacidad estanque** | Ver ficha exacta | 🟢 63 L | Ver ficha exacta | 63 L | 57 L |
+| **Perfil mecánico** | Equilibrado | Tracción/despeje | Caja convencional | 🟢 Mejor reserva de potencia atmosférica | Turbo con buen torque; AWD de demanda |
 
 ## 5. Consumo AWD de referencia
 
-| Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Escenario | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Forester AWD | Honda CR-V Touring 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 11,1 km/l* | 10,6 km/l |
-| **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 15,6 km/l* | 16,1 km/l |
-| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 11,9 km/l* | 14,0 km/l |
-| **Ranking ciudad** | 2.º (empate) | 4.º | 🟢 1.º | 2.º (empate) | 5.º |
-| **Ranking carretera** | 2.º | 🟢 1.º | 3.º | 4.º | 4.º |
-| **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 4.º | 2.º |
+| **Ciudad** | 11,1 km/l | 10,6 km/l | 🟢 **12,3 km/l** | 10,6 km/l | 10,4 km/l |
+| **Carretera** | 16,2 km/l* | 🟢 **16,7 km/l** | 15,7 km/l | 16,1 km/l | 15,3 km/l |
+| **Mixto** | 13,8 km/l | 13,9 km/l | 🟢 **14,2 km/l** | 14,0 km/l | 13,0 km/l |
+| **Ranking ciudad** | 2.º | 4.º | 🟢 1.º | 4.º | 5.º |
+| **Ranking carretera** | 2.º | 🟢 1.º | 4.º | 3.º | 5.º |
+| **Ranking mixto** | 3.º | 2.º | 🟢 1.º | 2.º | 5.º |
 
 | Nota | Detalle |
 | :--- | :--- |
-| ***** | Toyota también publica distintos escenarios de carretera/urbano según ciclo; para comparación se usa la cifra homologada mostrada para la versión AWD. |
-| **Importante** | Homologación ≠ consumo real. Carga, temperatura, neumáticos, velocidad y uso en invierno pueden cambiar bastante el resultado. |
-
----
+| **Honda** | Honda Chile publica 10,4 km/l ciudad, 15,3 km/l carretera y 13,0 km/l mixto para la CR-V; la ficha técnica corresponde a la Touring 1.5 Turbo 4x4. |
+| **Importante** | Homologación ≠ consumo real. |
 
 ## 6. Dimensiones y capacidad
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Subaru Forester AWD | Honda CR-V Touring 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Largo** | 🟢 **4.600 mm** | 4.480 mm | 4.575 mm | 4.670 mm | 4.655 mm |
-| **Ancho** | 🟢 **1.855 mm** | 1.800 mm | 1.845 mm | 1.865 mm | 1.830 mm |
-| **Alto** | 🟢 **1.695 mm** | 1.600 mm | 1.680 mm aprox. | 1.665 mm | 1.730 mm |
-| **Distancia entre ejes** | 2.690 mm aprox. | 2.670 mm | 🟢 **2.700 mm** | 🟢 **2.755 mm** | 2.670 mm |
-| **Despeje al suelo** | ~21,3 cm* | 🟢 **22,0 cm** | 18,5 cm | Verificar ficha técnica chilena | 🟢 220 mm |
-| **Maletero con asientos arriba** | Verificar ficha exacta | 328 L | 🟢 **541 L** | 🟢 **539 L** | 509 L |
-| **Maletero con asientos abatidos** | Verificar ficha exacta | Verificar ficha exacta | 🟢 **1.303 L** | Verificar | Verificar ficha |
-| **Radio mínimo de giro** | Verificar ficha exacta | 🟢 **5,4 m** | Verificar ficha exacta | Verificar | 5,4 m |
-| **Peso en orden de marcha** | Verificar ficha exacta | 1.485 kg* | Ver ficha exacta | 2.090 kg P.B.V.* | 1.594 kg |
+| **Largo** | 4.600 mm | 4.480 mm | 4.575 mm | 4.655 mm | 🟢 **4.706 mm** |
+| **Ancho** | 1.855 mm | 1.800 mm | 1.845 mm | 1.830 mm | 🟢 **1.866 mm** |
+| **Alto** | 1.695 mm | 1.600 mm | 1.680 mm aprox. | 🟢 1.730 mm | 1.690 mm |
+| **Distancia entre ejes** | 2.690 mm aprox. | 2.670 mm | 2.700 mm | 2.670 mm | 🟢 **2.700 mm** |
+| **Despeje al suelo** | ~21,3 cm | 🟢 **22,0 cm** | 18,5 cm | 🟢 **220 mm** | 20,8 cm |
+| **Maletero con asientos arriba** | Verificar ficha exacta | 328 L | 541 L | 509 L | Pendiente de verificar para versión gasolina 4x4 chilena |
+| **Maletero con asientos abatidos** | Verificar | Verificar | 1.303 L | Verificar ficha | Pendiente |
+| **Radio/diámetro de giro** | Verificar | 5,4 m radio | Verificar | 5,4 m radio | ~5,7 m radio (11,4 m diámetro) |
+| **Peso en orden de marcha** | Verificar | 1.485 kg | Verificar | 1.594 kg | **1.680 kg** |
 
 | Nota | Detalle |
 | :--- | :--- |
-| ***** | Crosstrek: 1.485 kg corresponde a la versión 2.0i AWD CVT de la ficha 2026. Para RAV4 y CX-5 se debe usar la cifra exacta de la unidad/versiones chilenas. |
-
----
+| **Honda** | La ficha técnica chilena de la Touring 4x4 indica 4.706 mm de largo, 1.866 mm de ancho, 1.690 mm de alto, 2.700 mm entre ejes, 208 mm de despeje, 1.680 kg de peso en vacío y tanque de 57 L. |
 
 ## 7. Neumáticos y rueda de repuesto
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 Core AWD | Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Neumático de serie** | Verificar unidad | 🟢 **225/60 R17** | 🟢 **225/65 R17** | 🟢 **235/60 R18** | 225/60 R17 99H |
+| **Neumático de serie** | Verificar unidad | 225/60 R17 | 225/65 R17 | 225/60 R17 99H | 🟢 **235/55 R19 101Y** |
 | **TPMS** | ✓ | ✓ | ✓ | ✓ | ✓ |
-| **Rueda de repuesto** | Verificar | 🟢 **185/65 R17** | Verificar | 🟢 **Tamaño completo** | ✓ |
-| **Kit antipinchazos** | Verificar | No en versión 2.0i base si equipa rueda de repuesto | Verificar | No; incluye rueda de repuesto completa | No; incluye rueda de repuesto |
+| **Rueda de repuesto** | Verificar | 185/65 R17 | Verificar | 🟢 Tamaño completo | 🟢 Tamaño completo |
+| **Kit antipinchazos** | Verificar | No en base | Verificar | No; rueda completa | No; rueda completa |
 | **Precio 4 neumáticos** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **Disponibilidad en Chile** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **Importancia para AWD** | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta | 🟢 Muy alta |
 
----
-
 ## 8. Seguridad activa y pasiva por versión base
 
-| Sistema | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Sistema | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Airbags** | 7 | 🟢 **8** | 6 | 6 | 🟢 8 |
+| **Airbags** | 7 | 8 | 6 | 8 | 🟢 **10** |
 | **ABS/EBD** | ✓ | ✓ | ✓/DSC | ✓ | ✓ |
-| **Control estabilidad** | VSC | VDC | DSC | ✓ | VDC |
-| **Asistencia pendiente** | HAC | ✓ | HLA | ✓ HAC + DBC | EyeSight / HAC |
-| **Control descenso** | DAC | — | — | ✓ DBC | Pendiente / no atribuir sin fuente específica |
-| **Cámara trasera** | ✓ | ✓ | ✓ | ✓ | ✓ |
-| **Cámara delantera** | —/según versión | ✓ en Dynamic/Touring; no en base | — | — | — en XS ES |
-| **Sensores estacionamiento** | 🟢 Delanteros + traseros | No en base; traseros desde Dynamic | 🟢 Delanteros + traseros | 🟢 Delanteros + traseros | — en XS ES |
-| **Monitor punto ciego** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No | 🟢 ✓ BSD / SRVD |
-| **RCTA tráfico cruzado** | Ver equipamiento exacto | No en base; desde Dynamic ES | No en Core; desde Core Plus | No | 🟢 ✓ RCTA / SRVD |
-| **Frenado automático de emergencia** | Toyota Safety Sense según equipamiento | **EyeSight no viene en la 2.0i AWD base**; sí en Dynamic/Touring | SCBS depende de versión; no asumirlo en Core | ✓ FCA frontal | 🟢 ✓ EyeSight |
-| **Control crucero adaptativo** | Ver versión | **No en base; sí con EyeSight** | No debe asumirse en Core | No | 🟢 ✓ EyeSight |
-| **Asistencia de carril** | Ver versión | No en base; sí con EyeSight | No en Core; disponible en superiores | ✓ LKA + LFA | 🟢 ✓ EyeSight |
+| **Control estabilidad** | VSC | VDC | DSC | VDC | VSA |
+| **Asistencia pendiente** | HAC | ✓ | HLA | EyeSight/HAC | HSA |
+| **Control descenso** | DAC | — | — | Pendiente | ✓ |
+| **Cámara trasera** | ✓ | ✓ | ✓ | ✓ | ✓ multiángulo |
+| **Cámara delantera** | —/según versión | No en base; superiores | — | — en XS ES | — |
+| **Sensores estacionamiento** | ✓ delantero/trasero | No en base | ✓ delantero/trasero | No en XS ES | ✓ delantero/trasero |
+| **Monitor punto ciego** | Ver equipamiento exacto | No en base | No en Core | 🟢 ✓ BSD | No informado en ficha |
+| **RCTA tráfico cruzado** | Ver equipamiento exacto | No en base | No en Core | 🟢 ✓ RCTA | No informado en ficha |
+| **Frenado automático de emergencia** | Toyota Safety Sense según equipamiento | EyeSight no en base | SCBS según versión | 🟢 ✓ EyeSight | 🟢 ✓ CMBS |
+| **Control crucero adaptativo** | Ver versión | No en base | No debe asumirse en Core | 🟢 ✓ EyeSight | 🟢 ✓ ACC |
+| **Asistencia de carril** | Ver versión | No en base | No en Core | 🟢 ✓ EyeSight | 🟢 ✓ LKAS |
 | **ISOFIX** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **TPMS** | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 | Lectura de seguridad | Resultado |
 | :--- | :--- |
-| **Airbags** | 🟢 Crosstrek |
-| **ADAS en versión base** | 🟡 Verificar: la Crosstrek base pierde EyeSight frente a Dynamic/Touring |
-| **Sensores de estacionamiento de serie** | 🟢 RAV4 LE y CX-5 Core |
-| **Mejor seguridad por subir de versión** | 🟢 Crosstrek Dynamic/Touring añade EyeSight + BSD/RCTA según versión |
-
----
+| **Airbags** | 🟢 Honda CR-V Touring |
+| **ADAS** | Forester XS ES y CR-V Touring son los más completos de esta selección según sus fichas; Crosstrek base sigue penalizada por no traer EyeSight. |
+| **Estacionamiento** | La CR-V Touring incorpora sensores y cámara trasera, pero **no cámara 360° de fábrica** en la ficha revisada. |
 
 ## 9. Tecnología y confort
 
-| Característica | Toyota RAV4 LE AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Característica | Toyota RAV4 LE AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core AWD | Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Pantalla** | Ver versión | 🟢 **7" doble pantalla** en base / 11,6" en versiones superiores | 🟢 **10,25"** | 🟢 **12,3\"** | 7" doble pantalla |
-| **Apple CarPlay** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
-| **Android Auto** | Ver versión | ✓ sujeto a compatibilidad | ✓ | ✓ | ✓ |
-| **Carga inalámbrica** | Ver versión | No en base | Verificar según ficha vigente | ✓ | No en XS ES |
-| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No | **No en XS ES; ✓ Dynamic ES y superiores** |
-| **HUD** | Ver versión | — | No en Core; ✓ Core Plus y superiores según ficha | No | No |
-| **Climatizador** | Ver versión | Ver versión | 🟢 Bizona en gama/ficha | 🟢 Bizona | Bizona |
-| **Audio** | Ver versión | 6 parlantes base | 🟢 6 parlantes base; Bose en superiores | 6 parlantes | 4 parlantes |
-| **Cuero** | Ver versión | No en base | No en Core | Tela | No; tela |
-| **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda | Pantalla táctil | Pantalla táctil / controles al volante |
-| **Mejor pantalla base** | — | — | 🟢 CX-5 | 🟢 **12,3\"** | Pendiente de comparar por usabilidad, no solo tamaño |
-
-| **Nota sobre Forester XS ES y cámara 360°** | La ficha oficial 2026 indica que la **XS ES no trae cámara 360°**, mientras que la **Dynamic ES, Sport ES y Touring ES sí**. Un retrofit aftermarket de 4 cámaras es técnicamente posible, pero debe tratarse como modificación separada: requiere cámaras frontal, trasera y laterales, módulo de procesamiento/calibración y una solución compatible con la pantalla original o una pantalla/interfaz adicional. No asumir integración OEM con la pantalla de 7\" del XS ES sin verificar compatibilidad específica. |
-
----
+| **Pantalla** | Ver versión | 7" doble pantalla / 11,6" superiores | 🟢 10,25" | 7" doble pantalla | 7" |
+| **Apple CarPlay** | Ver versión | ✓ | ✓ | ✓ | ✓ |
+| **Android Auto** | Ver versión | ✓ | ✓ | ✓ | ✓ |
+| **Carga inalámbrica** | Ver versión | No en base | Verificar | No en XS ES | 🟢 ✓ |
+| **Cámara 360°** | Ver versión | No en base; ✓ Touring HK 360 | No en Core; ✓ superiores | No en XS ES; ✓ Dynamic ES+ | **No en Touring 4x4 según ficha** |
+| **HUD** | Ver versión | — | No en Core | No | No |
+| **Climatizador** | Ver versión | Ver versión | 🟢 Bizona | Bizona | 🟢 Bizona |
+| **Audio** | Ver versión | 6 parlantes | 6 parlantes; Bose superiores | 4 parlantes | 🟢 **Bose 12 parlantes** |
+| **Cuero** | Ver versión | No en base | No en Core | No; tela | 🟢 ✓ |
+| **Control físico de multimedia** | Ver versión | Pantalla táctil | 🟢 Buena ergonomía Mazda | Pantalla táctil / volante | Pantalla táctil / controles al volante |
+| **Mejor equipamiento de confort** | — | — | — | — | 🟢 **Touring** (pero con fuerte penalización de precio) |
 
 ## 10.1 Estabilidad en curvas y control de carrocería
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Forester AWD | Honda CR-V Touring 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Estabilidad en curvas** | 🟢 Muy buena | Muy buena | 🟢 **Excelente / referente del grupo** | 🟢 Muy buena | Muy buena |
-| **Control del balanceo** | 🟢 Mejorado en generación 2026 | Muy bueno, aunque con más recorrido de suspensión | 🟢 **Muy bueno** | 🟢 Muy bueno | Muy bueno |
-| **Dirección en curvas** | Buena, orientada a seguridad | 🟢 Precisa y predecible | 🟢 **Precisa y comunicativa** | Buena, orientada al confort | Precisa y estable |
-| **Agarre en curva sobre pavimento seco** | 🟢 Muy bueno | Muy bueno | 🟢 **Excelente** | Muy bueno | Muy bueno |
-| **Agarre en curva mojada** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | Muy bueno |
-| **Tendencia al subviraje al exigirlo** | 🟡 Presente de forma predecible | 🟡 Presente, como es habitual en un crossover alto | 🟢 **Más controlada** | 🟡 Presente de forma predecible | 🟡 Presente de forma predecible |
-| **Cambios rápidos de trayectoria** | 🟢 Muy bueno | 🟢 Bueno/muy bueno | 🟢 **Muy bueno** | Muy bueno | Muy bueno |
-| **Sensación general** | 🟢 Estable y segura | 🟢 Predecible y estable | 🟢 **La más orientada al manejo** | 🟢 Estable y confortable | 🟢 Estable, segura y aplomada |
-| **Resultado preliminar** | **Muy fuerte** | **Muy fuerte** | 🟢 **Mejor candidata para manejo en curvas** | **Muy fuerte** | Muy fuerte |
-
-| Nota | Detalle |
-| :--- | :--- |
-| **Qué mide esta sección** | No es una prueba de conducción al límite. Resume arquitectura, control de carrocería, dirección y evaluaciones de manejo; el resultado definitivo debe validarse mediante prueba de manejo segura. |
-| **Contexto RAV4** | Toyota indica que la generación 2026 incorpora sistemas que trabajan sobre la postura de frenado y sincronizan pitch/roll durante las curvas para mejorar la respuesta al giro. |
-| **Contexto Crosstrek** | Subaru equipa ATV (Active Torque Vectoring) de serie y la plataforma SGP; pruebas independientes describen un comportamiento equilibrado y controlado, con buen control del balanceo. |
-| **Contexto CX-5** | Mazda destaca G-Vectoring Control Plus, y evaluaciones del CX-5 en Chile han destacado históricamente su aplomo, estabilidad en curvas y sensación de conducción similar a un automóvil. |
-| **Contexto Tucson** | Evaluaciones de la Tucson 2026 describen buen agarre y transferencia de peso controlada; sigue siendo una SUV orientada principalmente al confort. |
-
----
+| **Estabilidad en curvas** | Muy buena | Muy buena | 🟢 Excelente / referente del grupo | Muy buena | Muy buena |
+| **Control del balanceo** | Muy bueno | Muy bueno | 🟢 Muy bueno | Muy bueno | 🟢 Muy bueno |
+| **Dirección en curvas** | Buena | 🟢 Precisa y predecible | 🟢 Precisa y comunicativa | Precisa y estable | Buena / segura |
+| **Agarre en mojado** | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | 🟢 Muy bueno | Muy bueno |
+| **Cambios rápidos de trayectoria** | Muy bueno | Bueno/muy bueno | 🟢 Muy bueno | Muy bueno | Muy bueno |
+| **Sensación general** | Estable y segura | Predecible y estable | 🟢 Más orientada al manejo | Estable y aplomada | Estable, aplomada y confortable |
 
 ## 10. Sistema AWD y conducción sobre baja adherencia
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Forester AWD | Honda CR-V Touring 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Arquitectura AWD** | AWD | 🟢 Symmetrical AWD permanente | i-Activ AWD | 🟢 **HTRAC 4WD** | 🟢 Symmetrical AWD permanente |
-| **Vectorización de torque** | VSC/gestión de tracción | 🟢 ATV de serie | G-Vectoring Control Plus | Gestión de tracción H-Track | 🟢 ATV de serie |
-| **Modo específico caminos malos** | Ver versión | 🟢 X-MODE | 🟢 Mi-Drive con Off-Road | Eco / Normal / Sport / My Drive | 🟢 X-MODE |
-| **Despeje** | Muy alto | 🟢 220 mm | Menor | Verificar | 🟢 220 mm |
-| **Ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno | Muy bueno | 🟢 Excelente |
-| **Nieve/hielo** | Muy bueno | 🟢 Excelente | 🟢 Muy bueno con Off-Road | Muy bueno | 🟢 Excelente |
-| **Barro moderado** | Muy bueno | 🟢 Muy bueno | Bueno/Muy bueno | Bueno/Muy bueno | Muy bueno |
-| **Uso diario** | 🟢 Excelente equilibrio | Muy bueno | 🟢 Excelente equilibrio | 🟢 Excelente equilibrio | Muy bueno |
-
----
+| **Arquitectura AWD** | AWD | 🟢 Symmetrical AWD permanente | i-Activ AWD | 🟢 Symmetrical AWD permanente | Real Time AWD inteligente |
+| **Vectorización / gestión** | Gestión de tracción | 🟢 ATV de serie | G-Vectoring Control Plus | 🟢 ATV de serie | Control inteligente Real Time AWD |
+| **Modo caminos malos** | Ver versión | 🟢 X-MODE | Mi-Drive / Off-Road según versión | 🟢 X-MODE | No se declara un modo off-road dedicado en la ficha revisada |
+| **Despeje** | Muy alto | 🟢 220 mm | Menor | 🟢 220 mm | 208 mm |
+| **Ripio** | 🟢 Muy bueno | 🟢 Excelente | Muy bueno | 🟢 Excelente | Muy bueno |
+| **Nieve/hielo** | Muy bueno | 🟢 Excelente | Muy bueno | 🟢 Excelente | Muy bueno |
+| **Barro moderado** | Muy bueno | 🟢 Muy bueno | Bueno/muy bueno | Muy bueno | Bueno/muy bueno |
+| **Uso diario** | 🟢 Excelente equilibrio | Muy bueno | 🟢 Excelente equilibrio | Muy bueno | Muy bueno |
+| **Conclusión AWD** | Muy equilibrado | 🟢 Mejor aptitud en baja adherencia | Buen compromiso | 🟢 Mejor junto a Crosstrek | Buen AWD de uso mixto; menor despeje que Subaru |
 
 ## 11. Mantención, garantía y postventa publicada
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Subaru Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Garantía vehículo** | 🟢 **5 años/100.000 km** | 3 años/60.000 km + extensión publicada del tren motriz hasta 5 años/100.000 km bajo condiciones | 3 años/100.000 km | Hasta 5 años/100.000 km bajo condiciones Hyundai | 3 años/60.000 km + extensión de tren motriz hasta 5 años/100.000 km bajo condiciones |
-| **Intervalo de servicio** | 🟢 10.000 km/1 año según pauta | 🟢 15.000 km | 🟢 10.000 km/12 meses para 2.0/2.5 | 🟢 **10.000 km / 12 meses** | 🟢 15.000 km |
-| **Primer servicio** | 15 días gratuito | Según plan Subaru | Según plan Mazda | Revisión a 30 días según programa | Según plan Subaru / cotizar |
-| **4 mantenciones iniciales** | 🟢 Toyota publica paquete 10k/20k/30k/40k | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Precio publicado paquete 10–40k** | 🟢 $1.091.968 online; referencial $1.364.960 | — | — | Cotizar | Cotizar |
-| **Repuestos** | 🟢 Red oficial Toyota | Red oficial Subaru | Red oficial Mazda | Red oficial Hyundai | Red oficial Subaru |
-| **Servicio técnico local** | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta | Cotizar sucursal concreta | Salazar Israel Temuco |
-
----
+| **Garantía vehículo** | 5 años/100.000 km | 3 años/60.000 km + extensión tren motriz bajo condiciones | 3 años/100.000 km | 3 años/60.000 km + extensión tren motriz bajo condiciones | **Verificar plazo exacto en contrato/manual Honda** |
+| **Intervalo de servicio** | 10.000 km/1 año | 15.000 km | 10.000 km/12 meses | 15.000 km | 🟢 **10.000 km / 1 año** |
+| **4 mantenciones iniciales** | 🟢 Publicado paquete 10k–40k | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Precio paquete 10–40k** | 🟢 $1.091.968 online / referencial $1.364.960 | — | — | — | Cotizar |
+| **Repuestos** | Red oficial Toyota | Red oficial Subaru | Red oficial Mazda | Red oficial Subaru | Red oficial Honda |
+| **Servicio técnico local** | Toyota Portillo Sur | Salazar Israel | DeCar | Salazar Israel | 🟢 Salazar Israel Temuco |
 
 ## 11.1. Capa local: proveedores y soporte en Temuco
 
-> **Objetivo:** incorporar datos reales de la zona de uso, sin confundir la existencia de un proveedor con un precio ya cotizado. Los precios que no estén publicados se mantienen como **cotizar**.
+> **Objetivo:** incorporar datos reales de la zona de uso. Los precios no publicados se mantienen como **cotizar**.
 
 | Marca / vehículo | Proveedor oficial en Temuco | Soporte confirmado | Referencia local |
 | :--- | :--- | :--- | :--- |
-| **Toyota RAV4 AWD** | **Toyota Portillo Sur - Temuco** | Servicio técnico oficial + repuestos originales + venta de Toyota 0 km | Bernardo O'Higgins 0250; horario publicado aprox. 08:30–19:00 según día |
-| **Subaru Crosstrek AWD / Forester AWD** | **Salazar Israel Temuco** | Servicio técnico y repuestos; la red Subaru identifica la sucursal de Caupolicán para servicio/repuestos y Plaza Banderas para ventas | Caupolicán 1476 / Hochstetter 976 |
-| **Mazda CX-5 AWD** | **DeCar - Temuco Casa Matriz** | Servicio técnico + repuestos Mazda | Bernardo O'Higgins 302; servicio L–V 08:30–13:30 y 15:00–18:00; sábado 10:00–13:00 |
-| **Hyundai Tucson 4WD** | **Gildemeister Retail Temuco** | Servicio técnico + repuestos Hyundai | Pedro León Gallo 1021; servicio L–J 08:30–18:00 y V 08:30–17:30 |
+| **Toyota RAV4 AWD** | **Toyota Portillo Sur - Temuco** | Servicio técnico oficial + repuestos originales | Bernardo O'Higgins 0250 |
+| **Subaru Crosstrek / Forester** | **Salazar Israel Temuco** | Servicio técnico y repuestos oficiales Subaru | Red Subaru: sede Temuco; verificar módulo exacto al agendar |
+| **Mazda CX-5 AWD** | **DeCar - Temuco Casa Matriz** | Servicio técnico + repuestos Mazda | Bernardo O'Higgins 302 |
+| **Honda CR-V 4x4** | **Salazar Israel - Temuco** | Honda identifica esta sede como taller autorizado; servicio y atención de Honda | **Av. Caupolicán 48, Temuco** |
 
-| Tipo de proveedor | Referencia local útil | Para qué usarlo en la comparativa |
+| Tipo de proveedor | Referencia local útil | Para qué usarlo |
 | :--- | :--- | :--- |
-| **Seguro automotriz** | **Temuco Seguros** | Comparar cotizaciones de distintas aseguradoras y registrar prima, deducible, robo, pérdida total, asistencia y vehículo de reemplazo. |
-| **Taller multimarca / mantención** | **Taller Izaguirre Gallardo** | Benchmark de mantenciones, frenos, baterías, neumáticos y reparaciones fuera de garantía; publica atención para Toyota, Subaru y Mazda. |
-| **Servicio automotriz multimarca** | **S&M Servicio Automotriz** | Segunda referencia local para Toyota/Mazda y costos de mantención/reparación fuera de garantía. |
-| **Neumáticos** | **NEUMA-REX Temuco / Serviteca DACSA** | Cotizar 4 neumáticos de la medida exacta, montaje, balanceo, alineación y válvulas. |
-| **Parabrisas** | **Parabrisas Araucanía** | Cotizar vidrio, instalación y disponibilidad; además permite contrastar el costo fuera del concesionario. |
+| **Seguro automotriz** | **Temuco Seguros** | Cotizaciones comparables para los cinco modelos |
+| **Taller multimarca** | **Taller Izaguirre Gallardo** | Benchmark fuera de garantía |
+| **Servicio automotriz multimarca** | **S&M Servicio Automotriz** | Segunda referencia de costos |
+| **Neumáticos** | **NEUMA-REX Temuco / Serviteca DACSA** | Cotizar neumáticos de medida exacta |
+| **Parabrisas** | **Parabrisas Araucanía** | Cotizar vidrio + instalación + eventual calibración ADAS |
 
-### Método de cotización local
-
-| Ítem | Cómo incorporarlo |
+| Método | Regla |
 | :--- | :--- |
-| **Mantenciones 10k–100k** | Pedir precio para la **versión AWD exacta** y conservar por separado precio de concesionario oficial y precio de taller independiente. |
-| **Pastillas y discos** | Cotizar kit + mano de obra; registrar si es OEM/original o alternativo. |
-| **Batería 12 V** | Cotizar marca, capacidad, garantía y mano de obra. |
-| **Neumáticos** | Pedir 4 unidades de la medida exacta, incluyendo instalación, balanceo, alineación y disposición del neumático usado si aplica. |
-| **Parabrisas / faro LED** | Cotizar pieza, instalación y, cuando corresponda, calibración ADAS. |
-| **Seguro** | Solicitar cotización para la misma versión AWD, Temuco y mismo nivel de deducible/cobertura para los cinco modelos. |
-| **Postventa** | Registrar disponibilidad del proveedor, horario, repuestos, tiempo de espera para cita y si realiza diagnóstico/calibración ADAS. |
-| **TCO** | Usar los costos locales como entrada preferente cuando estén cotizados; no sustituir una cotización real por una cifra de internet sin advertencia. |
-
-### Regla de puntuación local
-
-| Criterio | Regla |
-| :--- | :--- |
-| **Disponibilidad de postventa** | Puntuar por existencia de servicio oficial, repuestos y alternativa independiente en Temuco. |
-| **Costo de servicio** | Puntuar con cotizaciones comparables; menor costo no significa automáticamente mejor si cambia la calidad/cobertura. |
-| **Riesgo de quedar sin vehículo** | Incorporar tiempo de espera para atención y disponibilidad de repuestos cuando exista información verificable. |
-| **Calibración ADAS** | Registrar expresamente si el proveedor local puede realizarla tras cambio de parabrisas o reparación frontal. |
-| **Proveedor independiente** | Úsalo como referencia de costo fuera de garantía, no como sustituto automático del servicio oficial mientras el vehículo esté sujeto a condiciones de garantía. |
+| **Mantenciones** | Pedir precio para la versión AWD exacta y separar oficial/independiente. |
+| **Seguro** | Misma comuna, cobertura y deducible para los cinco modelos. |
+| **ADAS** | Registrar disponibilidad local de diagnóstico/calibración tras cambio de parabrisas. |
 
 ## 12. Costos de mantención que faltan cotizar localmente
 
-| Mantención / desgaste | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | :---: | :---: | :---: | :---: |
+| Mantención / desgaste | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V 4x4 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | 10.000 km | **Publicado** | Cotizar | Cotizar | Cotizar | Cotizar |
-| 20.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
-| 30.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
-| 40.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar |
-| 60.000 km | Cotizar | Cotizar | Cotizar | Cotizar |
-| 100.000 km | Cotizar | Cotizar | Cotizar | Cotizar |
-| Pastillas delanteras | Cotizar | Cotizar | Cotizar | Cotizar |
-| Pastillas traseras | Cotizar | Cotizar | Cotizar | Cotizar |
-| Discos delanteros | Cotizar | Cotizar | Cotizar | Cotizar |
-| Discos traseros | Cotizar | Cotizar | Cotizar | Cotizar |
-| Batería 12 V | Cotizar | Cotizar | Cotizar | Cotizar |
-| 4 neumáticos | Cotizar | Cotizar | Cotizar | Cotizar |
-| Parabrisas | Cotizar | Cotizar | Cotizar | Cotizar |
-| Faro LED | Cotizar | Cotizar | Cotizar | Cotizar |
-
----
+| 20.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar | Cotizar |
+| 30.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar | Cotizar |
+| 40.000 km | **Publicado / paquete** | Cotizar | Cotizar | Cotizar | Cotizar |
+| 60.000 km | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| 100.000 km | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Pastillas delanteras | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Pastillas traseras | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Discos delanteros | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Discos traseros | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Batería 12 V | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| 4 neumáticos | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Parabrisas | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| Faro LED | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 
 ## 13. Seguro y robo
 
-| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus | Forester 2.5 AWD XS ES |
+| Criterio | Toyota RAV4 AWD | Subaru Crosstrek AWD | Mazda CX-5 AWD | Forester AWD | Honda CR-V Touring 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Prima anual** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **Deducible** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
@@ -477,153 +411,132 @@
 | **Asistencia en ruta** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **Vehículo de reemplazo** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **GPS/antirrobo exigido** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Riesgo de robo** | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟢 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin estadísticas/cotización actual | 🟡 No asignar ranking sin cotización/estadística actual | Pendiente: no asignar ranking sin cotización/estadística actual |
+| **Riesgo de robo** | Pendiente de estadística/cotización | Pendiente | Pendiente | Pendiente | Pendiente |
 
 | Regla | Detalle |
 | :--- | :--- |
-| **No usar “alto/medio/bajo”** | Para Chile, el dato útil es la cotización real del seguro para la versión exacta y la comuna donde vivirá el vehículo. |
-
----
+| **No usar “alto/medio/bajo”** | Para Chile, el dato útil es la cotización real del seguro para la versión exacta y Temuco. |
 
 ## 14. Reventa y depreciación
 
-| Criterio | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Tucson 4WD |
-| :--- | :--- | :--- | :--- | :--- |
-| **Señal de reventa** | 🟢 Fuerte | Buena | Buena | Buena |
-| **Depreciación observada preliminar** | ~25% | ~26% | ~32% | 🟢 ~18% |
-| **Confianza** | Media | 🟢 Buena | Media | Media |
-| **Precio usado comparable** | $24,0 M / 42k km (2021 Adventure 4x4) | $18,49 M / ~52k km (2024 2.0 AWD) | $21,29 M / 36,5k km (2023 2.0 Active AWD) | $16,89 M / 62,3k km (2021 1.6T Limited 4WD) |
-| **Valor para TCO** | 🟢 Alto | Alto | Alto | Alto |
-| **Nota para el ranking** | **Mantener pendiente de más muestras** | **Usar provisionalmente** | **Mantener pendiente de más muestras** | **Mantener provisionalmente** |
+| Criterio | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V AWD |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Señal de reventa** | 🟢 Fuerte | Buena | Buena | Buena | Pendiente |
+| **Depreciación observada preliminar** | ~25% | ~26% | ~32% | Pendiente de muestras comparables 2026 | Pendiente de muestras comparables |
+| **Confianza** | Media | 🟢 Buena | Media | Baja / pendiente | Baja / pendiente |
+| **Precio usado comparable** | $24,0 M / 42k km (2021 Adventure 4x4) | $18,49 M / ~52k km (2024 2.0 AWD) | $21,29 M / 36,5k km (2023 2.0 Active AWD) | Cotizar/investigar | Cotizar/investigar |
+| **Valor para TCO** | Alto | Alto | Alto | Pendiente | Pendiente |
+| **Nota para el ranking** | Mantener pendiente de más muestras | Usar provisionalmente | Mantener pendiente de más muestras | No cerrar | No cerrar |
 
 ## 14.1 Depreciación observada en el mercado chileno
 
 | Modelo | Referencia histórica de nuevo | Precio usado observado | Año / km del usado | Retención aproximada | Depreciación observada | Calidad del dato |
 | :--- | ---: | ---: | :--- | ---: | ---: | :--- |
-| **Toyota RAV4 AWD** | ~$31,99 M* | **$24,00 M** | 2021 Adventure 4x4 / 42.000 km | ~75% | ~25% | 🟡 Media: referencia de precio promedio del modelo, no del mismo trim |
-| **Subaru Crosstrek** | **$24,99 M** | **$18,49 M** | 2024 2.0 AWD / ~52.000–60.000 km | ~74% | ~26% | 🟢 Buena: precio inicial oficial de la versión AWD base + varios avisos comparables |
-| **Mazda CX-5 AWD** | ~$31,29 M* | **$21,29 M** | 2023 2.0 Active AWD / 36.500 km | ~68% | ~32% | 🟡 Media: referencia de precio promedio del modelo vs. avisos AWD |
-| **Hyundai Tucson AWD** | ~$20,69 M* | **$16,89 M** | 2021 1.6T Limited 4WD / 62.300 km | ~82% | ~18% | 🟡 Media: referencia promedio del modelo vs. versión AWD exacta |
+| **Toyota RAV4 AWD** | ~$31,99 M* | **$24,00 M** | 2021 Adventure 4x4 / 42.000 km | ~75% | ~25% | 🟡 Media |
+| **Subaru Crosstrek** | **$24,99 M** | **$18,49 M** | 2024 2.0 AWD / ~52.000–60.000 km | ~74% | ~26% | 🟢 Buena |
+| **Mazda CX-5 AWD** | ~$31,29 M* | **$21,29 M** | 2023 2.0 Active AWD / 36.500 km | ~68% | ~32% | 🟡 Media |
+| **Subaru Forester AWD** | Pendiente de referencia histórica comparable | Pendiente | Pendiente | Pendiente | Pendiente | 🔴 Insuficiente |
+| **Honda CR-V AWD** | Pendiente de referencia histórica chilena comparable | Pendiente | Pendiente | Pendiente | Pendiente | 🔴 Insuficiente |
 
-| Modelo | Observaciones de mercado |
+| Regla | Aplicación |
 | :--- | :--- |
-| **RAV4** | Chileautos registra además una RAV4 2021 Adventure 4x4 a $24,0 M con 42.000 km. Otra RAV4 2021 Limited Hybrid 4x4 aparece a $26,49 M con 108.069 km; esto muestra que versión y motorización pueden alterar mucho la retención. |
-| **Crosstrek** | Chileautos muestra varios Crosstrek 2024 AWD en torno a $18,0–20,0 M. Un 2024 2.0 AWD de 36.173 km aparece en $17,99 M y otro de 52.284 km en $18,49 M. |
-| **CX-5** | Para 2023, Chileautos muestra varios AWD 2.0: $21,48 M (60.000 km), $20,09 M (50.000 km) y $21,29 M (36.500 km). Esto da una señal mucho más útil que mirar un solo aviso. |
-| **Tucson** | Un Tucson 2021 1.6T NX4 Limited 4WD aparece en $16,89 M con 62.300 km. El mercado también tiene Tucson 2022 AWD Limited anunciadas cerca de $24,9–25,0 M, lo que evidencia diferencias importantes por año, kilometraje y versión. |
-
-| Regla de interpretación | Aplicación |
-| :--- | :--- |
-| **Precio de publicación ≠ precio de venta** | Los valores de Chileautos son precios pedidos por vendedores. Para TCO deben tratarse como una aproximación al valor de mercado, no como una transacción cerrada. |
-| **Depreciación real** | La cifra debería confirmarse con varios avisos, idealmente comparando misma versión, año y rango de kilometraje. |
-| **Inflación / cambio de precios** | Comparar precio de nuevo de 2021/2023 con precio nuevo de 2026 no es lo mismo que medir depreciación financiera pura; por eso esta tabla se llama **depreciación observada**. |
-| **Importancia para este comprador** | 🟢 Como se planea conservar el vehículo varios años y el kilometraje anual será relativamente bajo, la depreciación probablemente tendrá bastante más impacto económico que una diferencia pequeña de consumo. |
-
-| *Referencia histórica* | Detalle |
-| :--- | :--- |
-| **RAV4 2021** | Chileautos muestra un precio promedio histórico de **$31,99 M** para RAV4 2021. |
-| **Crosstrek 2023** | Subaru publicó oficialmente **$24,99 M** para el 2.0i AWD CVT al lanzamiento en mayo de 2023. |
-| **CX-5 2023** | Chileautos muestra un precio promedio histórico de **$31,29 M** para CX-5 2023; la cifra agrupa la gama y no solo el 2.0 AWD. |
-| **Tucson 2021** | Chileautos muestra un precio promedio histórico de **$20,69 M** para Tucson 2021; la cifra agrupa la gama y no solo el 1.6T 4WD. |
+| **Precio de publicación ≠ precio de venta** | Los avisos se usan como aproximación de mercado, no como transacciones cerradas. |
+| **CR-V / Forester** | No asignar una depreciación numérica hasta disponer de varias muestras comparables por año, versión y kilometraje. |
 
 ## 15. TCO a 5 años
 
-| Elemento | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | :--- | :--- | :--- | :---: |
-| **Compra** | 🔴 Precio lista más alto | 🟢 Precio lista más bajo | Intermedio | 🔴 Precio lista más alto |
-| **Combustible homologado** | Bueno | Bueno | 🟢 Mejor mixto | 🟡 Menor eficiencia homologada del grupo |
-| **Seguro** | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Permiso circulación** | Calcular SII | Calcular SII | Calcular SII | Calcular SII |
-| **Mantenciones** | 🟢 Ya existe precio oficial parcial | Cotizar | Cotizar | Cotizar |
-| **Neumáticos** | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Frenos** | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Batería** | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Reparaciones fuera de garantía** | Cotizar | Cotizar | Cotizar | Cotizar |
-| **Depreciación** | 🟢 Potencialmente favorable | Calcular | Calcular | Calcular |
-| **TCO definitivo** | **No cerrar hasta tener seguro + mantenciones + reventa** | **No cerrar hasta tener seguro + mantenciones + reventa** | **No cerrar hasta tener seguro + mantenciones + reventa** | **No cerrar hasta tener seguro + mantenciones + reventa** |
+| Elemento | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V 4x4 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Compra** | 🟢 Mucho más accesible que CR-V | 🟢 Accesible | 🟢 Más barato | 🟢 Accesible | 🔴 **$42,99 M lista** |
+| **Combustible homologado** | Bueno | Bueno | 🟢 Mejor mixto | Bueno | Bueno, pero peor que CX-5/Forester |
+| **Seguro** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Permiso circulación** | $554.812 ref. | $485.654 ref. | 🟢 $452.292 ref. | Pendiente | Pendiente |
+| **Mantenciones** | 🟢 Ya existe precio oficial parcial | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Neumáticos** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Frenos** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Batería** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Reparaciones fuera de garantía** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
+| **Depreciación** | 🟢 Potencialmente favorable | Calcular | Calcular | Pendiente | Pendiente |
+| **TCO definitivo** | **Pendiente de seguro + mantenciones + reventa** | **Pendiente** | **Pendiente** | **Pendiente** | **Pendiente** |
 
----
+| Lectura preliminar | Resultado |
+| :--- | :--- |
+| **CR-V** | Su seguridad y espacio son atractivos, pero el precio lista de $42,99 M la deja muy lejos del rango económico de los otros cuatro. |
 
 ## 16. Prueba de manejo
 
-| Prueba | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | :---: | :---: | :---: | :---: |
-| Salida desde cero | /10 | /10 | /10 | /10 |
-| 60–100 km/h | /10 | /10 | /10 | /10 |
-| 80–120 km/h | /10 | /10 | /10 | /10 |
-| Respuesta con carga | /10 | /10 | /10 | /10 |
-| Pendiente | /10 | /10 | /10 | /10 |
-| Frenada | /10 | /10 | /10 | /10 |
-| Baches | /10 | /10 | /10 | /10 |
-| Ripio | /10 | /10 | /10 | /10 |
-| Lluvia | /10 | /10 | /10 | /10 |
-| Ruido de neumáticos | /10 | /10 | /10 | /10 |
-| Ruido motor/caja | /10 | /10 | /10 | /10 |
-| Comodidad asiento | /10 | /10 | /10 | /10 |
-| ADAS | /10 | /10 | /10 | /10 |
-| Cámara/sensores | /10 | /10 | /10 | /10 |
-| Estacionamiento | /10 | /10 | /10 | /10 |
-| Comodidad después de 2 h | /10 | /10 | /10 | /10 |
-
----
+| Prueba | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V 4x4 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Salida desde cero | /10 | /10 | /10 | /10 | /10 |
+| 60–100 km/h | /10 | /10 | /10 | /10 | /10 |
+| 80–120 km/h | /10 | /10 | /10 | /10 | /10 |
+| Respuesta con carga | /10 | /10 | /10 | /10 | /10 |
+| Pendiente | /10 | /10 | /10 | /10 | /10 |
+| Frenada | /10 | /10 | /10 | /10 | /10 |
+| Baches | /10 | /10 | /10 | /10 | /10 |
+| Ripio | /10 | /10 | /10 | /10 | /10 |
+| Lluvia | /10 | /10 | /10 | /10 | /10 |
+| Ruido de neumáticos | /10 | /10 | /10 | /10 | /10 |
+| Ruido motor/caja | /10 | /10 | /10 | /10 | /10 |
+| Comodidad asiento | /10 | /10 | /10 | /10 | /10 |
+| ADAS | /10 | /10 | /10 | /10 | /10 |
+| Cámara/sensores | /10 | /10 | /10 | /10 | /10 |
+| Estacionamiento | /10 | /10 | /10 | /10 | /10 |
+| Comodidad después de 2 h | /10 | /10 | /10 | /10 | /10 |
 
 ## 17. Ponderación y score final
 
-| Categoría | Peso | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Tucson 4WD | Forester AWD |
+| Categoría | Peso | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V AWD |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Costo total de propiedad** | 25% | 7,5/10 | 8,5/10 | 8,0/10 | 7,0/10 | **7,5/10** |
-| **Seguridad** | 20% | 8,5/10 | 8,0/10 | 8,0/10 | 8,0/10 | 🟢 **9,5/10** |
-| **Confiabilidad / postventa local** | 15% | 9,0/10 | 8,5/10 | 8,0/10 | 8,0/10 | 8,5/10 |
-| **Confort / facilidad de uso diario** | 15% | 8,0/10 | 8,5/10 | 🟢 9,0/10 | 8,5/10 | 8,5/10 |
-| **Desempeño / conducción** | 10% | 8,5/10 | 8,0/10 | 🟢 9,0/10 | 9,0/10 | 8,8/10 |
-| **Consumo** | 5% | 8,5/10 | 8,5/10 | 🟢 9,0/10 | 7,0/10 | 8,8/10 |
-| **Espacio / practicidad** | 5% | 🟢 9,0/10 | 7,0/10 | 8,5/10 | 🟢 9,0/10 | 8,5/10 |
-| **Tecnología** | 3% | 8,0/10 | 8,0/10 | 🟢 9,0/10 | 🟢 9,0/10 | 8,0/10 |
-| **Reventa** | 2% | 🟢 8,8/10 | 8,3/10 | 7,8/10 | 8,7/10 | 8,4/10 |
-| **Puntaje total ponderado** | **100%** | **8,27/10** | **8,26/10** | 8,36/10 | 8,01/10 | 🟢 **8,48/10** |
-| **Porcentaje equivalente** | **100%** | **82,7/100** | **82,6/100** | **83,6/100** | **80,1/100** | 🟢 **84,8/100** |
-| **Ranking preliminar** | — | **3.º** | **4.º** | **2.º** | **5.º** | 🟢 **1.º** |
+| **Costo total de propiedad** | 25% | 7,5/10 | 8,5/10 | 8,0/10 | 7,5/10 | 🔴 **5,0/10** |
+| **Seguridad** | 20% | 8,5/10 | 8,0/10 | 8,0/10 | 🟢 9,5/10 | 🟢 **9,5/10** |
+| **Confiabilidad / postventa local** | 15% | 9,0/10 | 8,5/10 | 8,0/10 | 8,5/10 | 8,5/10 |
+| **Confort / facilidad de uso diario** | 15% | 8,0/10 | 8,5/10 | 🟢 9,0/10 | 8,5/10 | 🟢 9,0/10 |
+| **Desempeño / conducción** | 10% | 8,5/10 | 8,0/10 | 🟢 9,0/10 | 8,8/10 | 8,8/10 |
+| **Consumo** | 5% | 8,5/10 | 8,5/10 | 🟢 9,0/10 | 8,8/10 | 7,8/10 |
+| **Espacio / practicidad** | 5% | 🟢 9,0/10 | 7,0/10 | 8,5/10 | 8,5/10 | 🟢 9,0/10 |
+| **Tecnología** | 3% | 8,0/10 | 8,0/10 | 🟢 9,0/10 | 8,0/10 | 8,5/10 |
+| **Reventa** | 2% | 🟢 8,8/10 | 8,3/10 | 7,8/10 | 8,4/10 | 7,0/10 provisional |
+| **Puntaje total ponderado** | **100%** | **8,27/10** | **8,26/10** | **8,36/10** | 🟢 **8,48/10** | **7,90/10** |
+| **Porcentaje equivalente** | **100%** | **82,7/100** | **82,6/100** | **83,6/100** | 🟢 **84,8/100** | **79,0/100** |
+| **Ranking preliminar** | — | **3.º** | **4.º** | **2.º** | 🟢 **1.º** | **5.º** |
 
 | Regla del score | Detalle |
 | :--- | :--- |
-| **Escala** | 0–10 por ítem; 10 es mejor. |
-| **Puntaje ponderado** | Cada categoría se multiplica por su peso y luego se suman todas las contribuciones. |
-| **Estado** | El Forester entra con un score preliminar basado en sus especificaciones oficiales; TCO, seguro, mantenciones completas y reventa del Forester todavía requieren cotización/investigación comparable. |
-| **Actualización** | Cuando se complete un dato pendiente, deben recalcularse las notas afectadas y el puntaje total. |
+| **Estado** | La CR-V entra con score preliminar. Su penalización principal proviene del precio lista de $42,99 M y la falta de datos locales de seguro/mantención/reventa. |
+| **Actualización** | Al obtener cotizaciones y datos de reventa comparables deben recalcularse las notas afectadas y el ranking. |
 
 ## 18. Checklist de compra en Chile
 
-| Dato a conseguir | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Hyundai Tucson 1.5T 4WD Plus |
-| :--- | :---: | :---: | :---: | :---: |
-| Precio contado final | ⬜ | ⬜ | ⬜ | ⬜ |
-| Bono vigente hoy | ⬜ | ⬜ | ⬜ | ⬜ |
-| Precio financiado final | ⬜ | ⬜ | ⬜ | ⬜ |
-| Impuesto verde SII | ⬜ | ⬜ | ⬜ | ⬜ |
-| Permiso de circulación | ⬜ | ⬜ | ⬜ | ⬜ |
-| Seguro anual | ⬜ | ⬜ | ⬜ | ⬜ |
-| Deducible | ⬜ | ⬜ | ⬜ | ⬜ |
-| Mantenciones 10–40k | ⬜ | ⬜ | ⬜ | ⬜ |
-| Mantención 60k | ⬜ | ⬜ | ⬜ | ⬜ |
-| Mantención 100k | ⬜ | ⬜ | ⬜ | ⬜ |
-| 4 neumáticos | ⬜ | ⬜ | ⬜ | ⬜ |
-| Pastillas/discos | ⬜ | ⬜ | ⬜ | ⬜ |
-| Batería | ⬜ | ⬜ | ⬜ | ⬜ |
-| Parabrisas | ⬜ | ⬜ | ⬜ | ⬜ |
-| Faro | ⬜ | ⬜ | ⬜ | ⬜ |
-| Repuestos en stock | ⬜ | ⬜ | ⬜ | ⬜ |
-| Servicio técnico en Temuco | ⬜ | ⬜ | ⬜ | ⬜ |
-| Cámara 360° | ⬜ | ⬜ | ⬜ | ⬜ |
-| Monitor punto ciego | ⬜ | ⬜ | ⬜ | ⬜ |
-| ACC | ⬜ | ⬜ | ⬜ | ⬜ |
-| CarPlay inalámbrico | ⬜ | ⬜ | ⬜ | ⬜ |
-| Android Auto inalámbrico | ⬜ | ⬜ | ⬜ | ⬜ |
-| Rueda de repuesto | ⬜ | ⬜ | ⬜ | ⬜ |
-| Maletero real | ⬜ | ⬜ | ⬜ | ⬜ |
-| Remolque homologado | ⬜ | ⬜ | ⬜ | ⬜ |
-| Reventa 3 años | ⬜ | ⬜ | ⬜ | ⬜ |
-| Reventa 5 años | ⬜ | ⬜ | ⬜ | ⬜ |
-
----
+| Dato a conseguir | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V 4x4 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Precio contado final | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Bono vigente hoy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Precio financiado final | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Impuesto verde SII | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Permiso de circulación | ✅ $554.812 ref. | ✅ $485.654 ref. | ✅ $452.292 ref. | ⬜ | ⬜ |
+| Seguro anual | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Deducible | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Mantenciones 10–40k | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Mantención 60k | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Mantención 100k | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4 neumáticos | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Pastillas/discos | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Batería | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Parabrisas | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Faro | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Repuestos en stock | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Servicio técnico en Temuco | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Cámara 360° | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Monitor punto ciego | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ACC | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| CarPlay inalámbrico | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Android Auto inalámbrico | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Rueda de repuesto | ⬜ | ⬜ | ⬜ | ✅ | ✅ |
+| Maletero real | ⬜ | ⬜ | ⬜ | ✅ 509 L | ⬜ |
+| Remolque homologado | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Reventa 3 años | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Reventa 5 años | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 19. Fuentes oficiales utilizadas
 
@@ -636,44 +549,34 @@
 | **Subaru Forester 2026** | https://www.subaru.cl/vehiculos/all-new-forester/ |
 | **Subaru Forester ficha técnica 2026** | https://www.subaru.cl/media/iqhip2wb/spec-all-new-forester-2026-a4-web_compressed.pdf |
 | **Subaru Forester garantía / mantención** | https://www.subaru.cl/garantia-y-plan-de-mantencion |
-| **Subaru ficha técnica 2026** | https://www.subaru.cl/media/k1mkeoad/spec-crosstrek-2026-a4-1812_compressed.pdf |
-| **Subaru garantía/mantención** | https://www.subaru.cl/garantia-y-plan-de-mantencion |
+| **Subaru ficha técnica Crosstrek 2026** | https://www.subaru.cl/media/k1mkeoad/spec-crosstrek-2026-a4-1812_compressed.pdf |
 | **Mazda CX-5** | https://www.mazda.cl/vehiculo/mazda-cx-5 |
 | **Mazda ficha técnica** | https://www.mazda.cl/media/4p2pgyh4/mazda-ficha-cx-5-enero-2025-v1-b.pdf |
-| **Hyundai Tucson 1.5T 4WD Plus** | https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/especificaciones-tecnicas/ |
+| **Honda CR-V** | https://autos.honda.cl/suv/cr-v/ |
+| **Honda CR-V ficha técnica** | https://autos.honda.cl/wp-content/uploads/2025/08/Ficha_CRV_new.pdf |
+| **Honda postventa / mantención** | https://postventa.honda.cl/mantenimiento |
+| **Honda talleres autorizados** | https://postventa.honda.cl/talleres |
 | **SII tasación 2026** | https://www.sii.cl/destacados/tasacion_vehiculos/2026/index.html |
 | **SII UTM 2026** | https://www.sii.cl/valores_y_fechas/utm/utm2026.htm |
 | **Chileautos RAV4 Adventure 2021** | https://www.chileautos.cl/vehiculos/detalles/2021-toyota-rav4-2-5-adventure-4x4-at-5p/CL-AD-20524314/ |
-| **Chileautos XV AWD 2021** | https://www.chileautos.cl/vehiculos/usado-tipo/subaru/xv/2021-ano/ |
 | **Subaru Crosstrek precio lanzamiento 2023** | https://www.subaru.cl/media/2nfd4yks/precio-y-especificaciones_all-new-crosstrek_precios.pdf |
 | **Chileautos CX-5 Active AWD 2023** | https://www.chileautos.cl/vehiculos/detalles/2023-mazda-cx-5-2-0-active-awd-at-5p/CP-AD-8552808/ |
-| **Chileautos Tucson Limited 4WD 2021** | https://www.chileautos.cl/vehiculos/detalles/2021-hyundai-tucson-1-6t-nx4-limited-4wd-at-5p/CP-AD-8542294/ |
 | **Chileautos RAV4 precio 2021** | https://www.chileautos.cl/toyota/rav4/precio/2021/ |
 | **Chileautos Crosstrek / precios** | https://www.chileautos.cl/subaru/crosstrek/precio/ |
-| **Chileautos Subaru XV precio 2021** | https://www.chileautos.cl/subaru/xv/precio/2021/ |
 | **Chileautos CX-5 precio 2023** | https://www.chileautos.cl/mazda/cx-5/precio/2023/ |
-| **Chileautos Tucson precio 2021** | https://www.chileautos.cl/hyundai/tucson/precio/2021/ |
 | **Chileautos avisos AWD RAV4 2021** | https://www.chileautos.cl/vehiculos/toyota/rav4/2021-ano/ |
 | **Chileautos avisos AWD Crosstrek** | https://www.chileautos.cl/vehiculos/subaru/crosstrek/ |
 | **Chileautos avisos AWD CX-5 2023** | https://www.chileautos.cl/vehiculos/mazda/cx-5/2023-ano/ |
-| **Chileautos avisos AWD Tucson 2021** | https://www.chileautos.cl/vehiculos/hyundai/tucson/2021-ano/ |
-
----
 
 ## 20. Notas metodológicas
 
 | Tema | Nota |
 | :--- | :--- |
-| **Forester** | La versión principal elegida es la **2.5 AWD CVT XS ES**. Subaru Chile publica 185 CV, 247 Nm, Symmetrical AWD, 220 mm de despeje, 509 L de maletero y consumo mixto de 14,0 km/l. La ficha 2026 también confirma EyeSight y BSD/RCTA de serie en esta versión. El precio promocional de $27.990.000 encontrado corresponde a una campaña con vigencia hasta el 30/09/2026; para octubre de 2026 debe volver a cotizarse. |
-| **Puntuación** | En futuras actualizaciones, cada fila comparativa debe mostrar dato + nota /10 para los cinco vehículos; las notas de cada categoría deben alimentar el puntaje ponderado final. |
-| **Tucson** | Precio, especificaciones y equipamiento se toman de Hyundai Chile. El rendimiento 11,1/15,6 km/l se conserva como referencia de mercado/concesionario y el mixto 11,9 km/l proviene de información pública oficial y debe sustituirse por la etiqueta oficial de Consumo Vehicular/CNE cuando esté disponible para el CIT exacto. |
+| **Honda CR-V** | Para respetar la regla **solo AWD**, la versión comparada es la **Touring 1.5 Turbo 4x4 CVT**. La ficha chilena distingue la EX-T 1.5 Turbo 4x2 de la Touring 1.5 Turbo 4x4. Honda publica 188 hp, 240 Nm, 57 L de estanque, 4.706 mm de largo, 1.866 mm de ancho, 1.690 mm de alto y 208 mm de despeje. |
+| **Precio Honda** | Honda Chile publica $42.990.000 para la Touring 1.5 Turbo 4x4. La promoción de $39.990.000 encontrada estaba expresamente vigente hasta el 30/09/2026 y no se trata como precio vigente para octubre sin nueva confirmación. |
+| **Cámara 360°** | La CR-V Touring 4x4 no aparece con cámara 360° en la ficha técnica revisada. Para este comprador no se debe suponer que existe de fábrica. |
+| **Forester** | La versión principal sigue siendo la **2.5 AWD CVT XS ES**. No se sube a Dynamic solo para conseguir cámara 360; esa decisión se mantiene separada del precio del vehículo. |
+| **Puntuación** | Cada fila comparativa debe mantener dato + nota /10. El score de la CR-V es preliminar y está penalizado principalmente por su precio muy superior y por datos pendientes de TCO. |
+| **Permiso** | Los valores aportados de fabricación 2025 quedan registrados para RAV4, Crosstrek y CX-5; Forester y CR-V siguen pendientes de valor exacto. |
+| **TCO** | No declarar ganador económico definitivo hasta completar seguro, mantenciones y reventa comparables. |
 
-| Tema | Regla |
-| :--- | :--- |
-| **Precios** | Usar precio lista para comparar y precio contado cotizado para decidir. |
-| **Bonos** | No considerar un bono como “precio real” hasta confirmar vigencia y condiciones en el concesionario. |
-| **Impuesto verde** | Confirmar en SII para la versión/código exacto; Toyota publica una cifra de referencia en su propia ficha. |
-| **Permiso** | Para la comparativa se incorporan los valores de referencia obtenidos para vehículos de **fabricación 2025**: RAV4 $554.812, Crosstrek $485.654 y CX-5 $452.292. Tucson y Forester quedan pendientes hasta obtener su valor exacto. |
-| **Consumo** | Solo homologado; no sustituye un registro de consumo real. |
-| **Seguridad** | Comparar por versión exacta: el Crosstrek 2.0i AWD base, por ejemplo, no incluye EyeSight/BSD/RCTA, que aparecen en versiones superiores. |
-| **TCO** | No declarar un ganador económico mientras falten seguro, mantenciones completas y valor de reventa. |
