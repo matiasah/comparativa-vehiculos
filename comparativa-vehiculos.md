@@ -2,7 +2,7 @@
 
 > **Instrucciones para la IA que mantenga esta comparativa**
 >
-> Estás manteniendo y actualizando una comparativa de **Toyota RAV4 AWD, Subaru Crosstrek AWD, Mazda CX-5 AWD, Hyundai Tucson AWD y Subaru Forester AWD para el mercado chileno**. Tu trabajo no es solo corregir texto: debes investigar información actual, detectar datos obsoletos o inconsistentes, completar información faltante y modificar directamente este documento manteniendo su estructura, criterios y filosofía.
+> Estás manteniendo y actualizando una comparativa de **Toyota RAV4 AWD, Subaru Crosstrek AWD, Mazda CX-5 AWD, Subaru Forester AWD y Honda CR-V AWD para el mercado chileno**. Tu trabajo no es solo corregir texto: debes investigar información actual, detectar datos obsoletos o inconsistentes, completar información faltante y modificar directamente este documento manteniendo su estructura, criterios y filosofía.
 >
 > **Objetivo principal**
 >
