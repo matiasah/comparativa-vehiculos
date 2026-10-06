@@ -191,17 +191,17 @@
 
 | Indicador | Toyota RAV4 LE 2.0 AWD | Subaru Crosstrek 2.0i AWD | Mazda CX-5 Core 2.0 AWD | Subaru Forester 2.5 AWD XS ES | Honda CR-V Touring 1.5T 4x4 |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Precio de referencia actual** | **$27.490.000** | **$25.990.000** | 🟢 **$24.990.000** | **$25.990.000** | 🔴 **$42.990.000** |
-| **Origen del valor** | Informado para la comparación | Referencia oficial anterior; confirmar cotización | Informado para la comparación | Informado para la comparación | Lista oficial Honda Chile |
-| **Diferencia vs. el más barato** | +$2.500.000 | +$1.000.000 | 🟢 $0 | +$1.000.000 | 🔴 +$18.000.000 |
-| **Posición de precio** | Intermedia | Cercana al mínimo | 🟢 Más barata | Cercana al mínimo | 🔴 Muy superior |
-| **Precio a usar para TCO** | **$27.490.000 como referencia; reemplazar por cotización final** | **$25.990.000 como referencia; reemplazar por cotización final** | **$24.990.000 como referencia; reemplazar por cotización final** | **$25.990.000 como referencia; reemplazar por cotización final** | **$42.990.000 lista; cotizar precio contado vigente** |
+| **Precio de referencia actual** | **$27.490.000** | 🟢 **$23.790.000** | **$24.990.000** | **$25.990.000** | 🔴 **$42.990.000** |
+| **Origen del valor** | Informado para la comparación | **Precio promocional informado / enlace comercial** | Informado para la comparación | Informado para la comparación | Lista oficial Honda Chile |
+| **Diferencia vs. el más barato** | +$2.500.000 | 🟢 $0 | +$1.200.000 | +$2.200.000 | 🔴 +$19.200.000 |
+| **Posición de precio** | Intermedia | 🟢 Más barata | Intermedia | Intermedia | 🔴 Muy superior |
+| **Precio a usar para TCO** | **$27.490.000 como referencia; reemplazar por cotización final** | **$23.790.000 como referencia promocional; confirmar vigencia/condiciones** | **$24.990.000 como referencia; reemplazar por cotización final** | **$25.990.000 como referencia; reemplazar por cotización final** | **$42.990.000 lista; cotizar precio contado vigente** |
 
 | Nota | Detalle |
 | :--- | :--- |
 | **Precios proporcionados** | Para RAV4, CX-5 y Forester se incorporan los valores que indicaste: $27,49 M, $24,99 M y $25,99 M respectivamente. |
 | **Honda CR-V** | Honda Chile publica la **Touring 1.5 Turbo 4x4** con precio lista de **$42.990.000**. La oferta publicada de $39.990.000 tenía vigencia hasta el 30/09/2026, por lo que no se usa como precio vigente a octubre sin confirmación. |
-| **Crosstrek** | Se mantiene $25.990.000 como referencia de lista previa; conviene confirmar el valor exacto de la unidad 2026 en concesionario. |
+| **Crosstrek** | Se actualiza a **$23.790.000** como precio promocional informado en el enlace comercial aportado; para TCO debe confirmarse si corresponde a precio contado, bono de financiamiento y vigencia. |
 | **Lectura** | A igualdad de requisito AWD, la CR-V queda fuera de la franja económica de los otros cuatro y será penalizada en costo de compra/TCO. |
 
 ## 3. Impuestos y costos legales de compra
@@ -447,7 +447,7 @@
 
 | Elemento | RAV4 AWD | Crosstrek AWD | CX-5 AWD | Forester AWD | Honda CR-V 4x4 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Compra** | 🟢 Mucho más accesible que CR-V | 🟢 Accesible | 🟢 Más barato | 🟢 Accesible | 🔴 **$42,99 M lista** |
+| **Compra** | Accesible | 🟢 **Más barata** | Accesible | Accesible | 🔴 **$42,99 M lista** |
 | **Combustible homologado** | Bueno | Bueno | 🟢 Mejor mixto | Bueno | Bueno, pero peor que CX-5/Forester |
 | **Seguro** | Cotizar | Cotizar | Cotizar | Cotizar | Cotizar |
 | **Permiso circulación** | $554.812 ref. | $485.654 ref. | 🟢 $452.292 ref. | Pendiente | Pendiente |
